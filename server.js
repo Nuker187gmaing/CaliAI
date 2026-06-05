@@ -7,12 +7,12 @@ const Anthropic = require('@anthropic-ai/sdk');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+
 const MODEL_NAME = 'claude-haiku-4-5-20251001';
 const ALLOWED_ORIGIN = '*';
 const DOCS_FOLDER = __dirname;
 
-const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
+const anthropic = new Anthropic();
 
 // ============================================================
 // BLOCKED IPS / PREFIXES - anyone whose IP equals OR starts with an
