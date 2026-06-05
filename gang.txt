@@ -1,0 +1,278 @@
+CALIFORNIA ROLEPLAY GANG MANAGEMENT
+GANG COMMUNITY HANDBOOK
+Last Updated: 10/17/2025
+================================================================================
+
+SECTION 1 | INTRODUCTION
+================================================================================
+
+1.01 | EXPECTATIONS
+This document outlines the basic elements of the gang community, rules, structure,
+and guidelines to follow. The principles of the Gang Community are meant to act as
+guidance for quality of roleplay and to represent the Gang Community in the best
+manner.
+
+- Members must prioritize high-quality roleplay aligned with immersion, realism,
+  and creativity.
+- Actions taken by gang members must be justifiable within roleplay context, NOT
+  solely driven by personal gain or out-of-character motivations.
+- Players are responsible for maintaining a balance between hostile and passive RP,
+  ensuring all engagements remain fair, story-driven, and enjoyable for all parties.
+- Respect for server rules, staff, and other community members is a foundational
+  rule. Gang Roleplay does NOT excuse toxicity, harassment, or rule-breaking.
+- Members are held to a higher standard of conduct, both in-character and
+  out-of-character.
+
+--------------------------------------------------------------------------------
+1.02 | GANG COORDINATION
+Gang Coordinators play a critical role in maintaining structure, quality, and
+integrity of gang roleplay. Their responsibilities:
+- Supervise gang activity across their respective categories (street gangs, cartels,
+  motorcycle clubs, crime families, militias).
+- Ensure consistency, creativity, and adherence to server standards.
+- Actively participate in roleplay when appropriate; offer guidance and support.
+- Facilitate engaging storylines that benefit the larger community.
+- Serve as liaisons between individual gangs and Gang Management.
+- Assist gang leadership with administrative duties.
+- Help interpret and enforce community guidelines.
+- Step in to resolve disputes or concerns before they escalate.
+- Revoke invalid punishments and reinstate unjust terminations (subject to Gang
+  Coordination Structure).
+
+--------------------------------------------------------------------------------
+1.03 | CHAIN OF COMMAND
+  Gang Overseer          - Oversees community operations; final authority
+  Gang Director          - Handles day-to-day operations
+  Assistant Gang Director - Assists the Gang Director with gang operations
+  Gang Manager           - Serves as lead for Gang Coordinators
+  Assistant Gang Manager  - Serves as lead of category
+  Senior Gang Coordinator
+  Gang Coordinator
+  Trial Gang Coordinator
+
+================================================================================
+SECTION 2 | GANG GUIDELINES
+================================================================================
+
+2.01 | GANG RECRUITMENT
+Gangs can be joined in-game or through Discord. The recruitment-hub channel in the
+Gang Community Discord lists all joinable gangs.
+
+CATEGORY LIMITS - You may be in a MAXIMUM of 4 gangs across the 4 categories:
+  - 1 Cartel OR Militia (cannot be in both at the same time)
+  - 1 Motorcycle Club
+  - 1 Crime Family
+  - 1 Street Gang
+
+You CANNOT be in 2+ gangs within the same category (e.g., 2 cartels, 2 MCs, etc.)
+
+PAROLE SYSTEM - If you leave a gang:
+- Below High Command: 3 days of parole for that category
+- High Command: 5 days of parole for that category
+- Parole applies per category (e.g., leaving a cartel = Cartel/Militia parole)
+- It is the duty of gang command to verify recruits are not on active parole.
+
+--------------------------------------------------------------------------------
+2.02 | GANG TIERS
+Gangs are divided into tiers determined by the Gang Management Team, based on:
+stature, activity, tenure, quality of roleplay, and experience.
+
+TIER 3: Highest tier — top of each category; should be most feared.
+TIER 2: Mid tier.
+TIER 1: Entry tier — new gangs. A Tier 1 gang should NOT provoke or raid Tier 3 gangs.
+
+TIER 3 PERK: High Command of Tier 3 gangs may clock-in as staff while on as that
+gang. This privilege can be removed for abuse of staff permissions.
+
+FEAR HIERARCHY TABLE (rows = tier, columns = category):
+  Tier 3 Cartels/Militias > Tier 3 MCs > Tier 3 Crime Families > Tier 3 Street Gangs
+  Tier 2 Cartels/Militias > Tier 2 MCs > Tier 2 Crime Families > Tier 2 Street Gangs
+  Tier 1 Cartels/Militias > Tier 1 MCs > Tier 1 Crime Families > Tier 1 Street Gangs
+
+If a gang is ABOVE you in this hierarchy, they should be feared. If you are on the
+same row, you are of equal stature and fear does not apply.
+
+--------------------------------------------------------------------------------
+2.03 | GANG ACTIVITY AND REQUIREMENTS
+MINIMUM ACTIVITY: 100 hours per month to maintain gang status.
+- New gangs receive a 1 calendar month grace period before requirements are enforced.
+- Falling below 100 hours = inactivity warning (valid for 14 days).
+- If activity not increased after warning = gang shutdown (slot, tag, and free
+  locations forfeited).
+
+MERGING:
+- Gangs may merge after a 30-day cooldown from launch.
+- NO merges within 30 days of launching.
+- Upon merging: highest position offered is the highest supervisor (non-command) rank.
+- No command positions offered in merges.
+- Gang owner forfeits gang slot, gangtag, and free locations upon merging.
+
+GANG STRIKE SYSTEM (strikes issued for 30 days):
+  Gang Strike #1 - Suspension of Clock-In Permissions (Tier 3)
+  Gang Strike #2 - Demotion / Suspension
+  Gang Strike #3 - Gang Shutdown
+
+Determination of gang strikes is at the discretion of Gang Management (individual
+member vs. whole gang punishment based on command involvement).
+
+--------------------------------------------------------------------------------
+2.04 | RANK GUIDELINES
+Gangs MUST adhere to these rank guidelines. Violations result in severe punishment
+for the command member responsible, and potentially the whole gang.
+
+INSTATEMENT LIMIT: Highest rank anyone can be instated WITHOUT Gang Coordinator
+approval is the highest non-command rank.
+
+TIME IN RANK REQUIREMENTS:
+  Supervisor rank:  Must wait 7 days before eligible for promotion
+  Low Command rank: Must wait 14 days before eligible for promotion to High Command
+
+- Failure to follow time-in-rank requirements = member demoted back down with rank
+  reset + punishment for the command member who made the movement.
+- Placements into command from reserves require Gang Coordination Team approval.
+- New/starting gangs have 30 days from initial launch to fill command ranks without
+  approval.
+
+RANK DEFINITIONS (for standardization):
+  High Command: Ranks 00-05
+  Low Command:  Ranks 06-10
+
+DISCORD NAME PREFIXES:
+  High Command: may have # before the name
+  Low Command:  may have $ before the name
+
+Subdivisions are subject to approval by the Gang Coordination Team and names must
+comply with TOS standards.
+
+--------------------------------------------------------------------------------
+2.05 | GANG TRANSFERS
+Transfers are open 24/7, handled by the Gang Coordination Team through the ticket
+system in the Gang Discord.
+
+TRANSFER RULES:
+- You can ONLY transfer between gangs within your category division:
+  (Cartels/Militias, Motorcycle Clubs, Crime Families, Street Gangs)
+- NO transfers between different category divisions (e.g., Cartel to Street Gang).
+
+TRANSFER RANK DEMOTION TABLE:
+  (Rows = Originating gang tier | Columns = Target gang tier)
+
+  Originating Tier 3 -> Target Tier 3: 1 rank demotion
+  Originating Tier 3 -> Target Tier 2: 0 rank demotion
+  Originating Tier 3 -> Target Tier 1: 0 rank demotion
+  Originating Tier 2 -> Target Tier 3: 2 rank demotion
+  Originating Tier 2 -> Target Tier 2: 1 rank demotion
+  Originating Tier 2 -> Target Tier 1: 0 rank demotion
+  Originating Tier 1 -> Target Tier 3: 3 rank demotion
+  Originating Tier 1 -> Target Tier 2: 2 rank demotion
+  Originating Tier 1 -> Target Tier 1: 1 rank demotion
+
+NOTE: Command transfers are at the discretion of Gang Coordination and the target
+gang's High Command; the above table does NOT apply to command transfers.
+
+TRANSFER REQUIREMENTS:
+  - 30 days in current gang
+  - Must be active within current gang
+  - No severe punishment history
+  - No active punishments
+  - Cannot be the first rank in your gang
+
+================================================================================
+SECTION 3 | GANG INTERACTIONS
+================================================================================
+
+3.01 | GANG ALLIANCES
+Limitations are placed on gang alliances to maintain balance, promote diverse
+roleplay, and prevent power-stacking.
+
+KEY RULES:
+- All gang relationships MUST be formally defined in the Gang Relations system in
+  the Gang Discord using /relations set by Gang High Command.
+- Informal or undeclared alliances are NOT recognized in RP or staff review.
+- Cartels and Militias that ally with Street Gangs may NOT interject or assist in
+  street-gang related beef (turf wars, retaliations, shootouts, backup).
+- Cross-category alliances may exist for political, economic, or narrative RP, but
+  they do NOT override category boundaries.
+
+DEFENSIVE ALLIANCES (within same category):
+- Multiple gangs within the same category may temporarily ally to withstand pressure
+  from a higher-level or higher-tier category.
+  Example: Two Street Gangs may ally defensively against an MC or Militia.
+- These alliances may NOT be used offensively or within their own category.
+- Two Tier 3 Street Gangs may NOT use an alliance to dominate or bully another
+  Street Gang of similar or lower tier.
+- Same-category alliances should exist to BALANCE power, not to exploit it.
+
+RIVALRIES:
+- Must be consistent, ongoing, and reflective of declared relationships and tier
+  hierarchy.
+- Lower-tier gangs engaging higher-tier gangs must do so realistically with proper
+  RP justification or alliances.
+
+COMMANDS:
+- /relations set  - Declare alliance/rivalry (High Command only)
+- /relations view  - View current relationships (any gang member)
+
+Failure to properly declare alliances, bypass restrictions, or use alliances to
+power-stack may result in administrative action.
+
+--------------------------------------------------------------------------------
+3.02 | BEEF STAGES
+Gang interactions are determined by their relationship stage. Gangs MUST progress
+through stages in order — jumping to a higher stage without going through previous
+stages is NOT permitted.
+
+Beef stages are discussed in the #beef-request channel between the High Command of
+both gangs before being made official and approved by the Gang Coordination Team.
+
+CARTELS & MILITIAS BEEF STAGES:
+
+Stage 1:
+  - Violent aggression
+  - Use of weapons (within gun rules)
+  - Raiding properties (5 minutes prior RP required)
+  - All raids are boots on ground
+  - Allies CANNOT be involved
+  - Must remain in Stage 1 for 1 week
+
+Stage 2:
+  - Violent aggression
+  - Use of weapons (within gun rules)
+  - Raiding all properties (with GME)
+  - Allies CANNOT be involved
+  - Boots-on-ground subject to agreement by both parties
+  - Must remain in Stage 2 for 1 week
+
+Stage 3:
+  - Free locations can be put up for grabs at turf wars (must be agreed by both)
+  - All-out war
+  - Boots-on-ground subject to agreement by both parties
+  - KOS on sight (if marked)
+  - Allies CAN be involved
+
+--------------------------------------------------------------------------------
+CRIME FAMILIES, STREET GANGS & MOTORCYCLE CLUBS BEEF STAGES:
+
+Stage 1:
+  - Verbal aggression
+  - Melee weapons
+  - Theft of assets (outside of gang properties)
+  - Allies CANNOT be involved
+  - Must remain in Stage 1 for 1 week
+
+Stage 2:
+  - Violent aggression
+  - Use of weapons (within gun rules)
+  - Raiding properties
+  - All conflicts are boots-on-ground (NO shooting from inside a vehicle)
+  - Allies CANNOT be involved
+  - Must remain in Stage 2 for 1 week
+
+Stage 3:
+  - Free locations can be put up for grabs at turf wars (must be agreed by both)
+  - All-out war
+  - Boots-on-ground subject to agreement by both parties
+  - Kill on sight (if marked)
+  - Allies CAN be involved
+
+================================================================================

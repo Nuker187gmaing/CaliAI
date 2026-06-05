@@ -1,0 +1,297 @@
+CALIFORNIA ROLEPLAY - SAN ANDREAS TASK FORCE (SATF)
+STANDARD OPERATING PROCEDURE (SOP)
+Document Code: SOP-SATF-001 | Clearance Level: Department-Wide
+Effective Date: April 11, 2026
+================================================================================
+
+1. PURPOSE
+================================================================================
+This SOP establishes the policies, structure, and operational standards for all
+personnel within the San Andreas Task Force (SATF). All members are required to
+understand and comply with this SOP at all times.
+
+================================================================================
+2. MISSION STATEMENT
+================================================================================
+The San Andreas Task Force (SATF) is a statewide law enforcement agency
+responsible for:
+- Major crime enforcement
+- High-risk tactical operations
+- Organized crime investigations
+- Public safety and interagency support
+
+"To protect the State of San Andreas through discipline, professionalism, and
+teamwork."
+
+================================================================================
+3. JURISDICTION & AUTHORITY
+================================================================================
+- SATF operates statewide with full jurisdiction.
+- May operate across all cities and counties.
+- Works alongside other agencies when required.
+- Must follow all server and roleplay regulations.
+
+================================================================================
+4. LEADERSHIP STRUCTURE (HIGH COMMAND)
+================================================================================
+  Director          P. Lallero   - Head of Patrol Operations
+  Deputy Director   J. Peter     - Head of Activity
+  Assistant Director N/A         - Head of Subdivisions
+  Chief             J. Rizz      - Head of Field Training
+  Assistant Chief   K. Johanson  - Head of Recruitment
+
+================================================================================
+5. RANK STRUCTURE
+================================================================================
+
+HIGH COMMAND:
+  Director
+  Deputy Director
+  Assistant Director
+  Chief
+  Assistant Chief
+
+LOW COMMAND:
+  Colonel
+  Lieutenant Colonel
+  Captain
+  Commander
+
+SUPERVISORY COMMAND:
+  1st Lieutenant
+  2nd Lieutenant
+  Master Sergeant
+  Staff Sergeant
+  Sergeant
+
+OPERATIVE RANKS:
+  Master Corporal
+  Senior Corporal
+  Corporal
+  Master Officer
+  Senior Officer
+  Officer
+  Officer in Training
+
+================================================================================
+6. CHAIN OF COMMAND
+================================================================================
+- Orders are to be followed from higher-ranking personnel.
+- Do not bypass the chain of command.
+- All issues must be reported upward.
+
+================================================================================
+7. SUBDIVISIONS
+================================================================================
+  SFO   - Special Field Operations (Tactical)
+  ACHD  - Air, Coastal & Heat Division
+  K9    - Canine Operations
+  SIU   - Special Investigations Unit
+  GIU   - Gang Investigation Unit
+  ESU   - Emergency Service Unit (TEMS)
+
+SUBDIVISION ENTRY REQUIREMENTS:
+- Completion of required training.
+- Required certifications.
+- Command approval.
+
+================================================================================
+8. CODE OF CONDUCT
+================================================================================
+All personnel must:
+- Maintain professionalism at all times.
+- Follow all SOPs and orders.
+- Avoid powergaming and metagaming.
+- Represent SATF with integrity.
+
+VIOLATIONS (PROGRESSIVE):
+  Verbal Warning
+  Strike
+  Suspension
+  Termination
+
+================================================================================
+9. DUTY STATUS
+================================================================================
+
+ON DUTY:
+  Command: /duty
+  Radio:   10-41 (On Duty) / 10-8 (Available)
+
+OFF DUTY:
+  Command: /duty
+  Radio:   10-42 (Off Duty) / 10-7 (Unavailable)
+
+================================================================================
+10. RADIO & DISPATCH POLICY
+================================================================================
+- Use clear and concise communication.
+- Identify with callsign before speaking.
+- Report: traffic stops, pursuits, and emergencies.
+
+RESPONSE CODES:
+  Code 1 - Normal Response
+  Code 2 - Lights Only
+  Code 3 - Lights & Sirens
+  Code 4 - Scene Secure
+  Code 5 - High Risk / Felony Stop
+
+================================================================================
+11. CAD POLICY
+================================================================================
+- All calls, reports, and actions must be logged.
+- No false or misleading entries.
+- Do not share CAD access.
+
+================================================================================
+12. USE OF FORCE POLICY
+================================================================================
+Force must always be:
+- Necessary
+- Reasonable
+- Proportional
+
+FORCE LEVELS:
+  1. Officer Presence
+  2. Verbal Commands
+  3. Control Techniques
+  4. Less-Lethal
+  5. Deadly Force
+
+================================================================================
+13. DEADLY FORCE POLICY
+================================================================================
+Deadly force is authorized ONLY when ALL THREE conditions are met:
+- Capability: Does the subject have the capability to harm you or others?
+- Opportunity: Does the subject have the opportunity to harm you or others?
+- Intent: Does the subject have the intent to harm you or others?
+
+================================================================================
+14. MIRANDA RIGHTS
+================================================================================
+Miranda must be read when a suspect is IN CUSTODY AND being questioned.
+
+================================================================================
+15. TACTICAL PROCEDURES
+================================================================================
+
+10-11 TRAFFIC STOP:
+- Call out location and vehicle.
+- Position safely.
+- Approach with caution.
+- Observe occupant behavior.
+
+CODE 5 (FELONY STOP):
+- Wait for backup.
+- Draw weapons if necessary.
+- One officer gives commands.
+- Remove occupants one at a time.
+
+10-80 VEHICLE PURSUIT:
+- Call out direction, speed, and vehicle.
+- Maintain safe distance.
+- Follow supervisor instructions.
+
+10-70 FOOT PURSUIT:
+- Call out direction and description.
+- Maintain visual contact.
+- Request backup.
+
+================================================================================
+16. BASIC LIFE SUPPORT (BLS)
+================================================================================
+- Check injured individuals.
+- Control bleeding.
+- Stabilize condition.
+- Request ESU / EMS.
+
+================================================================================
+17. WEAPON POLICY
+================================================================================
+
+AUTHORIZED WEAPONS:
+
+Melee:
+  - Knife
+  - Baton
+  - Flashlight
+
+Firearms:
+  - Combat Pistol
+  - Carbine Rifle
+  - Pump Shotgun
+  - Bean Bag Shotgun
+
+- No unauthorized weapons permitted.
+- All use must follow Use of Force policy.
+
+================================================================================
+18. VEHICLE & UNIFORM POLICY
+================================================================================
+- Vehicles and uniforms accessed via /org.
+- Based on rank and assignment.
+- Unauthorized usage is prohibited.
+
+PLATE FORMAT: [Callsign]STF[Badge Number]
+Example: 01STF101
+
+================================================================================
+19. RADAR & PLATE READER POLICY
+================================================================================
+- Must be used for valid RP purposes only.
+- No random scanning.
+- Must be tied to active situations.
+
+================================================================================
+20. ACTIVITY REQUIREMENTS
+================================================================================
+- Minimum 5 hours per week.
+- Attend scheduled trainings.
+- Participate in operations.
+
+================================================================================
+21. LEAVE OF ABSENCE (LOA)
+================================================================================
+- Must be submitted to supervisor.
+- Include reason and duration.
+- Failure to return may result in discipline.
+
+================================================================================
+22. DISCIPLINE SYSTEM
+================================================================================
+STRIKE SYSTEM:
+  1. Verbal Warning
+  2. Written Warning
+  3. Suspension
+  4. Termination
+
+================================================================================
+23. PROMOTIONS
+================================================================================
+Promotions are based on:
+- Activity
+- Performance
+- Leadership
+- SOP knowledge
+
+================================================================================
+24. IDENTIFICATION POLICY
+================================================================================
+- Use callsigns at all times.
+- Identify by rank and name.
+- Wear proper uniform.
+
+================================================================================
+25. RTO (RADIO ETIQUETTE)
+================================================================================
+- Keep communication short and clear.
+- Avoid unnecessary chatter.
+- Emergency traffic has priority.
+
+================================================================================
+26. FINAL STATEMENT
+================================================================================
+This SOP defines the operational standard of SATF.
+"Discipline, structure, and professionalism define every operation."
+
+================================================================================

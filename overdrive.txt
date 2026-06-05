@@ -1,0 +1,274 @@
+OVERDRIVE | STANDARD OPERATING PROCEDURES
+================================================================================
+
+SECTION 1.0 | INTRODUCTION
+================================================================================
+Overdrive is a passive car club business designed to bring together car enthusiasts
+for organized events within the city.
+
+Members will have the opportunity to drive unique and custom vehicles provided by
+the business founders. In addition to casual cruising, we host street takeover events,
+where we temporarily close off roads to showcase our vehicles, perform controlled
+drifts, and create an exciting, immersive experience.
+
+We may also engage in street racing scenarios, along with police pursuits, to enhance
+the thrill of the experience.
+
+Overdrive aims to be a dynamic hub for car enthusiasts to connect, share their passion
+for vehicles, and participate in immersive automotive roleplay.
+
+We also include mechanic roleplay elements to foster deeper interaction with the
+community and add realism to the club's activities.
+
+================================================================================
+SECTION 2.0 | CHAIN OF COMMAND
+================================================================================
+
+OVERSEERS:
+  [00] The Founder       - Nik C.
+  [00] The Co-Founder    - Key Glock
+  [00] The Foreman       - Turner
+
+HIGH COMMAND:
+  [01] The Director          - Ryan / Kase
+  [02] The Assistant Director - Kane / LC Apple
+  [03] The Chairman          - Jason C. / Vacant
+  [04] The President         - Sqweeble / Johnny Cocks
+  [05] The Vice President    - Kudden / Ocean
+
+LOW COMMAND:
+  Executive Manager
+  Manager
+
+SUPERVISORS:
+  Street Racer
+
+NON-SUPERVISORS:
+  No Hesi
+  Speed Terrorizer
+  Street Demon
+  Driver
+
+================================================================================
+SECTION 3.0 | ROLEPLAY
+================================================================================
+When active as Overdrive, expect to do some car cruises, car meets, drift meets,
+street racing, and some street takeovers.
+
+We also provide the opportunity to do mechanic role-play. All mechanical roleplay
+must be strictly passive. This means no shortcuts, unrealistic behavior, or breaking
+immersion.
+
+We take pride in our driving abilities, custom and unique car designs, and roleplay
+capabilities. Ensure that you are properly following all Business, Verified Civilian,
+as well as CaliRP community rules while on duty.
+
+--------------------------------------------------------------------------------
+SECTION 3.1 | LOCATIONS
+--------------------------------------------------------------------------------
+We have a wide variety of locations to enhance your role-play opportunities, ranging
+from mechanic shops to work on our vehicles, parking lots and garages for car meets,
+and even locations for street and circuit racing.
+
+A list of all Overdrive locations can be found in the Overdrive Discord.
+
+When using one of our listed locations, you MUST use the appropriate premade GMEs.
+GMEs can be located within the "Locations-and-gmes" channel within our Discord,
+and also in Section 5.0 of this SOP.
+
+================================================================================
+SECTION 4.0 | RULES & ROLEPLAY GUIDELINES
+================================================================================
+While On Duty, you are required to follow all server and business rules.
+
+WEAPONS POLICY:
+- You are NOT to use weapons under ANY circumstances, as we are a passive business.
+- Exception ONLY: Handpicked members who have received the "Gun certification" role.
+  This may ONLY be used for self-defense if another civilian poses an immediate threat
+  to your life and you are unable to de-escalate. ABSOLUTE LAST RESORT.
+- You may NOT use ANY weapon against non-civilian personnel.
+  This includes LEO / DOD / EMS / FD / Peace Officers.
+- You may NOT discharge your firearm at LEO/Peace Officers.
+  Doing so will result in IMMEDIATE termination and possible BLACKLISTING from Overdrive.
+
+LEO PURSUIT GME REQUIREMENT:
+When initiating a chase with an LEO/Peace Officer, you MUST make the following GME:
+  /gme ^*~r~Overdrive ~w~member is planning on fleeing from police while being pulled over
+
+--------------------------------------------------------------------------------
+SECTION 4.0 EXTENDED | ADDITIONAL RULES & ROLEPLAY GUIDELINES
+--------------------------------------------------------------------------------
+- Always listen to your superiors and follow their instructions.
+- Ensure you are already inside the RTO BEFORE doing /job to go on duty. Never
+  leave the in-game radio while clocked in.
+- While on duty, your name within the Business Discord MUST have your Overdrive
+  Callsign. Your in-game radio name must match accordingly for identification purposes.
+- Do NOT spawn in vehicles or repair them in the middle of the road. This is
+  unrealistic and a display of poor roleplay.
+- Although we are a car club that does races, ALWAYS drive realistically.
+- Do NOT speed unrealistically, ramp off hills, or engage in GTA Driving.
+  All of these are prohibited by our guidelines.
+
+Failure to abide by all Department, Business, and Server Rules will result in
+disciplinary action.
+
+--------------------------------------------------------------------------------
+SECTION 4.1 | UNIFORM, VEHICLE, & NAME GUIDELINES
+--------------------------------------------------------------------------------
+UNIFORMS:
+- Overdrive does not have a uniform requirement (exception: on-duty mechanic).
+- You are prohibited from wearing outfits that poorly reflect on the group.
+  This includes troll outfits or anything against CaliRP guidelines/server rules.
+
+VEHICLES:
+- You may drive any vehicle so long as it reflects the current roleplay the group
+  is engaged in.
+  Example: If we are doing street racing, do NOT pull up in an offroad truck.
+
+NAME FORMAT:
+Once accepted into Overdrive, your name in the Overdrive Discord will be set as:
+  OD-XXX | Name
+
+It is YOUR responsibility to copy this format to your displayed name in the
+Businesses Discord.
+
+RTO PREFIX BY RANK (ONLY to be used by the listed rank):
+  ! - High Command
+  # - Low Command
+  $ - Supervisor
+
+================================================================================
+SECTION 5.0 | PREMADE GMEs
+================================================================================
+
+MECHANIC RP GME:
+/gme ^8Overdrive Mechanic Shop ^0is currently open at ^5[postal], ^0for any vehicle
+repairs, resprays and much more! If interested, please make your way down to
+^5[postal] ^0for some top quality service. [PASSIVE RP]
+
+CAR MEET GME:
+/gme ^8Overdrive ^0are currently hosting a car meet at ^5[postal], ^0if interested
+in taking part then pull up and show off your cool rides.
+
+CAR CRUISE GME:
+/gme ^8Overdrive ^0are currently hosting a car cruise at ^5[postal], ^0we will be
+starting in 5 minutes. If interested then start making your way down here.
+
+STREET RACING GME:
+/gme ^8Overdrive ^0are currently hosting street races at ^5[postal], ^0if interested
+in participating in some street racing then pull up and we'll set up some cool and
+fair races.
+
+STREET TAKEOVER GME:
+/gme ^8Overdrive ^0are currently doing a street takeover at ^5[postal], ^0and are
+partaking in some illegal drifts. [LEO Notified]
+
+RECRUITMENT MESSAGE GME:
+/gme ~b~ Overdrive ~r~ is now recruiting at [postal]! ~b~ What we offer: ~g~
+Custom Made Personals, TMC Tiers, Active Command Team, ~r~ and so much more!
+~b~ Our team strives to bring fun and excitement from its members. ~m~ We host
+events such as car meets, races, and takeovers and we take suggestions for more!
+~b~ Overdrive ~r~ is looking for you! ~y~ Don't waste any time. ~p~ Come down
+[postal] to join today!
+
+LEO MESSAGE GME:
+/gme ^*~r~Overdrive ~w~member is planning on fleeing from police while being
+pulled over ~b~[Normal]
+
+================================================================================
+SECTION 6.0 | ACTIVITY EXPECTATIONS & PROMOTIONAL GUIDELINES
+================================================================================
+
+RANK PROMOTION REQUIREMENTS:
+
+Driver -> Street Demon:
+  - 7 Days Time In Rank
+  - 2 Hours Weekly to stay active
+  - 3 Hours Weekly For Promotion Eligibility
+
+Street Demon -> Street Terrorizer:
+  - 14 Days In Rank
+  - 4 Hours Weekly to stay active
+  - 5 Hours Weekly For Promotion Eligibility
+
+Street Terrorizer -> No Hesi:
+  - 14 Days Time In Rank
+  - 7 Hours Weekly to stay active
+  - 9 Hours Weekly For Promotion Eligibility
+
+No Hesi -> Street Racer:
+  - 21 Days Time In Rank
+  - 10 Hours Weekly to stay active
+  - 12 Hours Weekly For Promotion Eligibility
+  - Handpicked By High Command
+
+Street Racer+:
+  - Promotions are determined by High Command / Founders
+
+--------------------------------------------------------------------------------
+SECTION 6.1 | DISCIPLINARY GUIDELINES
+--------------------------------------------------------------------------------
+1st Infraction - Formal Warning
+2nd Infraction - Demotion + Strike
+3rd Infraction - Termination
+
+================================================================================
+SECTION 7.0 | GETAWAY DRIVERS
+================================================================================
+Overdrive members holding the rank of Street Demon+ are allowed to be hired as
+getaway drivers.
+
+If while clocked on as Overdrive you wish to be hired, you will make an appropriate
+/gme and inform the hiring party to call you on your in-game phone number.
+A template GME for this can be found in the Overdrive Discord.
+
+================================================================================
+SECTION 7.1 | DRUG TRANSPORTATION
+================================================================================
+This type of roleplay is intended to assist gangs.
+Members at the rank of Street Terrorizer+ may partake in this type of RP.
+
+Rules:
+- Do NOT insult gangs or create any type of beef with them.
+- Overdrive holds NO preference towards any specific gang; we only get paid
+  occasionally to do certain deliveries.
+- Post a /gme when you wish to do this type of RP; if a gang member responds
+  saying they need you, you may go to it.
+- Pricing and partnerships are to be determined by the command team.
+
+================================================================================
+SECTION 7.2 | CORRUPT MECHANIC
+================================================================================
+Overdrive members holding the rank of No Hesi+ are allowed to do this type of RP.
+
+How it works:
+- Go to a random mechanic shop that is NOT one we mainly use.
+- Post /gme to get clients.
+- Strip a good part from the client's vehicle and replace it with the same part
+  but less durable (all actions posted in a /gme).
+- If the client starts questioning you, make up excuses (e.g., "it's a new part,"
+  "I saw it needed replacing," etc.).
+- The stolen parts are to be deep cleaned in RP and placed in storage to be used
+  for our non-corrupt mechanic shop.
+
+If done correctly, there should be no issues with cops or clients.
+- If police are called: try to reason with them and diffuse the situation.
+  Do NOT run on foot; you must surrender unless you can flee in a vehicle.
+- If a client metagames: clip it, and after the scene report the user to staff.
+
+================================================================================
+SECTION 7.3 | TOPIC 7 - IMPORTANT RULES & GUIDELINES
+================================================================================
+For ALL topics in Section 7:
+
+- If police catch you, you MAY run in your vehicle as long as server rules and
+  Overdrive rules are followed at all times.
+- If your vehicle is disabled, you MUST surrender.
+- At NO POINT are ANY weapons to be used against LEO / EMS / FD / DOD or
+  Peace Officers.
+- Weapons may ONLY be used against civilians in SELF DEFENSE SCENARIOS ONLY.
+
+================================================================================
+Edited/Updated By: Nik C. & Ryan
+Date of Effect: 5/19/2026
+================================================================================

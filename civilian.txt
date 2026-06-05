@@ -1,0 +1,43 @@
+CALIRP CIVILIAN PUNISHMENT GUIDELINES
+
+IN-GAME OFFENSES:
+RDM: 1st Jail 900s → 2nd 12h Ban → 3rd 3d Ban
+VDM: 1st Jail 900s → 2nd 12h Ban → 3rd 3d Ban
+Breaking Priority Cooldown: 1st Jail 300s → 2nd Kick → 3rd 1d Ban
+Mass RDM (3+): 1st 1w Ban → 2nd 2w Ban → 3rd 30d Ban
+Mass VDM (3+): 1st 1w Ban → 2nd 2w Ban → 3rd 30d Ban
+FailRP: 1st Kick → 2nd 2h Ban → 3rd 3d Ban
+No Intent to RP: 1st Kick → 2nd 6h Ban → 3rd 3d Ban
+Unrealistic Driving: 1st Jail 600s → 2nd Jail 600s → 3rd 3d Ban
+Server Disrespect: 1st Kick → 2nd 3d Ban → 3rd 1w Ban
+Sexual RP: 1st 3d Ban → 2nd 1w Ban → 3rd Perm Ban
+Microphone Spamming: 1st Warning → 2nd Kick → 3rd 1d Ban
+Interfering With RP: 1st Jail 600s → 2nd 1h Ban → 3rd 1d Ban
+Ruining Livestream: 1st Kick → 2nd 1d Ban → 3rd 3d Ban
+Impersonating Staff: 1st 1w Ban → 2nd 30d Ban
+Harassment/Bullying: 1st 1d Ban → 2nd 3d Ban → 3rd 1w Ban
+Sexual Harassment: 1st 30d Ban → 2nd Perm Ban
+Derogatory Slurs: 1st 1w Ban → 2nd 2w Ban → 3rd 30d Ban
+Racial Slurs: 30d Ban
+Lying To Staff: 1st Kick → 2nd 1d Ban → 3rd 3d Ban
+LTAP/Combat Logging: 1st 3d Ban → 2nd 1w Ban
+Modding/Hacking: Permanent Ban
+Terrorist Events: 1st 1m Ban → 2nd Perm Ban
+
+IN-GAME CHAT OFFENSES:
+Spamming: 1st 300s Mute → 2nd 3h Ban → 3rd 1d Ban
+Death Threats: 30d Ban
+Server Advertising: Permanent Ban
+DDOS/Dox/SWAT: Permanent Ban (Unappealable)
+
+DISCORD OFFENSES:
+English Only: 1st Warning → 2nd 15m Mute → 3rd 6h Mute
+Chat Spam: 1st Warning → 2nd 30m Mute
+Racial Slurs: Permanent Ban
+Homophobic Slurs: 1st 12h Mute → 2nd 1d Mute → 3rd 3d Mute
+NSFW Content: Permanent Ban
+Death Threats: 30d Ban
+DDOS/Dox/SWAT: Permanent Ban (Unappealable)
+Server Advertisement: Permanent Ban
+Server Disrespect: 1st 3h Mute → 2nd Perm Ban
+Personal Information Leak: Permanent Ban (Unappealable)

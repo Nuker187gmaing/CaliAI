@@ -1,0 +1,327 @@
+CALIFORNIA ROLEPLAY - SAFR / EMS
+STANDARD OPERATING PROCEDURES
+Pride, Commitment, Honor.
+================================================================================
+
+TABLE OF CONTENTS
+  1.  Introduction / Mission Statement
+  2.  Chain of Command (COC)
+  3.  Rank Structure
+  4.  Misconduct Action & Clock-in Permissions
+  5.  Reinstatement Policy
+  6.  Inactivity / Leave of Absence (LOA)
+  7.  Radio Communication Policy
+  8.  Department Apparatus
+  9.  Uniforms
+  10. Driving Etiquette
+  11. Stationing
+  12. Call Allocation
+  13. Dispatch
+  14. Staging for 10-99s (Officer Down / EMS Down)
+  15. Incident Command
+  16. Paramedic / EMT-B Procedures
+  17. Fire Procedures
+  18. Passive Department Rules
+
+================================================================================
+1. MISSION STATEMENT
+================================================================================
+The Emergency Medical Services preserves life, promotes public safety, and
+fosters economic growth through a commitment to prevention, preparedness,
+response, and recovery as an all-risk life safety response provider.
+
+EMS Vision: To provide great Emergency Medical Services by being metric driven,
+technologically sophisticated, and community-focused while reflecting the people
+we serve.
+
+EMS CORE VALUES:
+- Service      - Dedication to our Community
+- Professionalism - Being professional within our community
+- Integrity    - Upholding moral and ethical conduct at all times
+- Respect      - Embracing diversity and recognizing individual worth
+- Innovation   - Taking creative risks to adapt and improve
+- Trust        - Reliance on the integrity, strength, and ability of our members
+
+OPERATING PRINCIPLES:
+1. Operate through Teamwork.
+2. Operate to Position the Department for the Future.
+3. Operate Ethically and with Integrity.
+
+================================================================================
+2. CHAIN OF COMMAND (COC)
+================================================================================
+Members of the EMS shall respect the chain of command at all times. In certain
+instances an immediate supervisor may bypass COC in an emergency, but this must
+not be abused. Failure to follow COC will result in punishment.
+
+================================================================================
+3. MISCONDUCT ACTION & CLOCK-IN PERMISSIONS
+================================================================================
+If an offense is committed, a Command member or Supervisor will reach out.
+Strikes do NOT automatically expire from your record. The Chief has the final
+say regarding punishment unless instructed otherwise.
+
+STRIKE POLICY:
+- Command members: no more than TWO strikes before being demoted one rank.
+- High Command members: no more than ONE strike before being demoted one rank.
+- If all ranks below are filled, the member may be assigned more than one rank
+  lower than their previous rank.
+
+SUSPENSION: If suspended, you are NOT allowed to go on-duty until your pending
+report/punishment is resolved, regardless of whether the punishment is a
+warning, strike, demotion, or termination.
+
+CLOCK-IN PERMISSIONS:
+- When clocking on-duty, be fully committed — do not clock in for 10-30 seconds
+  just to revive a friend or anyone else while not actually on-duty.
+- Clocking in solely to use revive permissions is Clock-in Abuse and may result
+  in a BLACKLIST from the department.
+- This is also a Global Bannable Offense.
+- If you or another player was killed for no reason, call for staff instead of
+  clocking on just to revive. The revive permission is for roleplay purposes
+  only.
+
+================================================================================
+4. REINSTATEMENT POLICY
+================================================================================
+Those who have retired may talk with EMS Administration about being reinstated.
+EMS Leadership follows section 7.2 (reserves/reinstatement) — read that section
+before submitting resignation or reserves requests.
+
+================================================================================
+5. LEAVE OF ABSENCE (LOA)
+================================================================================
+- An excused Paramedic may take a LOA due to illness, real-life difficulties,
+  computer problems, etc.
+- Maximum LOA: 30 days (must request permission from EMS Administration).
+- LOAs may NOT exceed 60 days total, or you will be encouraged to resign.
+- Paramedics inactive for one month without LOA (after a 2-week activity
+  warning) will be terminated but may be eligible for reinstatement.
+- You may NOT go on LOA for server-related reasons (another department, staff,
+  gangs, etc.).
+
+================================================================================
+6. RADIO COMMUNICATION POLICY
+================================================================================
+RTO should be quick and to the point at all times.
+
+CALLING A MEMBER DIRECTLY:
+  State their callsign, then yours: "1F-01 to 1F-03 direct"
+  Wait for them to say "go ahead" before transmitting your message.
+
+RESPONDING TO CALLS:    "[Callsign], Responding [postal]"
+ARRIVING AT MEDICAL:    "[Callsign], at scene"
+ARRIVING AT TC/FIRE:    "[Callsign], [fire callsign] at scene + brief description"
+
+RTO NAME FORMAT: [Unit activated as] | [Name] | [Callsign]
+Example: 1F-03 | ANGEL-1 | Huddy A.
+Callsigns must NOT be altered.
+
+================================================================================
+7. UNIFORMS
+================================================================================
+The EMS has multiple uniforms designed for the vehicle being operated and the
+call being responded to. Uniforms are found on the main EMS roster in
+correspondence to rank or apparatus being operated.
+
+================================================================================
+8. DRIVING ETIQUETTE
+================================================================================
+Driving must stay within the law at all times unless Code 3.
+
+RESPONSE CODES:
+  Code 1 - Standard traffic laws. No violations permitted.
+  Code 2 - No lights, no sirens, but emergent. Follow standard traffic laws
+           with a sense of urgency. ALL STAGING CALLS ARE CODE-2.
+  Code 3 - High priority, life-threatening. May break traffic regulations
+           with restrictions:
+             - EMS vehicle: never exceed 30 MPH above posted limit or 85 MPH.
+             - Large apparatus (Engine, Brush, Ladder): never exceed 75 MPH.
+             - All other vehicles (Sprint, Command, etc.): never exceed 100 MPH.
+             - You MUST yield at all intersections even while Code 3.
+
+================================================================================
+9. STATIONING
+================================================================================
+The Emergency Medical Services has 9 Stations & Hospitals — one fire department
+and hospital in each major area of the city.
+
+================================================================================
+10. CALL ALLOCATION
+================================================================================
+Unless there are multiple apparatuses of the same type, all units should respond
+to the latest and/or highest priority EMS-related call (except Medevac, Firehawk,
+or units told not to respond by the highest in RTO). If multiple units of the
+same type are available, only one should be appointed unless disclosed otherwise
+by the highest in RTO.
+
+================================================================================
+11. MEDICAL COMMANDS (/commands)
+================================================================================
+  /stretcher   - Spawns a stretcher
+  /fan         - Place a fan to redirect smoke
+  /stabiliser  - Hold vehicles in place
+  /saw         - Detaches doors off vehicles
+  /spreaders   - Detaches doors off vehicles (currently broken)
+
+================================================================================
+12. DISPATCH
+================================================================================
+When active dispatch is online, strict RTO immediately goes into effect:
+- Do NOT self-dispatch to any calls; wait until dispatched.
+- Do NOT ask permission to respond upon a call coming in — allow dispatch to
+  get situated and dispatch the correct number of units.
+- If dispatch does not dispatch anyone to a recent callout, you may then ask
+  for permission to respond.
+- While dispatch is active, your status MUST be marked and up to date in CAD.
+  Failure to do so will result in punishment.
+
+================================================================================
+13. STAGING FOR 10-99s (OFFICER DOWN / EMS DOWN)
+================================================================================
+- 10-99 (Officer Down) calls must be handled with caution.
+- You may ONLY move into a 10-99 scene if an officer enters your RTO and deems
+  the scene safe.
+- Otherwise, stage at least 5-6 blocks away from the scene.
+- Exception: Major Operations Division - Critical Response Unit personnel.
+
+================================================================================
+14. INCIDENT COMMAND
+================================================================================
+- Captains and above are authorized to take Incident Command upon arriving on
+  scene.
+- The Incident Commander may allocate specific units to certain tasks. All units
+  must answer to the scene's Incident Commander.
+- If someone of a higher rank arrives (First Lieutenant or higher), they have
+  authorization to take scene command.
+- Scene command may also transfer if the scene requires someone from a specific
+  subdivision (Major Operations Division, Fire & Rescue Division, Medevac &
+  Coroner Division, etc.).
+
+================================================================================
+15. PARAMEDIC / EMT-B PROCEDURES
+================================================================================
+
+PATIENT TREATMENT PRIORITY:
+- Treat the most critically injured patient first, regardless of occupation or
+  criminal record. If a hurt officer and a critically injured suspect are on
+  scene, treat the suspect first as they have a lower chance of survival.
+
+RIGHT TO REFUSE TREATMENT:
+- Patients have the right to refuse treatment and transportation.
+- Inform them of the risks if they refuse.
+- If the patient refuses without a guardian present, determine if they are in
+  the right state of mind (ask: "What day is it?", "When is your birthday?",
+  "What's your name?").
+
+TRANSPORTING - PRIORITY LEVELS:
+  Priority 1: Patient unstable/life-threatening. Use lights AND sirens.
+  Priority 2: Transport urgent, patient stable but may worsen. Use lights;
+              sirens only in heavy traffic.
+  Priority 3: Minor injuries, no life-threatening conditions. Follow all
+              traffic laws; no lights, no sirens.
+
+NOTIFYING RTO OF A TRANSPORT:
+
+  SECTION 1 (Only while dispatch is active):
+  Ask if dispatch is ready: "Rescue-10 with priority [1/2/3] traffic when ready"
+  Dispatch will say "Standby" or "Go-ahead." Once permitted, transmit:
+    - Apparatus, priority of transport, patient description, chief complaint,
+      and destination hospital.
+
+  SECTION 2 (Required at ALL times during transport):
+  Example: "Show Rescue-10 transporting 1 patient, priority 1, White Male,
+  early 20s, chief complaint is going to be 1 GSW to the abdomen, to Sandy
+  Shores Medical Center."
+
+TRANSPORTING A SUSPECT:
+- Suspect MUST be searched by a LEO before getting on the stretcher.
+- Officers must accompany you back to the hospital (trailing or riding in back).
+
+ARRIVING AT THE HOSPITAL:
+- Remove patient from vehicle, take them in on the stretcher.
+- Interact with stretcher and select "check patient in to hospital."
+- Select the lowest time unless EMS Command instructs differently.
+- LEO are NOT at liberty to instruct check-in time.
+- If suspect is being hospitalized, find their bed and bring LEO so the suspect
+  can be taken into law enforcement custody.
+
+================================================================================
+16. FIRE PROCEDURES
+================================================================================
+
+FIRE TYPES:
+  Normal fire    - Extinguish with water or fire extinguisher.
+  Chemical fire  - Green tint. Use foam hose (water INCREASES size) or
+                   fire extinguisher.
+  Electrical fire - "Lightning bolts" visible. Use foam hose (water INCREASES
+                   size) or fire extinguisher.
+
+ARRIVING ON SCENE:
+- Put on "Turnout SCBA" gear before approaching any hazards.
+- Perform a full 360-degree assessment of the fire.
+- Determine fire type and whether to use foam or water.
+- Keep all civilians and LEO away. They may not assist unless specifically
+  asked by EMS.
+
+USING AN ATTACK LINE (HOSE):
+- Walk up to Engine, Ladder/Ladders, Brush-3841, LB-3387, or FR-10 and select
+  "Pickup Fire Hose."
+- Three hose settings (cycle with UP ARROW KEY):
+    1. Water Gun
+    2. Pressurized Water Gun
+    3. Foam Gun (Brush-3841 & LB-3387 do NOT have foam)
+- WARNING: This hose is strong enough to move a car. DO NOT SPRAY PEOPLE.
+
+TANK DURATIONS (continuous spray until empty):
+  ENGINE:              1 min 47 sec
+  LADDER-10/LADDER-39: 2 min 8 sec
+  BRUSH-3841:          2 min 40 sec  (NO FOAM)
+  FR-10:               2 min 40 sec
+  LB-3387:             2 min 40 sec  (NO FOAM)
+
+TANK METER (bottom left of screen while holding hose):
+  Green  = Full tank
+  Yellow = Half full
+  Red    = Empty or near empty
+
+REFILLING / SUPPLY LINE:
+- Park apparatus next to the nearest fire hydrant, turn lights on.
+- Exit vehicle, walk up to hydrant, select "Pickup Fire Hose."
+- Walk to apparatus and select "Attach Hydrant Hose."
+- Tank refills in ~15 seconds.
+- If attached to a hydrant while on a fire scene: INFINITE water.
+
+10-50 INCIDENTS (MOTOR VEHICLE ACCIDENT):
+- Block all incoming traffic from the accident upon arrival.
+- Assess situation: how many individuals involved? Are patients trapped?
+- Determine hazards via /me: "Checks to see if the vehicle is
+  leaking/smoking WDIS?"
+- If vehicle is an active fire threat, determine cause and extinguish with foam
+  hose or fire extinguisher.
+- For serious accidents, use /spreaders (Jaws of Life) to remove doors.
+- NEVER remove an occupant from a vehicle without an EMT or Paramedic's
+  permission.
+
+================================================================================
+17. GENERAL DEPARTMENT PROCEDURES
+================================================================================
+- All EMS personnel should open a department report on those who respawn on
+  them during medical RP (this is FailRP). Evidence must be recorded and
+  submitted.
+- Trainees must NOT clock in before training. First offense: Strike.
+  Second offense: Termination.
+- Correct rank badge, uniform, and vehicles are MANDATORY at all times.
+
+================================================================================
+18. PASSIVE DEPARTMENT RULES
+================================================================================
+EMS is a passive department. This means:
+- You should NOT have any weapons on your person.
+- You should NOT be aggressive towards anyone.
+- You should NOT shoot people with water.
+- If attacked, call for Staff.
+- EMS is NOT to participate, interfere, or otherwise get involved in LEO
+  pursuits.
+
+================================================================================

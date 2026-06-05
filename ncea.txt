@@ -1,0 +1,455 @@
+CALIFORNIA ROLEPLAY - NATIONAL CRIMINAL ENFORCEMENT AGENCY (NCEA)
+STANDARD OPERATING PROCEDURE
+Document Code: SOP-NCEA-001
+Revision Date: 2026-01-01
+================================================================================
+
+1. LEADERSHIP STRUCTURE
+================================================================================
+  NCEA-01 | Director:          Billy M.
+  NCEA-02 | Deputy Director:   D. Harrelson
+  NCEA-03 | Assistant Director: G. Liamm
+
+================================================================================
+2. MISSION STATEMENT
+================================================================================
+The National Criminal Enforcement Agency (NCEA) is an elite, multi-agency unit
+operating under the authority of the State Governor. Its mission is to combat
+major crimes - including terrorism, organized crime, narcotics trafficking,
+kidnappings, and murder-for-hire operations - through specialized tactics,
+interagency cooperation, and advanced investigative methods.
+
+================================================================================
+3. JURISDICTION & AUTHORITY
+================================================================================
+- Granted full state jurisdiction by executive order.
+- May operate across county and city lines without additional approval.
+- Reports directly to the Governor's Office and the State Attorney General.
+
+================================================================================
+4. RANK STRUCTURE
+================================================================================
+
+HIGH COMMAND:
+  Director
+  Assistant Director
+  Deputy Director
+  Chief Of Staff
+  Deputy Chief Of Staff
+
+TRIAL HIGH COMMAND:
+  Lt. Commander
+
+LOW COMMAND:
+  Major
+  Captain
+  Deputy Special Agent In Charge
+
+TRIAL LOW COMMAND:
+  Deputy of Staff
+
+SUPERVISOR:
+  Assistant Deputy of Staff
+  Special Agent In Charge
+  Supervisory Special Agent
+  Assistant Special Agent In Charge
+
+SUPERVISOR IN TRAINING:
+  Senior Special Agent
+
+PATROL:
+  Special Agent
+  Agent First Class
+  Agent
+  Probationary Agent
+
+================================================================================
+5. DEPARTMENT MANDATE
+================================================================================
+NCEA is a classified multinational entity tasked with:
+- Investigation: Surveillance, infiltration, and analysis of anomalous events,
+  entities, and technologies.
+- Containment: Secure isolation or neutralization of threats that fall outside
+  conventional scientific or military understanding.
+- Enforcement: Execution of field operations to eliminate, extract, or suppress
+  anomalies and associated threats.
+
+================================================================================
+6. ORGANIZATIONAL STRUCTURE
+================================================================================
+- Directorate Alpha (HQ Command): Strategic command, mission authorization,
+  international liaison.
+- Division I (Investigation & Analysis): Data collection, decoding, cyber-ops,
+  HUMINT/SIGINT.
+- Division C (Containment & Logistics): Engineering, research, site
+  construction, anomaly storage.
+- Division E (Enforcement & Tactical): Rapid-response field officers, special
+  operations teams (NCEA-Units), high-risk engagement protocols.
+
+================================================================================
+7. CLEARANCE LEVELS
+================================================================================
+  Omega  - Director only
+  Alpha  - High-level command and deep field officers
+  Beta   - Containment teams and mission-critical analysts
+  Delta  - Standard personnel and support staff
+  Echo   - Non-sensitive documentation and civilian liaisons
+
+================================================================================
+8. MISSION PHASES & OPERATIONS
+================================================================================
+
+8.1 PRE-MISSION PROTOCOL:
+- All missions require Directorate Alpha approval.
+- A designated Mission Handler will brief all assigned NCEA-Units.
+- Threat classification must be confirmed (see Section 9).
+- Tactical loadout authorization and mental conditioning checks are mandatory.
+
+8.2 DEPLOYMENT:
+The NCEA GOST is activated for:
+- Active terrorist threats or bombings
+- High-profile kidnappings
+- Organized crime takedowns (cartels, mafias, syndicates)
+- Homicides involving multiple victims or public figures
+- High-stakes undercover operations
+- Hostage situations beyond standard LEO capability
+
+8.3 ENGAGEMENT RULES:
+- Non-lethal force preferred for human subjects unless threat is Code Red.
+- Use of experimental tech or anomalous assets must be logged and approved prior
+  to use.
+- All encounters with entities must be recorded and reported within 2 hours
+  post-operation.
+
+8.4 CONTAINMENT PROTOCOL:
+- Anomalies must be secured in approved Containment Transport Units (CTUs).
+- Temporary field containment permitted for up to 12 hours pending extraction.
+- Biological anomalies require quarantine and full biohazard lockdown.
+
+8.5 DEBRIEF & REVIEW:
+- Officers must undergo post-mission psychological evaluation within 24 hours.
+- Full after-action reports (AARs) to be submitted in NCEA-Net v7.
+- Any unauthorized deviation will trigger an internal review.
+
+================================================================================
+9. THREAT CLASSIFICATION SYSTEM
+================================================================================
+  Green  - Known anomaly, low risk, stable
+  Amber  - Partially understood anomaly, moderate risk
+  Red    - Unstable anomaly or entity with hostile capability
+  Black  - Catastrophic potential (reality-altering, transdimensional)
+  White  - Non-hostile or deactivated, requires ongoing observation
+
+================================================================================
+10. EMERGENCY PROTOCOLS
+================================================================================
+- Omega Lockdown: Activated upon breach of a Code Black entity or site-wide
+  contamination.
+- Clean Sweep: Tactical strike to erase evidence and neutralize exposed
+  civilians.
+- Protocol Null: Destruction of anomaly and termination of associated field
+  assets in case of global risk.
+- Data Purge: Immediate remote erasure of NCEA-Net systems under hostile
+  compromise.
+
+================================================================================
+11. PERSONNEL CODE OF CONDUCT
+================================================================================
+- Absolute secrecy is mandatory; violation results in immediate disavowal.
+- No external communications during deployment.
+- Fraternization with civilians or between divisions is discouraged and
+  monitored.
+- Psychological evaluations are mandatory every 90 days; failure results in
+  grounding.
+
+================================================================================
+12. TRAINING AND CERTIFICATION
+================================================================================
+All operatives must complete:
+- NCEA Bootcamp: Survival, weapons, containment theory.
+- Anomaly Recognition & Resistance: Cognitive defense, anomaly classification.
+- Tactical Response Simulation: Live-fire training, breach simulations.
+- Heat Certification
+- Advanced Narcotics for K9
+- Off Road Certification
+- BLS Certification
+
+Annual recertification is required for field deployment.
+
+================================================================================
+13. AMENDMENTS & REVISIONS
+================================================================================
+All SOP revisions require the approval of Directorate Alpha. Any field-
+documented deviation from this SOP must be formally requested as a proposed
+amendment within 30 days of occurrence.
+
+================================================================================
+14. UNIFORM AND VEHICLE STRUCTURE
+================================================================================
+
+14.1 UNIFORM STRUCTURE:
+- Follow all uniform guidelines in the Roster for appropriate rank.
+- Uniforms are listed in the Master Roster. All units must follow the uniform
+  guidelines for their rank.
+- Low Command uniforms must be approved by High Command.
+- Specific uniforms are designated for weather conditions and roles (Rain,
+  Winter, Tac Instructor, Tac outfit).
+- Unauthorized uniform usage will result in a Strike.
+
+14.2 VEHICLE STRUCTURE:
+- All NCEA vehicles are unmarked and appear as standard civilian, commercial,
+  or government transports.
+- Plate Policy: 01???001 Badge#NCEACallsign
+
+14.3 WEAPON STRUCTURE:
+Approved weapons for regular duty:
+  - Taser
+  - Baton
+  - Combat Pistol
+  - Carbine Rifle
+  - Flashlight
+  - Shotgun
+
+- No other firearms or weapons are authorized unless specifically approved by
+  command.
+- All weapons must be registered and approved in the CAD system before going on
+  duty.
+- Must NOT shoot out of any LEO vehicle at any time.
+- Weapon maintenance is mandatory and must be performed monthly.
+- Any discharge of a firearm, on or off duty, requires immediate reporting to
+  command.
+
+================================================================================
+15. USE OF FORCE POLICY
+================================================================================
+
+15.1 PURPOSE:
+Establishes rules of engagement for NCEA field personnel when interacting with
+hostile entities, human subjects, or unknown anomalies.
+
+15.2 PRINCIPLES OF ENGAGEMENT:
+- Necessity: Force is to be used only when no lesser means are sufficient.
+- Proportionality: The level of force must match the threat level posed.
+- Discretion: Secrecy and deniability take priority over brute force unless
+  lives are in immediate danger.
+- Preservation: When possible, preserve life and evidence over termination.
+
+15.3 FORCE CLASSIFICATIONS:
+  Level 0 - Non-Force:       Verbal commands, psychological compliance,
+                              passive restraints. Used for civilians or
+                              cooperative individuals.
+  Level 1 - Compliance:      Non-lethal takedowns: tasers, shock restraints,
+                              sedatives, pressure-point maneuvers. Used for
+                              unarmed resistance.
+  Level 2 - Defensive Force: Baton strikes, combat holds, sidearm warnings.
+                              Authorized when officers face physical threats.
+  Level 3 - Lethal Force:    Direct use of firearms. Authorized in defense of
+                              officer's life or when threat is classified Red.
+  Level 4 - Anomalous Force: Deployment of sanctioned experimental tools.
+                              Requires pre-approval from Directorate Alpha
+                              unless in emergency.
+  Level 5 - Protocol Null:   Full termination and erasure. Used only under
+                              Protocol Null authorization for existential
+                              threats. Requires confirmation from Command and
+                              Ethics Liaison.
+
+================================================================================
+16. WEAPON STRUCTURE & POLICIES (EXPANDED)
+================================================================================
+
+16.1 APPROVED WEAPONS:
+  - Taser
+  - Baton
+  - Flashlight
+  - Standard-issue Combat Pistol
+  - Carbine Rifle
+  - Shotgun (authorized personnel only)
+
+16.2 CARRYING & STORAGE:
+- All firearms must be carried with a valid firearm permit and registered
+  through the CAD system.
+- Firearms are to be secured at all times when not in active use.
+- Unauthorized weapons, modifications, or personal firearms are strictly
+  prohibited on duty.
+
+16.3 USE & MAINTENANCE:
+- Must NOT shoot out of any LEO vehicle at any time.
+- Weapon maintenance is mandatory and must be performed monthly.
+- Use of weapons must comply with the Use of Force Policy (Section 15).
+- Any discharge of a firearm requires immediate reporting to command.
+
+================================================================================
+17. ACTIVITY REQUIREMENTS
+================================================================================
+
+17.1 MINIMUM ACTIVITY:
+- Officers must maintain a minimum of 5 hours per week active duty in-server.
+- Participation in at least one major operation or training exercise per month
+  is mandatory.
+- Attendance at weekly briefings is required unless excused by command.
+- 1st LT and Command are required to clock 40 hours per month.
+- Sergeant+ need 3 recruitment logs for promotions and 1 recruitment per week
+  for activity.
+
+17.2 TRAINING:
+- Completion of basic tactical training is mandatory for all new personnel.
+- Quarterly certifications in tactical readiness and psychological resilience
+  are required.
+- Specialized trainings may be required based on assignment (Containment,
+  Tactical, etc.).
+
+================================================================================
+18. LEAVE OF ABSENCE (LOA) POLICIES
+================================================================================
+
+18.1 APPLICATION:
+- Personnel must submit an LOA request to their immediate supervisor via
+  official communication channels (Discord).
+- Requests must include reason, start date, and expected return date.
+
+18.2 DURATION & APPROVAL:
+- LOAs of up to 14 days are generally approved without extended review.
+- LOAs longer than 14 days require Assistant Director approval.
+- Emergency LOAs may be granted with verbal notification, followed by formal
+  request.
+
+18.3 RETURN:
+- Personnel must notify command 24 hours prior to return.
+- Failure to return without notice may result in disciplinary action.
+
+================================================================================
+19. PUNISHMENT GUIDELINES
+================================================================================
+
+19.1 STRIKE SYSTEM:
+  First Offense:  Verbal warning and documentation.
+  Second Offense: Written warning and mandatory retraining.
+  Third Offense:  Suspension from duty for 3 to 7 days.
+  Fourth Offense: Review for termination.
+  NOTE: Command is on a ONE STRIKE POLICY.
+
+19.2 SUSPENSION POLICIES:
+- Suspension requires written notice from command detailing reason and duration.
+- Suspended personnel are prohibited from performing any department-related
+  duties.
+
+19.3 TERMINATION & DISCHARGE:
+- Termination decisions are made by the Director or Deputy Director after
+  review.
+- Grounds for termination include: gross misconduct, repeated violations,
+  insubordination, or breach of operational secrecy.
+- Discharge documentation is maintained in personnel records.
+
+================================================================================
+20. SUBDIVISIONS
+================================================================================
+
+20.1 DIVISION ALPHA - Headquarters Command & Strategy:
+  Eligibility: Senior command officers only. Responsible for operational
+  oversight.
+
+20.2 R.I.P. - Rapid Intervention & Pursuit:
+  Focus: High-Speed Interdiction & All-Terrain Enforcement.
+  Role: Masters of the chase. Handles all high-speed pursuits on city highways
+  and manages off-road apprehension in rural or mountainous terrain.
+
+20.3 G.O.S.T. - Gang Operations & Surveillance Team:
+  Focus: Undercover Operations & Deep-Cover Intelligence.
+  Role: The "Ghost" unit. Operates in the shadows, focusing on long-term
+  surveillance, infiltration of syndicates, and gathering RICO evidence to
+  dismantle criminal organizations from the inside out.
+
+20.4 V.I.P.E.R. - Violent Intervention & Pursuit Engagement Response:
+  Focus: Elite Tactical Operations & Heavy Enforcement.
+  Role: The agency's premier tactical unit. Deployed for high-risk warrants,
+  active shooters, and coordinated raids.
+
+20.5 C.O.R.T. - Critical Operations Rescue Team:
+  Eligibility: Must be a trained officer. Requires Advanced Narcotics
+  Certification.
+
+20.6 M.A.P.S. - Marine & Air Patrol Section:
+  Focus: Tactical Medicine & Medivac Operations.
+  Role: The agency's elite medical wing. Provides tactical EMT support during
+  V.I.P.E.R. raids and operates Medivac helicopters for rapid life-saving
+  extractions in high-threat environments.
+
+20.7 K9 - Canine Division:
+  Eligibility: Must be a trained officer. Requires Advanced Narcotics
+  Certification.
+
+================================================================================
+21. PROMOTIONAL REQUIREMENTS
+================================================================================
+- Completion of all mandatory training and certifications.
+- Positive performance reviews and incident report record.
+- Written examination and oral board (when applicable).
+- Recommendations from immediate supervisor and command approval.
+- Must complete Low Command and Sergeants Exam.
+- Double promotions require 15+ hours.
+- Promotions for Master Sergeant and above are not hour-based; requirement is
+  20 hours.
+
+================================================================================
+22. NAMING POLICY (IN-GAME & DISCORD)
+================================================================================
+- In-game character names must follow realistic law enforcement conventions
+  (e.g., First Last).
+- Use of offensive, inappropriate, or non-professional names is prohibited and
+  subject to disciplinary action.
+- Nicknames or abbreviations are allowed only if officially recognized by
+  command.
+
+================================================================================
+23. IDENTIFYING WHILE ON DUTY
+================================================================================
+- All personnel must wear issued badges and name tags (headtag) visibly on
+  their uniform during duty.
+- Callsigns must be used on radio and official communication.
+- Officers must identify themselves by rank and last name when interacting with
+  the public or other agencies.
+- Unauthorized impersonation or failure to identify on duty is prohibited.
+
+================================================================================
+24. CAD POLICIES
+================================================================================
+- Access to the CAD system is restricted to authorized personnel only.
+- User credentials must be secured and never shared.
+- All entries must be accurate, timely, and comply with data privacy guidelines.
+- Unauthorized data access or manipulation will result in immediate disciplinary
+  action.
+
+================================================================================
+25. USE OF FORCE PYRAMID (EXPANDED)
+================================================================================
+  Level 0 - Verbal Commands:  De-escalation, clear instructions.
+  Level 1 - Compliance Force: Control holds, taser, non-lethal methods.
+  Level 2 - Defensive Force:  Baton strikes, pepper spray, warning shots.
+  Level 3 - Lethal Force:     Use of firearms under justified conditions.
+  Level 4 - Anomalous Force:  Use of sanctioned anomalous equipment with prior
+                               approval.
+  Level 5 - Protocol Null:    Full neutralization protocols for catastrophic
+                               threats.
+
+APPLICATION GUIDELINES:
+- Officers must attempt to apply the lowest necessary force to achieve
+  compliance or safety.
+- Escalation is permitted only if the subject's resistance or threat level
+  increases.
+- All use of force incidents must be reported within 2 hours with full
+  documentation.
+
+================================================================================
+26. RTO ETIQUETTE
+================================================================================
+- Use clear, concise language when communicating on radio channels.
+- Avoid unnecessary chatter to maintain channel clarity.
+- Always identify yourself by callsign before speaking.
+- Confirm receipt of commands with acknowledgment.
+- Emergency traffic has priority; cease non-emergency transmissions when
+  requested.
+- Report any radio malfunctions immediately.
+
+================================================================================
+End of Document - SOP-NCEA-001 | Maintained by Director Billy M.
+================================================================================

@@ -1,0 +1,301 @@
+VERIFIED CIVILIAN
+STANDARD OPERATING PROCEDURES
+Updated: 5/12/2026
+================================================================================
+
+WHAT IS VERIFIED CIVILIAN
+================================================================================
+Verified Civilian is a department dedicated to creating immersive and realistic
+roleplay. Being a Verified Civilian means striving to improve and elevate roleplay
+experiences and enjoyment for everyone in the community, including ourselves.
+Whether you want to roleplay as a criminal, a hardworking citizen, or a clown,
+the roleplay possibilities truly are endless.
+
+When you fully commit and immerse yourself in roleplay, not only will your
+experience be more enjoyable, but you'll also contribute to the enjoyment of
+those around you. We encourage you to let your imagination run wild and create
+characters that truly stand out with unique personalities, styles, voices, and
+habits.
+
+Upon becoming a Verified Civilian, you'll gain access to a range of rank perks
+detailed in the #rank-perks channel, with more perks and benefits unlocking as
+you rank up, allowing greater opportunity to explore more diverse roleplay
+scenarios.
+
+================================================================================
+CHAIN OF COMMAND
+================================================================================
+
+OVERSEER (00):
+  Oversees department and provides support to High Command.
+
+HIGH COMMAND (01-10):
+  Head of Verified Civilian. Overlooks and manages the entire department, guiding
+  Verified Civilians and Command team. Has final say on decisions.
+
+LEAD MANAGER (11-15):
+  Overlooks and assists Managers with daily duties and hosts major events.
+
+MANAGER (16-25):
+  Overlooks and assists Lead Supervisors with daily duties, processes applications,
+  roster maintenance, and hosts major events.
+
+LEAD SUPERVISOR (26-35):
+  Overlooks and assists Supervisors with daily duties, hosts interviews and exams,
+  moderates chat, and hosts pop-up events.
+
+SUPERVISOR (36-60):
+  Hosts interviews and exams, moderates chat, and hosts pop-up events.
+  This is the FIRST RANK to approach with questions or concerns.
+
+IMPORTANT: Please follow the Chain of Command at all times and work your way up.
+DO NOT GO STRAIGHT TO HIGH COMMAND.
+
+================================================================================
+CODE OF CONDUCT
+================================================================================
+- Follow CaliRP community rules, whether in Discord or in-game.
+- Provide realistic and detailed roleplay at all times.
+- Do NOT disrespect, bully, or harass anybody within Verified Civilian or in the
+  CaliRP community.
+- When utilizing Verified Civilian rank perks, you MUST wear your Verified
+  Civilian Headtag.
+- When told by LEO to leave a scene you did not initiate, you MUST leave.
+- You must NOT participate in roleplay found offensive, inappropriate, considered
+  NSFW, or against CaliRP rules.
+- You should remain in character, even if you have been RDM'd. You must wait for
+  staff to arrive before going OOC (out of character).
+- Hold yourself to the highest standard while representing Verified Civilian.
+- Upper Class Civilians+ are allowed to steal LEO vehicles (7 minutes prior
+  roleplay required).
+- ONLY Elite Class Civilians are allowed to participate in fake LEO RP.
+- You MUST remain passive while working at a Verified Business and wearing the
+  corresponding Verified Business headtag.
+- If asked for your callsign, you must give it (may be for a praise or a report).
+- If you leave the Verified Civilian Discord for any reason, High Command has full
+  discretion over the rank you will be reinstated at.
+
+Failure to adhere to the rules will result in appropriate disciplinary action.
+
+================================================================================
+ROLEPLAY SCENARIO GUIDELINES
+================================================================================
+
+VALUE OF LIFE:
+The importance of cherishing your life cannot be overstated. When faced with a
+life-threatening situation (e.g., someone wielding a weapon), the priority should
+be to protect yourself and seek ways to de-escalate. If an individual has a
+firearm pointed at you, attempting to reach for anything would likely result in
+deadly consequences.
+
+FEAR FOR FREEDOM:
+The primary goal of Verified Civilian is to promote immersive passive roleplay.
+Priority scenarios are allowed, however we encourage civilians to engage in
+situations where their character prioritizes their freedom. Unless your character
+has active warrants in the CAD, there is generally no justification for fleeing
+from a routine traffic stop.
+
+GTA DRIVING:
+Avoid unrealistic driving like speeding over 150 mph or careening off cliffs.
+If participating in drag or street racing scenarios, ensure they remain realistic
+and consider the legal and safety consequences. Extreme speeding endangers lives
+and can lead to serious charges like reckless driving or felony speeding.
+
+NEW LIFE RULE:
+If your character experiences a "death" within roleplay, you must adhere to the
+New Life Rule, requiring you to forget all events that transpired within the last
+15 minutes to prevent engaging in Revenge RP.
+
+The above rules are some of the most important, in addition to other basic roleplay
+rules like VDM, RDM, and FRP.
+
+================================================================================
+TERMS TO USE TO AVOID BREAKING CHARACTER
+================================================================================
+- Staff Scene          = Government Situation
+- Staff Member         = Government Official
+- Graphics not loading = Contacts/eyes are itchy
+- Abusing Staff Perms  = Abusing Government power
+- OOC Chat             = The Cloud or Sky Box
+- Discord              = Email
+- AFK                  = In Your Head
+- Game Crashed         = Head popped
+- Discord Call         = Phone call / earpiece
+- Low FPS              = Bad blood pressure
+- Desync               = Headache
+- People on Discord    = Voices in my head
+- Headtag              = Butterfly or birdy
+
+================================================================================
+HOW TO SHOW ACTIVITY AND EARN A PROMOTION
+================================================================================
+1. CLOCK HOURS: Roleplaying while wearing your Verified Civilian headtag is
+   critical to be considered for a promotion. The more you roleplay as a Verified
+   Civilian, the more your dedication will stand out.
+
+2. POST PHOTOS: Post photos in the photos channel. This highlights your
+   participation in Civilian roleplay and activity within the server. Photos must
+   be captured yourself. Any photo works!
+
+3. ENGAGE IN CIVILIAN-GENERAL: Verified Civilian is not just a department — it's
+   a community. Participate in civilian-general to contribute to conversations,
+   share ideas, meet new people, or simply say hello. Join VCs, create RP
+   scenarios, and form connections.
+
+4. ATTEND VERIFIED CIVILIAN EVENTS: Every week, Event Coordinators organize events
+   announced in the #events channel. These events are often overseen by Command
+   and outstanding roleplay could lead to a promotion.
+
+5. EXCEPTIONAL ROLEPLAY: Actively roleplaying in-game with your Verified Civilian
+   head tag on while providing exceptional roleplay could get you noticed by a
+   Command member, resulting in a field promotion on the spot.
+
+IMPORTANT: Being active in just one area or just clocking hours alone does NOT
+guarantee or grant a promotion. Demonstrate dedication across multiple areas.
+Failure to maintain some level of activity could result in a demotion. You are
+excused from activity if you are on an approved LOA. LOAs may NOT exceed 1 month
+unless approved by High Command.
+
+================================================================================
+HOUR REQUIREMENTS
+================================================================================
+Activity is expected across all ranks. However, Middle Class, Upper Class, and
+Elite Class Civilians MUST actively roleplay with the Verified Civilian headtag
+on in order to remain at that rank.
+
+Hours are automatically logged when you put on and take off your Verified Civilian
+headtag.
+
+USEFUL COMMANDS (in the bot commands channel):
+- /evaluate  - Provides a summary of your activity status in relation to
+               promotional guidelines.
+- /myhours   - Provides total server and Verified Civilian duty hours.
+
+================================================================================
+PROMOTIONS
+================================================================================
+Promotions are held BI-WEEKLY on Sundays.
+
+- Do NOT ask or open tickets about missed promotions unless instructed by a
+  Command member.
+- Asking for a promotion or evaluation can result in a STRIKE or DEMOTION.
+- Promotions are based on quality of roleplay and activity.
+- Showing activity in ALL areas gives the best chances of being promoted.
+- Consistent activity across multiple areas could result in promotions every two
+  weeks up to the rank of Upper Class.
+- Middle Class and Upper Class ranks are very hard to achieve.
+- Elite Class ranks are LIMITED and reserved only for those who have demonstrated
+  the highest quality of roleplay, are actively engaged in the community in a
+  positive way, and have consistent activity over an extended period of time.
+
+================================================================================
+VERIFIED PARTNERSHIPS
+================================================================================
+Verified Civilian has partnerships with select gangs and businesses. Wearing your
+Verified Civilian headtag while on as a partner business or gang allows you to
+be active and work towards a promotion in both departments.
+
+GANG PARTNERSHIPS:
+  - Malvados MC (MMC)
+  - Moretti Crime Family (MCF)
+  - The Elite Society
+  - Korean Mob
+
+BUSINESS PARTNERSHIPS:
+  - Boosted Boiz (BB)
+  - White Widow (WW)
+  - California Aviation (CA)
+  - Weazel News (WN)
+  - Overdrive (OD)
+  - Talon Security (TS)
+  - American Trucking Company (ATC)
+  - The Cookie Corner (TCC)
+  - Tard R Inc. (TRI)
+  - Apex Aviation (AA)
+  - Throttle Junkies (TJ)
+  - Vexorix Inc. (VI)
+  - Gruppe 6 (G6)
+  - Cali Towing
+  - Lock and Load Security (LLS)
+  - Council Security (CS)
+  - Strap-N Taxis
+  - Nexus Transport
+
+================================================================================
+VERIFIED BUSINESSES
+================================================================================
+The following businesses are EXCLUSIVE to Verified Civilians. Using /job in-game
+unlocks additional mechanics specific to each business.
+
+  - 24/7
+  - Ammunation
+  - Black Woods Saloon
+  - Hayes Auto
+  - Hornys
+  - LS Customs
+  - Pops Diner
+
+If you leave or are removed from Verified Civilian, you will no longer have
+access to /job these businesses.
+
+VERIFIED BUSINESS CODE OF CONDUCT:
+1. You may NOT use or brandish a gun while working at these businesses.
+2. A business employee should NEVER initiate violence under any circumstances.
+3. You must remain passive, unless or until a situation escalates after extended
+   roleplay with a customer:
+   - CALL POLICE /911: If a customer is causing problems.
+   - CALL GOVERNMENT: If a customer is trolling and has NITRP.
+   - If there has been extended roleplay and the customer's behavior is escalating
+     and they have become violent, you are permitted to defend yourself using
+     something that makes sense for the business (e.g., a wrench at the mechanic,
+     a knife from Hornys kitchen, a broken beer bottle from the Saloon, etc.)
+
+Please read the full Verified Civilian Business Guidelines before activating at
+any business. FAILURE TO FOLLOW BUSINESS RULES WILL RESULT IN PUNISHMENT.
+
+================================================================================
+DISCIPLINARY GUIDELINES
+================================================================================
+Disciplinary action depends on the severity of the offense. The Internal Affairs
+team will review reports and evidence without bias and determine appropriate
+punishment.
+
+EXAMPLES:
+- FRP: Could result in a warning on your record.
+- Continued problems: Strike or demotion.
+- Mass RDM or VDM: 30-day strike, demotion, or termination from the department
+  for 14 or 30 days (requiring reapplication).
+- Repeated offenses: Punishments grow in severity.
+- Blatant disrespect towards Community or Command members: Multi-rank demotion,
+  removal from Verified Civ, or blacklisting.
+
+ALL punishment decisions made by the Command team are FINAL and must be respected.
+Arguing about punishment decisions may lead to further disciplinary action.
+
+================================================================================
+RESIGNATION
+================================================================================
+PROPER RESIGNATION: Open a resignation ticket found in the ticket selection.
+This allows the potential for reinstatement at your prior rank, depending on
+time away.
+
+IMPROPER RESIGNATION: If you leave the Discord without resigning, you will NOT
+be reinstated and will be required to reapply.
+
+================================================================================
+FAKE COP ROLEPLAY
+================================================================================
+Fake COP roleplay is LOCKED to Elite Class Civilians ONLY.
+
+REQUIREMENTS:
+1. You MUST wear either the Blaine County Citation Office or Los Santos Public
+   Safety headtags.
+2. You MUST remain in the RTO.
+3. You must adhere to all rules listed in the Handbook.
+
+Rules and uniforms can be found in the Elite Class Fake Cop RP Channel.
+
+Unless you are an Elite Class Civilian, you are NOT permitted to roleplay as a
+fake cop in the CaliRP servers. This perk is LOCKED to Elite Class Civilians only.
+
+================================================================================

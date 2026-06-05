@@ -1,0 +1,101 @@
+CALIFORNIA ROLEPLAY
+10-CODES AND NATO PHONETIC ALPHABET
+================================================
+
+NATO PHONETIC ALPHABET:
+Used to phonetically spell out words in radio communications
+
+A - Alpha          B - Bravo          C - Charlie        D - Delta
+E - Echo           F - Foxtrot        G - Golf           H - Hotel
+I - India          J - Juliet         K - Kilo           L - Lima
+M - Mike           N - November       O - Oscar          P - Papa
+Q - Quebec         R - Romeo          S - Sierra         T - Tango
+U - Uniform        V - Victor         W - Whiskey        X - X-ray
+Y - Yankee         Z - Zulu
+
+================================================
+10-CODES / GENERAL CODES
+================================================
+
+10-0 - Disappeared
+10-1 - Frequency Change
+10-2 - Negative
+10-3 - Stop Transmitting
+10-4 - Acknowledged
+10-5 - Relay Message
+10-6 - Busy
+10-7 - Out of Service
+10-8 - In Service
+10-9 - Repeat
+10-10 - Fight in Progress
+10-11 - Traffic Stop
+10-12 - Standby
+10-13 - Shots Fired
+10-15 - Subject in custody en route to Station
+10-16 - Stolen Vehicle
+10-17 - Suspicious Circumstances (Suspicious Person)
+10-18 - Disturbance
+10-19 - Active Ride Along
+10-20 - Location
+10-21 - Call/Check Discord
+10-22 - Disregard
+10-23 - Arrived on Scene
+10-25 - Do you have Contact With ?
+10-26 - ETA
+10-27 - Driver's License Check for Valid
+10-28 - Vehicle License Plate Check
+10-29 - NCIC Warrant Check
+10-30 - Wanted Person
+10-31 - Dangerous/Armed Person
+10-32 - Additional Unit Requested (Code 1-2-3)
+10-34 - Completed Assignment - No Report
+10-35 - Not Wanted/No Warrants
+10-36 - Situation Under Control
+10-37 - Completed last Assignment
+10-38 - Suspicious Vehicle
+10-39 - Police Officer
+10-41 - Beginning Tour of Duty
+10-42 - Ending Tour of Duty
+10-43 - Information about ?
+10-44 - Park, Walk, & Talk
+10-45 - Street Race
+10-46 - EDP (Emotionally Disturbed Person)
+10-50 - Vehicle Accident
+10-51 - Request Towing Service
+10-52 - Request EMS
+10-53 - Request Fire Department
+10-54 - Hit and Run
+10-55 - Intoxicated Driver
+10-56 - Intoxicated Pedestrian
+10-60 - Animal Attack
+10-61 - Larceny
+10-62 - Kidnapping
+10-63 - Radio Check
+10-64 - Assault
+10-65 - Armed Robbery
+10-66 - Reckless Driver
+10-67 - Fire
+10-70 - Foot Pursuit
+10-71 - Request Supervisor at Scene
+10-73 - Advise Status
+10-76 - In Route
+10-80 - Vehicle Pursuit
+10-85 - Delay due to
+10-86 - Any Traffic for Me?
+10-88 - Request District Assistance
+10-89 - Request Major Assistance
+10-90 - Bank Alarm
+10-91 - Unnecessary use of Radio
+10-93 - Warning
+10-94 - Aircraft Emergency
+10-97 - Request Prisoner Transport
+10-99 - Officer In Distress EXTREME EMERGENCY ONLY
+
+11-44 - Person Deceased
+
+CODE 5 - Felony Stop / High Risk Stop
+CODE 6 - In The Area Of
+
+SIGNAL 11 - Running Radar
+SIGNAL 13 - Clear for Crime Broadcast
+SIGNAL 100 - HOLD ALL BUT EMERGENCY TRAFFIC

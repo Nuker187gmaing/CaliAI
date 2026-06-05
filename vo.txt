@@ -1,0 +1,181 @@
+CALIFORNIA ROLEPLAY
+VOLUNTEER OFFICER (VO) STANDARD OPERATING PROCEDURES
+================================================================================
+
+INTRODUCTION
+================================================================================
+Welcome to the California Roleplay Community. This document covers the basics and
+standards for being a Volunteer Officer in CaliRP. All guidelines outlined here
+are to be followed at all times by all Volunteer Officers while on duty.
+
+Failure to follow these guidelines could result in being sent off duty by a member
+of the Department of Homefront Security (DOHS).
+
+REQUIRED READING BEFORE GOING ON DUTY:
+CaliRP | Global Departments SOP 2024
+
+CaliRP Owners: 101 | Ren, 102 | Ryan S., 103 | J. Serg
+
+================================================================================
+SECTION 1 | GENERAL INFORMATION FOR VOs
+================================================================================
+
+1.1 | VOLUNTEER DEPARTMENT PURPOSE
+The Volunteer Police Department is intended for new members of the California
+Roleplay community to:
+- Familiarize themselves with the server's policies, rules, and LEO perks.
+- Decide if joining a department and working up the ranks is for them.
+
+Inside the department, several Main Departments, Pre-Main Departments, and DOD
+departments can recruit new members.
+
+--------------------------------------------------------------------------------
+1.2 | UNDERSTANDING DOHS
+The Department of Homefront Security (DOHS) is responsible for overseeing all LEO
+departments and ensuring those departments are GSOP compliant. This includes
+Volunteer Officers.
+
+When requesting DOHS assistance, you MUST follow the chain of command.
+
+--------------------------------------------------------------------------------
+1.3 | CHAIN OF COMMAND
+
+  Overseers                    - P. Cotton, J. Rice
+  Department Coordination Team
+  VO Coordinators
+  DOHS Command / Supervisors   - Callsigns 100-300
+  DOHS Agents                  - Callsigns 400-600
+  Volunteer Officer            - VO-101+ (VO-000 to VO-100 reserved for Management)
+
+================================================================================
+SECTION 2 | PROPER CAD CHECKS
+================================================================================
+
+2.1 | GETTING ON DUTY
+Two steps to go on duty as a VO:
+1. Do /duty with a proper roleplay name and VO callsign.
+   Example formats: VO-460 | John R.  OR  VO-174 | J. Rice
+2. Ensure your callsign and duty blip are correctly set.
+
+Reference the tutorial channel in the Volunteer Officer Discord for step-by-step
+instructions.
+
+--------------------------------------------------------------------------------
+2.2 | CAD SYSTEM
+You MUST familiarize yourself with the CAD system.
+
+IMPORTANT: Create TWO characters:
+- Civilian Character
+- LEO Character
+
+Do NOT get arrested/charged on your LEO character — this may result in removal.
+
+CAD: https://cad.calirp.gg/
+Follow the CAD Tutorial to learn how to create your LEO and CIV character.
+
+--------------------------------------------------------------------------------
+2.3 | NAME, CALLSIGN, AND LICENSE PLATE POLICIES
+
+NAME STRUCTURE:
+All Volunteer Officers must use one of the following naming conventions:
+  - John R.
+  - J. Rice
+
+CALLSIGN STRUCTURE:
+Format: VO-XXX (range: VO-101 to VO-999)
+NOTE: VO-000 through VO-100 are RESERVED for Management.
+
+- Callsigns can be any number of your choosing as long as they are professional.
+- Do NOT use unprofessional numbers such as 420, 69, 666, etc.
+- You are REQUIRED to give your callsign and name when asked by anyone while on duty.
+  Failure to do so results in heavy consequences.
+- When asked for your information, use /showbadge <id> or the third eye (Right Alt)
+  and hit showbadge. No one is exempt from this rule (including DOHS, IAA, State
+  Patrol). Civilians must accept via /viewbadge <id>.
+
+LICENSE PLATE STRUCTURE:
+Format: Two numbers + "CVO" + Three numbers
+Example: 23CVO994
+("CVO" stands for "Community Volunteer Officer")
+
+- Plate numbers must be your callsign.
+- Do NOT use unprofessional numbers (420, 69, 666, etc.).
+- If the plate is taken in CAD, choose another number variation and update your
+  callsign to match.
+
+--------------------------------------------------------------------------------
+2.4 | HOW TO CONNECT TO RTO
+1. Go into the Main CaliRP Discord.
+2. Scroll down until you see one of the following:
+   - Paleto & Roxwood RTO
+   - Sandy & Grapeseed RTO
+   - Los Angeles RTO
+
+================================================================================
+SECTION 3 | WEAPON, VEHICLE AND UNIFORM
+================================================================================
+
+3.1 | SERVICE WEAPON STRUCTURE
+Authorized weapons for Volunteer Officers:
+  - Pistol
+  - Flashlight
+
+NOTE: As a non-whitelisted LEO, you do NOT have access to:
+  - Taser
+  - Combat Pistol
+  - Baton
+
+Contact VO Coordinators if you have questions about weapons you have purchased.
+
+--------------------------------------------------------------------------------
+3.2 | SERVICE VEHICLE STRUCTURE
+All Volunteer Officers are REQUIRED to drive the VO Charger and ONLY the VO Charger.
+- Spawn Code: VOCHARGER
+- You are permitted to drive personals you have access to and car pack vehicles.
+- You CANNOT use the base LEO legacy vehicles.
+
+LICENSE PLATE FORMAT (vehicle):
+- First 2 numbers: any professional numbers of your choosing
+  (no unprofessional numbers: 420, 69, 666, etc.)
+- Last 3 numbers: anything besides unprofessional numbers
+- If plate is taken in CAD, choose another number variation.
+
+Contact VO Coordinators if you have questions about vehicles you have purchased.
+
+--------------------------------------------------------------------------------
+3.3 | UNIFORM STRUCTURE
+Male On-Duty Uniform:    Outfit ID: 9621
+Female On-Duty Uniform:  Outfit ID: 9623
+
+================================================================================
+SECTION 4 | PUNISHMENT GUIDELINES
+================================================================================
+
+4.1 | ABUSE OF PERMISSIONS
+Being a Volunteer Officer grants unique perks such as the ability to do /duty and
+unlock certain doors. Abuse of these permissions can result in:
+- Removal from VO
+- A possible blacklist
+
+Use your permissions wisely and only to better your roleplay.
+
+--------------------------------------------------------------------------------
+4.2 | DOHS VIOLATIONS
+DOHS's goal is to help push Volunteer Officers to join departments and make their
+experience as a police officer enjoyable. If they pull you over, they are simply
+trying to teach or better you.
+
+- You MUST pull over for DOHS.
+- Failure to do so can lead to being sent off duty or in-game punishment.
+
+If you do not like how a DOHS or any other member is treating you, you may make a
+report in the California Roleplay Discord using: /Dept Ticket Report
+
+--------------------------------------------------------------------------------
+4.3 | PENAL CODES (FUTURE LEO REFERENCE)
+When on as a Volunteer Officer, you do NOT have jailing permissions. It is
+important to learn and know the Penal Codes for future reference as a LEO.
+
+Reference: CaliRP | Penal Codes and Speed Limits 2024
+
+================================================================================

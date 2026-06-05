@@ -1,0 +1,49 @@
+CALIRP PILOTS LICENSE & VEHICLE ROSTER
+
+GENERAL RULES:
+Min altitude: 500ft planes, 150ft helicopters
+Cannot fly over: Prisons, police impounds, military bases, government areas
+Can use: Commercial runways with permission
+Can land: Realistic locations (fields, paved grounds)
+No firing: Unless engaged first
+No crash landings: Into high RP zones
+No engine failure RP: In dangerous areas
+Must land: When requested by DHS/STAFF/HIGH COMMAND
+Flying is passive: For civs (LEO/Gangs allowed for non-passive if realistic)
+No ramming: Aircraft
+No jank flying: Or unrealistic flying
+Terrorism: While flying = ban
+
+LEO RULES:
+Can land: Roads, paved ground, drop off TAC on roofs
+Cannot shoot: Soft targets
+Open fire: Only if engaged first
+TAC units: Can shoot to disable armored/BP vehicles
+Fort Zancudo: Request clearance via radio 149
+
+WEATHER:
+Civs/Gangs: Any weather but must RP it
+LEO: Cannot fly in unsafe (lightning, heavy fog)
+
+RADIO:
+Civs/Gangs: In-game radio 150
+LEO: RTO marked as Air-Unit
+
+AIRCRAFT:
+Helicopters: Buzzard, Frogger, Maverick, Supervolito, Swift, Volatus
+Single Prop: Cuban 800, Dodo, Mammatus, Velum
+Twin Jet: Luxor, Nimbus, Shamal, Vestra
+Cargo: Cargoplane, Cargobob2
+Passenger: Jet
+Special: Duster (farming only)
+
+PUNISHMENTS:
+Unrealistic Flying: 1st Warning → 2nd 24h Strip → 3rd 14d Strip → 4th 30d Strip → 5th Revoked
+No-Fly Zones: 1st Warning → 2nd 24h Strip → 3rd 14d Strip → 4th 30d Strip → 5th Revoked
+Wrong Altitude: 1st Warning → 2nd 24h Strip → 3rd 14d Strip → 4th 30d Strip → 5th Revoked
+Wrong Landing: 1st Warning → 2nd 24h Strip → 3rd 14d Strip → 4th 30d Strip → 5th Revoked
+Unauthorized Fire: 1st Warning → 2nd 24h Strip → 3rd 14d Strip → 4th 30d Strip → 5th Revoked
+Unsafe Weather: 1st Warning → 2nd 24h Strip → 3rd 14d Strip → 4th 30d Strip → 5th Revoked
+Wrong Radio: 1st Warning → 2nd 24h Strip → 3rd 14d Strip → 4th 30d Strip → 5th Revoked
+Terrorist Flying: 1st 2w Ban → 2nd 1m Ban → 3rd Perm Ban
+Crash Landing: 1st 3d Strip → 2nd 14d Strip → 3rd Revoked

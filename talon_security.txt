@@ -1,0 +1,180 @@
+CALIFORNIA ROLEPLAY - TALON SECURITY
+STANDARD OPERATING PROCEDURES (SOP)
+Updated May 2026
+================================================================================
+
+CONFIDENTIALITY DISCLAIMER
+THIS DOCUMENT IS PROPERTY OF TALON SECURITY AND CONTAINS CONFIDENTIAL
+INFORMATION. SHARING IT IS STRICTLY PROHIBITED. ANY PERSONNEL FOUND SHARING
+THIS DOCUMENT WITH UNAUTHORIZED INDIVIDUALS WILL FACE IMMEDIATE TERMINATION
+AND A PERMANENT BLACKLIST.
+
+================================================================================
+PURPOSE AND SCOPE
+================================================================================
+These Standard Operating Procedures make up the essential framework governing
+all operations carried out by Talon Security personnel. They are not suggestions
+but obligatory protocols that ensure our agents remain professional and on the
+right side of the law.
+
+- Preservation of Collective Safety and Well-being: These protocols are made to
+  reduce risks to our staff, clients, and the general public.
+- Maintenance of Unwavering Professionalism: These guidelines establish a
+  consistent, elevated standard of demeanor, communication, and action.
+- Effective and Coordinated Execution of Duties: The SOPs guarantee that all
+  security responsibilities, from routine surveillance patrols to crisis
+  response, are performed with precision, uniformity, and maximal efficiency.
+- Assurance of Legal and Ethical Compliance: All procedures are in line with
+  state law and regulatory requirements, safeguarding the company and its
+  employees against potential liability.
+
+================================================================================
+I. GENERAL CONDUCT & PROFESSIONALISM
+================================================================================
+- Respect and Professionalism: Always treat clients, fellow agents, and the
+  public with respect. Maintain a professional attitude and appearance on duty.
+- Integrity: Uphold the highest standards of honesty and integrity. Do not
+  engage in illegal activities or misuse company resources.
+- Confidentiality: Do not disclose any information on a client or operation to
+  unauthorized individuals.
+- Reporting: Report any incidents, issues, or suspicions to your supervisor and
+  hold everyone accountable.
+- No Bullying or Harassment: ZERO tolerance policy for bullying or harassment of
+  ANY kind. If you or someone within the team is experiencing this, secure
+  evidence and report it.
+- Clocking In: Absolutely NO clocking in by yourself if you do not meet the rank
+  of Security Agent.
+
+================================================================================
+II. EQUIPMENT & UNIFORMS
+================================================================================
+
+UNIFORMS:
+- Wear the uniforms assigned to your rank at all times.
+- Lead Operatives and above are allowed custom uniforms that must be approved by
+  a member of the command team via the #uniform-approval Discord channel.
+- Uniforms must be suitable for the assigned job (no casual clothing at a bank
+  job).
+
+AUTHORIZED WEAPONS:
+- Lethal: ARs, SMGs, and pistols.
+- Non-lethal: Bean Bag shotguns, tasers, and batons.
+
+PROHIBITED WEAPONS:
+- No military-style weapons, no MGs, RPGs, or general explosives.
+- No suppressors or drum magazines (they are illegal).
+
+WEAPON HANDLING:
+- Handle all firearms responsibly and in accordance with server rules and
+  realistic gun safety practices.
+- All guns are to be treated as if they are loaded.
+- Do not point a weapon at anyone unless justified.
+
+CITIZENS ARREST:
+- As a security business, you can place people under citizens arrest using
+  zipties.
+- You are NOT to take the person away from the job site; call the police and
+  wait for them to arrive.
+
+VEHICLES:
+- Authorized: Only use Talon Security vehicles when on duty.
+- Do NOT register the plate - it is registered to the company.
+- Plate must be TSTALON and the vehicle must always be black.
+- Follow all traffic laws while on duty unless safety is compromised.
+- Do NOT go over 140 MPH.
+- Prohibited: Do not abuse the BP Escalade or the CTS. No ramming whatsoever
+  with the Escalade. Breaking these rules is an AUTOMATIC TERMINATION.
+- Civilian vehicles are limited to emergency situations only; must have little to
+  no damage and have all 4 doors/wheels.
+- Pursuit Policy: We do NOT engage in pursuits.
+
+================================================================================
+III. OPERATIONAL GUIDELINES
+================================================================================
+- Client Security: The primary objective is the safety and security of our
+  clients and their assets. Prioritize de-escalation over confrontation
+  whenever possible.
+- Communication (RTO): When on duty as Talon, you MUST remain in RTO at all
+  times unless a command member needs to speak with you in their office.
+
+================================================================================
+IV. RULES OF ENGAGEMENT (ROE)
+================================================================================
+- De-escalation First: Lethal force should be a last resort. Always attempt to
+  de-escalate situations verbally before resorting to force. Immediately turning
+  to violence is a HUGE mistake. Always prioritize the safety of all parties
+  involved. Refer to the Use Of Force Continuum.
+- Self-Defense: Personnel are authorized to use necessary force to defend
+  themselves or their clients from imminent harm.
+- Defense of Property: Force may be used to protect client property from active
+  theft or damage, but always prioritize life over property.
+- Reporting Use of Force: Any instance of force used must be thoroughly reported
+  to a supervisor as soon as safely possible.
+
+================================================================================
+V. CHAIN OF COMMAND (COC)
+================================================================================
+
+HIGH COMMAND:
+  Founder                       TS-00
+  Chief Of Security             TS-01
+  Operations Director           TS-02
+  Divisional Director           TS-03
+  Director Of Field Operations  TS-04
+  Director Of Tactical Ops      TS-05
+
+LOW COMMAND:
+  Lead Supervisor               TS-06 to TS-07
+  Field Supervisor              TS-08 to TS-11
+
+SUPERVISORS:
+  Head Operative                TS-20 to TS-24
+  Elite Operative               TS-25 to TS-32
+  Lead Operative                TS-33 to TS-43
+
+OPERATIVES:
+  Senior Operative              TS-44 to TS-66
+  Junior Operative              TS-67 to TS-92
+  Security Agent                TS-93 to TS-166
+
+PROBATIONARY AGENTS:
+  Trial Agent                   TA-100 to TA-167
+
+COC PROTOCOL:
+- Follow orders from higher-ups. If you have concerns, address them through the
+  appropriate chain of command.
+- Respect the COC. Start at the bottom; if they cannot help, it will be handed
+  up higher.
+- If you need to question someone in command, send a well-thought-out reason
+  with evidence (if possible) to anyone in High Command.
+
+================================================================================
+VI. MISCELLANEOUS REQUIREMENTS
+================================================================================
+
+HOURLY REQUIREMENTS:
+- Lead Operative (Supervisors) and above: minimum 6 hours per week.
+- Senior Operatives and below: minimum 3 hours per week.
+- If you cannot make the minimum, contact Command to be placed on Restricted
+  Hours.
+
+CALLSIGNS:
+- You will be issued a Trial Agent callsign (TA-XX) at the end of training.
+- After completing 3 jobs as Talon Security, you will be promoted to Security
+  Agent (TS-XX).
+- Wear your callsign and badge in RTO and in the Talon Security Discord.
+
+PROMOTIONS:
+- Do NOT ask any command members for promotions.
+- You will earn it through your logs, attendance, attitude, and leadership.
+
+SUBDIVISIONS:
+Must be Junior Operative or higher to apply (exceptions possible via ticket):
+
+  RTD    - Recruitment and Training Division
+  K9     - Canine Division (handlers and dogs for searching and tracking)
+  Vanguard - Top-Tier drivers (Handpicked)
+  N.E.S.T. - Neutralization Espionage and Surveillance Team (undercover agents)
+  S.O.A.R. - Specialized Overwatch And Aerial Reconnaissance (air division)
+
+================================================================================

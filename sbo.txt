@@ -1,0 +1,403 @@
+SPECIAL BUREAU OPERATIONS (SBO)
+STANDARD OPERATING PROCEDURE
+================================================================================
+
+SECTION 1 | INTRODUCTION
+================================================================================
+This document covers all regulations and structure of the SBO department,
+encompassing everything required to conduct daily operations. It is MANDATORY
+to abide by this SOP — all personnel will be held accountable. Failure to do so
+will result in punishment or discharge.
+
+For questions regarding listed information, contact a member of High Command.
+
+================================================================================
+SECTION 2 | DISCORD REGULATIONS
+================================================================================
+All members of the SBO Agency Discord are expected to maintain professionalism
+and respect at all times.
+
+- Toxic behavior, harassment, discrimination, or unnecessary drama will NOT be
+  tolerated under any circumstances.
+- Members must follow all server rules and use channels for their intended purposes.
+- No spam or misuse of communication systems.
+- Leaking internal information, sharing restricted content, or discussing sensitive
+  agency matters outside of authorized channels is STRICTLY PROHIBITED.
+- All members must respect staff decisions; keep disagreements civil and handled
+  through proper channels.
+
+Failure to follow these guidelines may result in warnings, removal of roles, or
+permanent removal from the Discord and agency.
+
+--------------------------------------------------------------------------------
+RTO AND VOICE CHAT RULES:
+- Bullying, segregation, racism, or any form of harassment will NOT be tolerated.
+- Speaking about anything political is forbidden.
+- NSFW content is prohibited and will result in a ban.
+- Recruiting/Advertising members to other groups is HIGHLY PROHIBITED.
+- Toxicity & spamming will get you kicked/banned.
+- Screaming in voice calls will get you muted.
+
+TEXT CHAT RULES:
+- Bullying, segregation, racism, or harassment will NOT be tolerated.
+- NSFW content is prohibited and will result in a ban.
+- Sending/Linking harmful material (viruses, IP grabbers, harmware) = immediate
+  permanent ban.
+- Do NOT post someone's personal information without permission.
+- Toxicity & spamming will get you kicked/banned.
+- No copy-pasta messages.
+- Do NOT ping High Command under any circumstance unless it is an extreme emergency.
+- Bot commands should only be posted in #bot-commands; violations may result in a
+  mute or ban.
+- Recruiting/Advertising to other groups is HIGHLY PROHIBITED.
+
+More information can be found in the CaliRP Discord Channel #server-rules.
+
+================================================================================
+RTO ETIQUETTE AND 10 CODES
+================================================================================
+
+BASIC RADIO ETIQUETTE:
+- Mandatory operational language in radio channels: English.
+- Do NOT interrupt unless your traffic is pertinent to a serious emergency.
+- Do NOT respond if you aren't sure the call is for you; wait for your callsign.
+- Never transmit sensitive, confidential, financial, or military information.
+- Memorize callsigns and locations of persons/radio stations you communicate with.
+- Avoid long, complicated sentences; divide long messages into shorter ones.
+- Transmissions must be professional at all times (they are recorded and monitored).
+- Keep communications clear, simple, and short. Use 10-codes as much as possible.
+- Callsign and Name must be displayed properly and match department credentials.
+
+STANDARD PHONETIC ALPHABET:
+A-Alpha  B-Bravo  C-Charlie  D-Delta  E-Echo  F-Foxtrot  G-Golf  H-Hotel
+I-India  J-Juliet  K-Kilo  L-Lima  M-Mike  N-November  O-Oscar  P-Papa
+Q-Quebec  R-Romeo  S-Sierra  T-Tango  U-Uniform  V-Victor  W-Whiskey
+X-X-ray  Y-Yankee  Z-Zulu
+
+10 CODES / GENERAL CODES:
+10-0  = Disappeared
+10-1  = Frequency Change
+10-2  = Negative
+10-3  = Stop Transmitting
+10-4  = Acknowledged
+10-5  = Relay Message
+10-6  = Busy
+10-7  = Out of Service
+10-8  = In Service
+10-9  = Repeat
+10-10 = Fight in Progress
+10-11 = Traffic Stop
+10-12 = Standby
+10-13 = Shots Fired
+10-15 = Subject in custody en route to Station
+10-16 = Stolen Vehicle
+10-17 = Suspicious Circumstances (Suspicious Person)
+10-18 = Disturbance
+10-19 = Active Ride Along
+10-20 = Location
+10-21 = Call/Check Discord
+10-22 = Disregard
+10-23 = Arrived on Scene
+10-25 = Do you have Contact With?
+10-26 = ETA
+10-27 = Driver's License Check for Valid
+10-28 = Vehicle License Plate Check
+10-29 = NCIC Warrant Check
+10-30 = Wanted Person
+10-31 = Dangerous/Armed Person
+10-32 = Additional Unit Requested (Code 1-2-3)
+10-34 = Completed Assignment - No Report
+10-35 = Not Wanted/No Warrants
+10-36 = Situation Under Control
+10-37 = Completed Last Assignment
+10-38 = Suspicious Vehicle
+10-39 = Police Officer
+10-41 = Beginning Tour of Duty
+10-42 = Ending Tour of Duty
+10-43 = Information about?
+10-44 = Park, Walk, & Talk
+10-45 = Street Race
+10-46 = EDP (Emotionally Disturbed Person)
+10-50 = Vehicle Accident
+10-51 = Request Towing Service
+10-52 = Request EMS
+10-53 = Request Fire Department
+10-54 = Hit and Run
+10-55 = Intoxicated Driver
+10-56 = Intoxicated Pedestrian
+10-60 = Animal Attack
+10-61 = Larceny
+10-62 = Kidnapping
+10-63 = Radio Check
+10-64 = Assault
+10-65 = Armed Robbery
+10-66 = Reckless Driver
+10-67 = Fire
+10-70 = Foot Pursuit
+10-71 = Request Supervisor at Scene
+10-73 = Advise Status
+10-76 = In Route
+10-80 = Vehicle Pursuit
+10-85 = Delay due to
+10-86 = Any Traffic for Me?
+10-88 = Request District Assistance
+10-89 = Request Major Assistance
+10-90 = Bank Alarm
+10-91 = Unnecessary use of Radio
+10-93 = Warning
+10-94 = Aircraft Emergency
+10-97 = Request Prisoner Transport
+10-99 = Officer In Distress - EXTREME EMERGENCY ONLY
+11-44 = Person Deceased
+Code 5  = Felony Stop / High Risk Stop
+Code 6  = "In The Area Of"
+Signal 11  = Running Radar
+Signal 13  = Clear for Crime Broadcast
+Signal 100 = HOLD ALL BUT EMERGENCY TRAFFIC
+
+MIRANDA RIGHTS:
+"You are under arrest. You have the right to remain silent. Anything you say can,
+and will, be used against you in a court of law. You have the right to an attorney.
+If you cannot afford one, one will be appointed to you. Do you understand the rights
+I have just read to you? With these rights in mind, do you wish to speak to me?"
+
+================================================================================
+DISPATCHING POLICY
+================================================================================
+WITH DISPATCH ONLINE:
+- Take all commands from Dispatch.
+- If dispatched to a scene, notify them you are available and en-route.
+- For a 10-11 Traffic Stop: notify Dispatch first, then WAIT for them to tell you
+  to proceed with further information. DO NOT ARGUE WITH DISPATCH.
+- If Dispatch does not request a certain response, you may inform them you are
+  en route and responding Code 1, 2, or 3 as appropriate.
+
+SELF DISPATCHING (no Dispatch online):
+- Units call out situations over the radio and may request backup as needed.
+- You are permitted to self-dispatch yourself to a request for additional units.
+
+================================================================================
+SECTION 3 | IN-GAME REGULATIONS
+================================================================================
+All SBO Agents must maintain the highest level of professionalism while in-game.
+
+- Follow all server rules, agency SOPs, and lawful procedures during every
+  interaction.
+- Abuse of power, unrealistic roleplay, excessive force without justification, or
+  failure to follow proper protocols will NOT be tolerated.
+- Treat all civilians, suspects, and fellow members with respect and fairness.
+- Remain in character while on-duty; avoid behavior that disrupts immersion or
+  damages the integrity of the roleplay environment.
+
+Failure to comply may result in disciplinary action including suspension, demotion,
+or termination.
+
+MEMBER QUALIFICATION:
+To join SBO, applicants must:
+- Be registered in the CaliRP CAD System.
+- Have a clean criminal record.
+- Have a valid driver's license.
+- Possess the ability to qualify for a firearms permit and license.
+- Possess the skills necessary to perform department duties.
+
+IDENTIFICATION POLICY:
+- You will be assigned a callsign upon joining.
+- You are identified by your callsign and CAD-registered name while on-duty.
+  Example formats: XXXX | J. Smith  /  John S.  /  John Smith
+- Your name and callsign MUST be in your Steam Profile Name or FiveM Display Name
+  so you can be identified by server staff while on-duty.
+
+================================================================================
+UNIFORM REGULATIONS
+================================================================================
+- All LEO must use a rank-appropriate uniform as stated by their department roster.
+- All uniforms must remain professional, including tattoos, hair style/color, and
+  eye color. Tattoos ABOVE the neckline are NOT permitted.
+- Formal uniforms must be worn for all RTO briefings.
+
+================================================================================
+VEHICLE REGULATIONS
+================================================================================
+- The Vehicle Structure can be located on the master roster.
+- Vehicle regulations are to be enforced by command at all times and followed 100%
+  of the time while on-duty.
+- UNMARKED vehicle color guidelines: Dark Blue, Grey, Silver, Black, White, Tan,
+  and Brown only.
+
+================================================================================
+WEAPON REGULATIONS
+================================================================================
+Authorized weapon loadout for SBO members:
+  - Combat Pistol
+  - Pump Shotgun
+  - Taser
+  - NightStick
+  - Flashlight
+  - Carbine Rifle
+  - Less Lethal Shotgun
+
+No other weapons are permitted unless they are MK2 or Custom Weapons approved
+by Command.
+
+================================================================================
+ROLEPLAY RULES
+================================================================================
+- At NO point are members authorized to break character, even if someone is
+  RDMing, VDMing, or breaking community guidelines.
+- Members MUST NOT break character until an active Staff Member arrives on scene.
+
+================================================================================
+ON-SCENE PROTOCOL
+================================================================================
+PRIORITY SCENES:
+- You are always permitted to respond to priority scenes.
+- You may NEVER FORCE scene command — you MAY REQUEST to take scene command.
+- This is especially important on scenes where scene command isn't established.
+
+NON-PRIORITY SCENES:
+- You are always permitted to respond to non-priority scenes (10-10, 10-11,
+  10-17, 10-18, etc.).
+- You are still NEVER allowed to force scene command.
+
+================================================================================
+HOMEFRONT SECURITY (DHS)
+================================================================================
+DHS ensures adherence to CaliRP Global SOP. DHS Agents may attach to a member's
+call or conduct a traffic stop. DHS Agents may participate in general LEO roleplay.
+
+- If questioned by a DHS Agent, answer to the best of your ability and comply
+  with any instructions given.
+- Minor issues may be corrected at the scene; DHS reserves the right to report
+  findings to department High Command.
+- For issues/concerns over DHS conduct: use the CaliRP Department Ticket process
+  or contact a DHS Supervisor.
+
+================================================================================
+SECTION 4 | DEPARTMENT STRUCTURE
+================================================================================
+
+CHAIN OF COMMAND:
+
+HIGH COMMAND:
+  Director
+  Assistant Director
+  Chief of Staff
+
+TRIAL HIGH COMMAND:
+  Operations Director
+  Assistant Operations Director
+
+LOW COMMAND:
+  Commander
+  Captain
+  1st Lieutenant
+  2nd Lieutenant
+
+SUPERVISORS:
+  Special Agent in Charge
+  Assistant Special Agent in Charge
+  Supervisory Agent in Charge
+
+AGENTS:
+  Senior Special Agent
+  Special Agent
+  Field Agent
+  Probationary Agent
+
+--------------------------------------------------------------------------------
+RANK DUTIES:
+
+High Command:
+- Management and oversight of the department as a whole.
+
+Low Command:
+- Fulfill administrative requests.
+- Oversee department activities such as training and recruiting.
+- Provide oversight and management of Supervisors.
+
+Supervisors:
+- Host trainings and recruit new members.
+- Oversee Field/Patrol units and ensure SOP adherence.
+
+Field/Patrol Units:
+- Patrol and perform the duties assigned to the department.
+- Attend and assist with trainings.
+
+================================================================================
+PROMOTIONAL GUIDELINES / ACTIVITY REQUIREMENTS
+================================================================================
+WEEKLY MINIMUM: 5 hours of on-duty activity per week.
+- Must consist of active patrol or assigned operations.
+- Simply being in-game or AFK does NOT count toward activity.
+- Must complete at least 3 patrol sessions per week (minimum 1 hour each).
+- Must actively engage in call response, traffic enforcement, and realistic
+  roleplay at all times.
+
+MEETINGS & TRAININGS:
+- Attendance at all mandatory meetings and trainings is REQUIRED.
+- Missing 2 consecutive meetings without prior notice may result in disciplinary
+  action including possible removal.
+
+CADETS & PROBATIONARY AGENTS:
+- Held to a higher training standard.
+- Must complete at least 2 ride-alongs per week.
+- Must actively participate and submit required training documentation.
+
+SPECIALIZED DIVISIONS (Tactical, Investigations, etc.):
+- Must still meet standard weekly activity hours.
+- Must participate in at least 1 unit-specific operation or training per week.
+
+LOA REQUIREMENT:
+- If unable to meet activity requirements, submit a Leave of Absence (LOA) with
+  a valid reason and expected return date. Failure to do so = marked inactive.
+
+INACTIVITY CONSEQUENCES:
+- 7 days inactive without notice: Warning
+- 14 days inactive: Removal from the agency
+
+================================================================================
+PUNISHMENT GUIDELINES / STRIKE POLICY
+================================================================================
+RANK AUTHORITY:
+- High Command: may administer any punishment to anyone in the department.
+- Low Command: may strike and suspend Supervisors and below.
+- Supervisors: may strike or send off-duty anyone below them.
+
+STRIKE SYSTEM:
+  Strike 1: No additional action unless otherwise dictated.
+  Strike 2: 1-3 day suspension and promotion cooldown.
+  Strike 3: Extended suspension and demotion OR termination.
+
+Strikes remain on a member's record for 14 days.
+
+ALTERNATIVE ACTIONS:
+- Loss of certain duties, authority, or permissions.
+- Administering a refresher training.
+- Terminations are the SOLE discretion of High Command.
+- If an offense warrants it, High Command may authorize an individual to be
+  BLACKLISTED from the department.
+
+================================================================================
+CODE OF CONDUCT
+================================================================================
+While on or off duty, all members represent the department. Members are held to
+a higher standard and must reflect that in every action taken, regardless of
+whether they are on duty or not.
+
+================================================================================
+ACTIVITY AND LOA POLICY
+================================================================================
+WEEKLY REQUIREMENT:
+- Minimum 5 hours of on-duty activity per week.
+- Hours must consist of active patrol, call response, or assigned operations.
+- Must reflect consistent engagement in realistic roleplay.
+- Failure to meet the weekly requirement without an approved LOA may result in
+  disciplinary action including warnings, rank review, or removal.
+
+LEAVE OF ABSENCE (LOA):
+- If expecting to be absent for more than 1 week, submit an LOA request for
+  approval including a valid reason and expected return date.
+- If an LOA is to exceed 60 days (2 months), High Command reserves the right to
+  seek termination if there was no prior agreement for an extended LOA.
+
+================================================================================

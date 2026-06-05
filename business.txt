@@ -1,0 +1,247 @@
+CALIRP BUSINESSES STANDARD OPERATING PROCEDURES
+================================================================================
+
+INTRODUCTION
+================================================================================
+This is the official California Roleplay Businesses Standard Operating Procedure.
+This document includes all regulations and guidelines for CaliRP Businesses.
+All topics under this document must be followed at all times.
+All rules are subject to change at any time.
+
+The CaliRP Business Coordination Team is here to make sure everything runs smoothly
+and everyone feels welcome. We help members with applications, claiming locations,
+and managing their businesses. Our goal is to improve the experience for business
+owners and members by ensuring they follow the rules and helping them operate
+effectively within the community.
+
+================================================================================
+CHAIN OF COMMAND
+================================================================================
+
+Business Coordination Team:
+  Businesses Director
+  Assistant Businesses Director
+  Business Manager
+  Assistant Business Manager
+  Lead Business Coordinator
+  Senior Business Coordinator
+  Business Coordinator
+  Trial Business Coordinator
+
+Business Employees:
+  Business Owner
+  Business Command
+  Business Supervisor
+  Business Member
+
+================================================================================
+JOINING A BUSINESS
+================================================================================
+All open business applications will be displayed on the Business Hub, located in
+the Business Adverts channel. The Business Adverts channel is an interactive,
+in-depth business advertisement that allows you to view all different categories
+of businesses and read more about the mission of a business you wish to join.
+
+You may be part of as many businesses as you wish, ONE security business and
+ONE Car Club.
+
+================================================================================
+LOCATIONS
+================================================================================
+All Businesses & Car Clubs get 2 FREE locations to be used at the discretion of
+the Business Command of that business.
+
+Rules:
+- A Business/Car Club CANNOT intrude, trespass, or claim a location already claimed
+  by another business or gang. The subject may be removed from their business and
+  arrested by local authorities.
+- Any YMAP a business buys is automatically added to their location upon making a ticket.
+- If you have claimed a postal, you must wait 30 days to claim another one using that slot.
+- You are NOT permitted to claim a YMAP as a location not owned by your business.
+- Interiors are NOT permitted to be claimed.
+
+All locations must be approved by a member of the Boards of Directors. It is at
+their discretion to approve or deny the location without a reason needed.
+
+================================================================================
+RESIGNATIONS & TRANSFERS
+================================================================================
+Businesses do NOT allow transfers between businesses. If you wish to join another
+business, you must retire and join after serving your resignation cooldown.
+
+Resignation cooldown: 3 days, unless approved by a member of the Boards of Directors.
+
+================================================================================
+DOCUMENTS
+================================================================================
+All businesses require working, updated documents that reflect the rules in this
+SOP as well as their operating procedures. All employees must follow their
+respective SOPs as well as this SOP. All Documents By Businesses must be Owned
+By a Board of Directors member.
+
+All Businesses must have the following:
+- Standard Operating Procedures
+- Roster
+- Training Guide (optional, if a training/orientation is required)
+- Google Form Application (optional)
+
+================================================================================
+GLOBAL BUSINESS GUIDELINES
+================================================================================
+As a business, you are required to follow global business regulations and CaliRP
+Server Guidelines. Failure to follow the rules below can and will result in
+disciplinary actions. Business Coordination and Business Command are responsible
+for ensuring their employees follow these guidelines.
+
+GENERAL RULES:
+- You MUST always be in your Business's VC while on as that respective business.
+- Never disrespect, threaten, or act toxic towards another member or business.
+- You may be part of as many businesses as you wish: ONE security business and
+  ONE Car Club.
+- Businesses may declare themselves Passive, though both parties are NOT permitted
+  to use violence in any way.
+- All business members must have a registered character in CAD.
+- You may break the law, though LEO may arrest employees who break the law.
+- Uphold both this SOP and the California Roleplay Server Rules.
+- A business may only have five HC members and five LC members (two may be THC ranks),
+  unless Tier 2/Tier 3.
+- Submit any documents created for the business to a Board of Directors member.
+- An employee can only be promoted one rank at a time unless approved by SBC.
+- Wait seven days after a promotion before being promoted again.
+- Roleplay with the utmost respect and professionalism.
+- Instatements may only be up to the highest non-supervisory rank; everything else
+  must be approved by a LBC+.
+- Businesses declared as passive CANNOT operate a security division; they must
+  contract a security business if needed.
+- Business Command CANNOT give out business tags to non-members, including in
+  business partnerships.
+- If a business member role-plays with another member, they must NOT poach, promote,
+  discuss joining, or compare the businesses they are involved in.
+- Pistols may be used at the discretion of High Command (excluding AP pistols/machine
+  pistols).
+- Declaring passive does NOT exempt you from LEO action if laws are broken. If the
+  business breaks passive (e.g., engages in violence), they will be treated as
+  the aggressor.
+- You CANNOT declare passive on an area or scene that you do not own.
+- You CANNOT declare an area or scene passive mid-way through.
+- You may run from the police but CANNOT engage in violent activities (cannot be
+  violent against LEO in any way or form).
+- You cannot initiate violence; self defense is permitted (Fear RP must be followed).
+
+YOU ARE NON-PASSIVE IF YOU DO ANY OF THE FOLLOWING:
+- Break a law
+- Declare yourselves non-passive
+- Have a weapon
+- Initiate or partake in violence
+
+IF YOUR BUSINESS IS OPERATING AS SECURITY OR SIMILAR FUNCTION:
+- All weapons must be legally registered in CAD.
+- LEO instructions must be followed at all times.
+- If detaining a suspect, you MUST call LEOs; you CANNOT jail them yourself.
+
+================================================================================
+BUSINESS RECRUITMENT GUIDELINES
+================================================================================
+There are two types of Recruitment: Roleplay and Non-Roleplay.
+
+ROLEPLAY RECRUITMENT:
+Businesses may allow certain ranks to hire civilians during in-server roleplay
+scenarios (e.g., during car meets or when a civilian enters their store requesting
+a job). Business Command must ensure the business SOP is strictly followed.
+
+NON-ROLEPLAY RECRUITMENT:
+Recruitments can be held at popular locations such as Sandy Shores, Paleto Bay,
+and Legion Square.
+
+When hosting a recruitment, the following rules apply:
+- 1 car per recruitment
+- Up to 3 props are permitted (reduce if disrupting the surrounding area)
+- No limit on the amount of recruiters
+
+Businesses must remain professional at all times. If someone disrupts a recruitment,
+call staff via the /calladmin command and be patient.
+These recruitments are hosted outside of character.
+
+================================================================================
+IDENTIFIERS
+================================================================================
+- When on duty, you MUST have your Business's headtag/gangtag enabled.
+- Your name must always include the abbreviation of your business in the Business Discord.
+  Example: G6 | M. Max
+- Your name must be professional and realistic.
+- You may have a "!" in front of your name if you're a Business Coordinator or
+  Business High Command.
+- Business Low Command may use a "#".
+
+================================================================================
+BUSINESS COMMAND
+================================================================================
+- The Business Command role is given to ranks (00)01-05 of each Business.
+- The Business Owner role is given to the highest-ranking member of each Business.
+- You may only be in command of ONE Business at a time.
+- Business Command is prohibited from making decisions based on biased opinions
+  or personal relationships.
+
+COMMAND STRUCTURE LIMITS:
+- 5 HC and 5 LC positions maximum (with 2 THC positions: 5 HC, 2 THC, 3 LC),
+  unless Tier 2 (grants 5 additional LC/THC slots) or Tier 3 (another 5 for LC/THC).
+- Any movement from Low Command to High Command requires approval from SBC and above,
+  including internal movements within the High Command team.
+- The Liaison of that business is to be contacted for HC promotions/movements.
+- Only ONE person may fill each rank within the command team.
+  Maximum of 10 command members unless there is an overseer.
+
+================================================================================
+CONTRACTS & PARTNERSHIPS
+================================================================================
+All Business Ownership/Command may contract or partner with all legal parties,
+including LEO, DOD, Security Businesses, etc.
+
+Rules:
+- All contracts and partnerships must be discussed with both parties' HC and
+  approved by Business Coordinators.
+- Both Business High Command Teams must ensure the contract is not breached at
+  any time.
+- Contracts with Gangs are permitted, though you may be arrested or face legal
+  consequences in roleplay.
+
+================================================================================
+MERGES & TRANSFERS
+================================================================================
+- A merge may only be approved by a member of the Board of Directors.
+- Merges are only permitted within the same section of the business (e.g., a
+  security company CANNOT merge with a car club).
+
+RANK POLICY FOR TRANSFERS/MERGES:
+  High Command          -> Lowest Low Command / Highest Supervisor
+  THC & LC              -> Highest Supervisor
+  Supervisors & Employees -> 1 rank demotion
+  Lowest Rank (after probationary rank) -> Lateral unless stated otherwise
+
+NOTE: Transferred individuals are on a 7-day promotion cooldown.
+Lead Business Coordinators+ have discretion regarding rank for transfers/merges.
+
+================================================================================
+BUSINESS STRUCTURE
+================================================================================
+
+CAR CLUBS:
+  - Overdrive
+  - Boosted Boiz
+  - Throttle Junkies
+  - Trail Blazers
+  - KO Club
+
+BUSINESSES:
+  - Talon Security
+  - Council Security
+  - Gruppe 6
+  - Vexorix Inc.
+  - Tard R. Inc
+  - California Aviation
+  - American Trucking Company
+  - Apex Aviation
+  - White Widow
+  - Weazel News
+
+================================================================================

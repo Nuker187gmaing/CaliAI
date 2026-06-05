@@ -1,0 +1,478 @@
+SAN ANDREAS HIGHWAY PATROL
+STANDARD OPERATING PROCEDURES
+================================================================================
+
+HIGH COMMAND:
+Commissioner 1S-01 | Trey S. (5 stars)
+Deputy Commissioner 1S-02 | W. Smith (4 stars)
+Assistant Commissioner 1S-03 | Jamal H. (3 stars)
+Chief 1S-04 | D. Ray (2 stars)
+Assistant Chief 1S-05 | Josh W. (1 star)
+
+================================================================================
+CHAPTER 1 - LAW ENFORCEMENT CODE OF ETHICS
+================================================================================
+
+1.1 - RESPONSIBILITIES:
+All Troopers of the San Andreas Highway Patrol are expected to:
+1. Set targets and goals; be ambitious within the department and server.
+2. Be proficient in laws and regulations pertaining to Trooper duties.
+3. Accept constructive criticism for growth and enhancement.
+4. Identify and mitigate situations that put themselves or others in harm's way.
+5. Use force appropriately, never outside permissions of the law or this document.
+6. Interview witnesses/victims, investigate crimes, apprehend criminals, make arrests.
+7. Attend weekly Department-wide meetings to stay updated.
+8. Conduct themselves kindly and cautiously. Do not steal, do not cut corners.
+   If a yes hasn't been explicitly said, assume a no.
+9. Know and remember Miranda rights:
+   "You have the right to remain silent. If you choose to waive this right, then
+   anything you say can and will be used against you in a court of law. You have
+   the right to have an attorney present during questioning; if you cannot afford
+   an attorney, then the state will provide one for you. Do you understand these
+   rights as they have been read to you?"
+
+1.2 - CORE VALUES:
+- Safety: Protect those who travel and live in the state of California.
+- Service: Provide professional service to the public; open communication; dedicate
+  to improving quality of life for all residents and visitors.
+- Security: Protect the public, their property, state employees, and state infrastructure.
+
+1.3 - COMMISSIONER'S OFFICE GOALS:
+1. Ensure all policies and procedures are in the best interest of safety/well-being.
+2. Exhibit a compassionate, responsive attitude toward the community.
+3. Assist the public in the utmost professional manner with empathy and integrity.
+4. Familiarize with all community training materials, department policy memorandums,
+   SOPs, CaliRP Community Rules. Ignorance is NOT a defense against disciplinary action.
+5. Use knowledge and experience to maintain order between all operations.
+6. Guide and train all Troopers with the correct instruction for success.
+
+1.4 - SAHP DUTIES AND RESPONSIBILITIES:
+1. Primary function: preserve peace, protect life and property, prevent crime,
+   apprehend criminal suspects, recover lost/stolen property, enforce traffic and
+   civil laws from Penal Codes fairly and impartially.
+2. Be honest and act with integrity. Never abuse authority or powers. Protect human rights.
+3. Obey the Penal Codes at all times.
+4. Under no circumstances inflict, instigate, or tolerate inhuman or degrading treatment
+   to any citizen.
+5. Be courteous and civil to the public and fellow Troopers at all times. Exercise
+   patience and discretion. Do NOT verbally assault, berate, or verbally abuse the public.
+6. Use appropriate language and behavior; do not use offensive language or behavior.
+7. Exercise reasonable care to prevent loss of life or damage to property at all times.
+8. Justify use of force; all circumstances must be taken into account. Use force
+   only if other means are or may be ineffective.
+9. Do not make yourself unfit for duty due to alcohol, substances, or misuse of
+   prescription drugs (in-character AND out-of-character). Those in violation considered
+   for demotion or removal pending investigation.
+10. In emergencies where a supervisor is not present, the highest-ranking officer
+    present or by radio is in charge.
+11. Do not endanger life beyond what is reasonable and necessary. Act in coordination
+    with other law enforcement. Do not take unnecessary risks.
+12. If a civilian requests a Supervisor on-scene, Troopers may request one or deny
+    based on articulation and discretion. When requesting a Supervisor, request the
+    lowest-ranking Supervisor first and elevate from there.
+13. Keep inter-department communications active at all times. Use SAHP Discord channels
+    and radio channels: 2.47 (Main department radio) & 344 (Tactical communications).
+    Large-scale incidents: use designated incident channel (50, 51, or 52) chosen by
+    the scene commander.
+
+================================================================================
+CHAPTER 2 - DEPARTMENT RANK STRUCTURE
+================================================================================
+
+2.1 - RANK STRUCTURE:
+
+HIGH COMMAND:
+  Commissioner           [1S-01]
+  Deputy Commissioner    [1S-02]
+  Assistant Commissioner [1S-03]
+  Chief                  [1S-04]
+  Assistant Chief        [1S-05]
+
+LOW COMMAND:
+  Colonel                [1S-06 & 1S-07]
+  Lt. Colonel            [1S-08 & 1S-09]
+  Commander              [1S-10 & 1S-11]
+  Lt. Commander          [1S-12 - 1S-14]
+  Captain                [1S-15 -> 1S-20]
+
+SENIOR PATROL SUPERVISOR:
+  1st Lieutenant         [2S-XX]
+  2nd Lieutenant         [2S-XX]
+
+PATROL SUPERVISOR:
+  Staff Sergeant         [3S-XX]
+  Sergeant               [3S-XX]
+  Senior Corporal        [4S-XX]
+  Corporal               [4S-XX]
+
+DEPARTMENT PATROL TROOPERS:
+  Master Trooper         [5S-XX]
+  Senior Trooper         [6S-XX]
+  Trooper                [7S-XX]
+  Reserve Trooper        [8S-XX]
+
+TROOPERS IN TRAINING:
+  Probationary Cadet     [PC-XX]
+
+2.2 - CHAIN OF COMMAND:
+1. The Chain of Command begins at Corporal (4S-XX). If they cannot assist, they will
+   refer you to a higher-ranking member. If a Trooper has an issue with a Chain of
+   Command member, contact the next highest or head/assistant head of supervisors.
+   Under normal circumstances, Troopers will NOT contact Lieutenants or above directly.
+   Failure to abide may result in disciplinary action.
+2. Each successive rank means more responsibilities. Maintaining Chain of Command is
+   crucial for discipline; lack of discipline can result in casualties or poor service.
+3. When a Trooper is promoted to Trial High Command (THC), they also receive the title
+   of Assistant Director of Low Command. Resigning from THC results in demotion below THC.
+
+================================================================================
+CHAPTER 3 - VEHICLES, UNIFORMS, AND WEAPONS
+================================================================================
+
+3.1 - VEHICLE POLICIES:
+- Each Trooper gets a new vehicle after every promotion.
+- Troopers can drive their rank-allocated vehicle and those below their current rank.
+- Exceptions: purchased vehicle pack, active in a subdivision, personal vehicle
+  approved by High Command.
+- High Command may remove vehicle access as punishment.
+- Allowed upgrades: exclude bulletproof tires, custom/unrealistic rims, window tint
+  on SAHP department vehicle, or anything that looks unrealistic.
+- Vehicles are your office; always lock them to protect weapon systems.
+- All vehicles fitted with: radar systems, Mobile Data Terminals, weapons rack, IFAKs.
+
+Specific Rules:
+1. All Troopers required to have patrol vehicles with appropriate extras. No Trooper
+   shall access a duty vehicle without explicit permission from the owner and SAHP HC.
+2. No vehicle pursuits or calls beyond current scene while transporting a detainee.
+   Do not operate vehicle dangerously to any detainee's safety.
+3. Operate vehicles with due regard to safety at all times, including when using
+   emergency signals. Do NOT use emergency signals to evade traffic signals or for
+   non-emergency purposes. Slow down going through intersections code 2 or 3.
+   Transport suspects code 1 unless high-valued suspect (code 3 permitted).
+   Drive like a civilian when patrolling; do not abuse lights/sirens.
+4. Extreme circumstances may result in unsafe operation; mitigate danger of any situation.
+5. Courtesy rides permitted to stranded individuals who have been identified.
+   Troopers MUST identify all transportees prior to entry.
+6. Troopers may choose not to transport citizens unless ordered by a supervisor or
+   federal agents.
+7. Do NOT use vehicle as weapon against foot pedestrians (exception: extreme high-priority
+   circumstances where vehicle is most practical). Report to supervisor immediately when
+   vehicle is used to ram any pedestrian or vehicle. NEVER ram unarmed pedestrians.
+   Minimal contact allowed in foot pursuits at low velocity.
+8. Plate format: XXSHPXXX (each X is a number). Only format allowed on duty.
+   Exception: unmarked/undercover units.
+   - When representing SAHP on duty: duty blips ON, head tags optional.
+   - Concert undercover unit: blip tag ON, head tag OFF.
+   - Head tag MUST be toggled ON immediately when identifying to other LEOs or
+     on large-scale scenes where crossfire threat is imminent.
+9. Only use department gang tags (SAHP | Supervisor, SAHP | Traffic Enforcement, etc.)
+   unless approved by SAHP High Command.
+10. PIT conditions (ALL must be met):
+    - Speed: Must be below 130 mph (except TEU advanced tactics certified)
+    - Weather: Must not be excessively rainy
+    - Traffic: Road around you must be clear of all traffic
+    - Pedestrians: No pedestrians or animals in the area of the PIT
+
+3.2 - UNIFORM STRUCTURE:
+- Conform to the uniform structure at all times. Violations result in disciplinary action.
+- Questions/issues: contact any patrol supervisor.
+1. All units MUST wear armored vest during active shooter, shots fired, or high-risk calls.
+   Vest may be removed after the call. Optional to patrol with or without vest otherwise.
+2. Tattoos permitted but NOT above the neckline. Facial hair permitted; must be kept neat.
+   Supervisors reserve the right to enforce "neat in appearance."
+3. Trial Low Command and above may use a custom uniform approved by SAHP High Command.
+4. Fat and Old Peds are NOT to be utilized while on patrol. Violation = punishment.
+3.2.5: Formal uniforms must be followed. Hats are NOT optional at any time. If your
+       hair clips through the hat, change your hair so it doesn't clip. (GSOP Compliance)
+
+3.3 - WEAPON STRUCTURE:
+1. All Troopers carry: flashlight, baton, X26 taser, combat pistol.
+   Only flashlight attachment allowed on service pistol; no custom colors.
+2. All Troopers must have pump action shotgun in vehicle weapon rack.
+   Must carry M4 Semi-Automatic Rifle in vehicle weapon rack (front row).
+   M4: can be fired in single shots, bursts, or rapid fire.
+   M4 restrictions: no custom colors, extended magazines, or suppressors.
+   All other attachments approved.
+3. Weapon systems not listed in 3.3.1 or 3.3.2 are prohibited for routine duty use.
+   Exception: extreme necessity (disarmed, fighting to survive). Retreat as soon as possible.
+   Supervisors should expedite extraction of Troopers in this situation.
+
+3.4 - IN GAME NAME STRUCTURE:
+Format: [Callsign] | [First Name] [Last Initial] or [First Initial] [Last Name]
+Example: 1S-01 | Carter G. OR J. Wayne
+Must match Discord nickname in CaliRP Discord. Required when actively On-Duty.
+
+================================================================================
+CHAPTER 4 - SUB DIVISIONS
+================================================================================
+
+4.1 - SUBDIVISIONS:
+- Major Crimes Division (MCD) - see MCD SOP
+- Special Weapons & Tactics (SWAT) - see SWAT SOP
+- Traffic Enforcement Unit (TEU) - see TEU SOP
+- Dynamic Response Unit (DRU) - see DRU SOP
+
+NOTE: Even as part of a subdivision, you MUST follow and comply with the SAHP SOP and
+the Global CaliRP SOP. If any contradiction exists between a subdivision SOP and the
+SAHP SOP, advise the Subdivision Commander or SAHP High Command member.
+
+================================================================================
+CHAPTER 5 - PROBATIONARY CADET INFORMATION AND TRAINING PROGRAM
+================================================================================
+
+5.1 - PROBATIONARY CADET INFORMATION:
+- All new hires assigned call signs beginning with "PC".
+- All probationary cadets MUST be above age 14.
+- Cadets are on a strict ONE-STRIKE policy.
+- PC Units can be terminated WITHOUT NOTIFICATION for ANY policy violation or
+  behavioral issues, by any High or Low Command member.
+- Probationary Cadets WILL NOT PATROL ALONE; must ride-along with FTA or FTO.
+- Must obey orders of the Trooper they ride-along with at all times, regardless of rank.
+- Callsign REQUIRED in steam name during training and patrolling.
+- 14 days to complete basic training; 30 days to complete ride-along.
+  Failure to meet these deadlines = immediate termination.
+
+5.2 - PROBATIONARY CADET TRAINING PROGRAM:
+To advance past PC stage, the Cadet must attend, complete, and pass a Field Training
+Event administered by a FTO (announced in #training-announcements in Field Training
+Division Channel in SAHP Discord).
+
+Training consists of:
+- Classroom: essential information all Troopers must know
+- Practical (in-game): use of 10 codes, performing traffic stops, vehicle pursuit policy,
+  RTO callouts, vehicle management, basic room/building clearing, firearm tactics.
+
+NOTE: Cadet MUST stay for entire duration. Incomplete attendance = automatic failure.
+
+After training, must complete at least 1 ride-along (minimum 1 hour) with a certified
+FTO, plus an evaluation by a Certified FTO.
+
+5.2 - FIELD TRAINING OFFICERS AND ASSISTANTS:
+- FTOs are expected to be available to help develop Probationary Cadets.
+- Responsible for preparing Cadets for evaluation.
+- Must ensure quality of training and instruction.
+- Should recognize and propose better ideas for Cadet training to the FTD Head.
+- Must be patient and professional at all times.
+
+5.3 - TRAINING COORDINATORS:
+- Primary responsibility: assess and manage FTOs and FTAs; monitor trainings for
+  fairness and impartiality.
+- Assist FTOs/FTAs with questions or concerns.
+- Continuously ensure FTOs fill out required documents (logs of all training/ride-alongs).
+- To become Training Coordinator: must have participated in multiple trainings and
+  ride-alongs, be an expert in all SAHP SOPs, and capable of solving issues.
+
+================================================================================
+CHAPTER 6 - PROMOTIONS/DEMOTIONS
+================================================================================
+
+6.1 - PROMOTIONS:
+- Every rank has minimum requirements. Command team monitors and documents all members
+  throughout the promotion period.
+- Supervisors and Senior Supervisors can recommend members below their rank.
+- High Command reserves the right to hold any member's promotion at their discretion.
+- Promotions based on activity and requirements during the previous promotion period.
+- For specific requirements, review SAHP Promotional Guidelines.
+- Weekly promotion period: Sunday 12am to Saturday 11:59 PM.
+  All hours and requirements must be within this period.
+
+6.2 - DISCIPLINARY ACTION:
+Low Command and High Command reserve the right to demote, strike, or warn Troopers
+for misconduct. Removal requires a majority vote among all Command members.
+
+Reasons for removal:
+1. INACTIVITY: Absent more than one week without notifying a direct supervisor.
+   May also result in removal of roles/positions or rank demotion.
+2. POOR INTRAPERSONAL/PROFESSIONAL INTERACTION: Poor behavior during scenes,
+   inability to roleplay legitimately, no intention to roleplay (must be documented).
+3. Inability to adhere to department policies and procedures.
+4. DISRESPECT of fellow Troopers or any LEO department/entities, including harassment
+   in personal messages.
+5. All disciplinary actions will NOT be discussed with individuals outside originally
+   involved parties.
+6. NO PINGING ROLES for any reason except: hosting recruitments, training, or
+   sub-division training. Failure = serious disciplinary action.
+7. LC members receive warnings for escalating inactivity:
+   Strike I = warning | Strike II = demotion | Strike III = dismissal from team.
+   LC members must actively engage in discussions, attend meetings, and complete tasks.
+8. Department disrespect = severe consequences up to termination.
+
+6.3 - TRANSFER POLICY:
+Transfer requests are announced in the CaliRP Discord. If not announced, assume closed.
+SAHP reserves the right to refuse transfers.
+
+Transfer may be DENIED if:
+1. Current Disciplinary Actions exist.
+2. Less than 60 days in SAHP.
+3. Not active within last 14 days prior to transfer request.
+4. No member may transfer directly into Low Command; placed at highest supervisor
+   rank with vacancy.
+5. All new transfers, instatements, and reinstatements MUST receive a 14-day
+   promotional cooldown. No exceptions.
+
+Transfer Process:
+1. Open a Transfer/Resignation Ticket in SAHP Discord to notify High Command.
+2. Once requirements verified, open Transfer Ticket in Department Hub.
+3. Destination department's HC responds (accept or deny).
+4. If accepted: member demoted at least one rank per Global Transfer SOP.
+5. Once both HCs accept: current department roles removed; transfer complete.
+6. Removed from SAHP master roster and kicked from SAHP Department Discord.
+
+Transfer Disclaimers:
+- Destination HC reserves right to deny any transfer request.
+- Destination HC may or may not honor subdivision statuses.
+- Previous conduct may be discussed between department HCs; may affect onboarding rank.
+
+6.4 - RESIGNATION/RETIREMENT POLICY:
+Troopers reserve the right to resign from SAHP. Upon resignation, HC assigns a
+2-week cooldown period; cannot apply to any LEO department until cooldown ends.
+
+6.4.1: Command members reserve the right to stay in the Discord upon retirement,
+except in cases of termination, transfer, joining another main LEO dept, or ban.
+Below SAHP Low Command ranks will be removed from SAHP Discord server.
+
+6.4.2: Eligibility for retired status:
+- Provide a two-week written notice to Department HC Team (not required)
+- Must not have had any disciplinary sanctions in the last 30 days
+- Must leave in a positive standing within the community
+
+6.4.3: "Ret. HC" Role Policy:
+- All HC members receive the "Ret. HC" role when retiring from HC position.
+- Retired HC maintains their HC role regardless of other positions taken.
+- Section 6.4.2 applies to retiring HC members.
+
+6.4.4: "Ret. LC" Role Policy:
+- All LC members receive the "Ret. LC" role once they retire from LC position.
+- Maintained as long as they are in Discord and NOT active as a trooper.
+  (Reserves position is the exception)
+- If you come out of retirement, out of reserves, or rejoin Discord, you lose Ret. LC.
+- If terminated, transferred, or joined another main LEO Dept, then rejoin SAHP:
+  you will NOT maintain your Ret. Role.
+
+6.4.5: Those allowed within SAHP Discord (at HC discretion):
+- Reserve Troopers (8S-XX)
+- Other Main LEO Department HC
+- Retired High Command
+- Department Coords or Higher
+- DHS Supervisors or Higher
+- Friend of SAHP (good standing with SAHP command team, doesn't cause problems)
+- State Patrol Command
+- Any Department
+
+6.4.6: ANY member within SAHP Discord can be kicked at the Discretion of High Command+.
+
+6.5 - REDUCED HOURS:
+Approved by Trial High Command member in extenuating circumstances only.
+Personnel must:
+- Have been active for the past four weeks
+- Be in good standing with the command team
+- Have made an impact within the department
+Once approved: prohibits any movements within the department; trooper asked to step
+down from any command position.
+
+6.5.1: Approved Reduced Hours include exemption from subdivision requirements.
+Prohibits any movements within the subdivision; trooper asked to step down from
+any subdivision command position.
+
+6.6 - ACTIVITY REQUIREMENTS:
+- Master Trooper and above: minimum 12 hours MONTHLY to maintain rank.
+- After 30 consecutive days of no reported activity or less than 12 hours in a month:
+  inactivity warning issued.
+- After 60 days of no activity: removed from SAHP roster and SAHP Discord.
+- (Individuals may still be demoted without receiving an inactivity warning)
+- From Trooper to Senior Trooper: NO HOUR REQUIREMENT.
+  Failure to meet requirements still results in same punishment.
+
+6.6.1: Not required to use gangtags on basic patrol. However, when activating as a
+subdivision, you MUST use the required gangtag for that subdivision.
+FTD and RD are exempt from gangtags but must post announcements.
+TEU, GNTF, SWAT division commanders will enforce gangtag use for members.
+CANNOT use Sub-Tags during basic patrol, recruitments, or training; this counts as
+fake clocking hours for the subdivision = disciplinary action.
+
+6.7 - LEAVE OF ABSENCE POLICY (LOA):
+- All LOA requests must be approved by Low Command.
+- While on LOA: cannot go on duty as SAHP or partake in ANY SAHP-related activities
+  (including Discord, admin, or paperwork).
+- While on LOA: cannot be on another FiveM server as an active LEO.
+  Violation = dual planning = termination.
+- Must provide a valid reason for LOA to keep track.
+- Valid reasons: medical emergency, family emergency, exams, natural disasters,
+  vacation, PC issues, or no access to PC/internet.
+  NOTE: needing a break is NOT a valid reason.
+- If LOA is for a break from FiveM/duties, do NOT perform duties in another department.
+- LOA minimum: 7 days; maximum: 14 days (approved by LC member).
+- Long-term LOA (15+ days): open Low Command support ticket; High Command must approve.
+  HC reserves the right to deny. Depending on length, may be asked to step down from
+  command position.
+- After LOA ends: 7-day LOA cooldown. Cannot begin another LOA during those 7 days.
+
+6.8 - REINSTATEMENT POLICY:
+Requirements:
+- Must have resigned within the last 30 days.
+- Clean disciplinary record for 30 days before resignation.
+- Must be approved by Department High Command.
+
+6.8.1: Rank placed upon reinstatement is at the discretion of Department High Command.
+
+6.8.2: All new transfers, instatements, and reinstatements receive a 14-day promotional
+cooldown. During this period, members cannot be promoted. Members must familiarize
+themselves with the department structure, expectations, chain of command, and SAHP SOP.
+
+6.9 - LC RANK GUIDELINES (TENURE LIMITS):
+- Colonels: may NOT retain rank more than 90 days
+- Lieutenant Colonels: may NOT retain rank more than 60 days
+- Commanders and Majors: may NOT retain rank more than 50 days
+- Captains and Lieutenant Commanders: may NOT retain rank more than 40 days
+- Trial Low Command: may NOT retain rank more than 4 weeks
+
+Failure to adhere may result in activity review and potential removal from Low Command.
+Exceptions: active status with rank lock (authorized by Commissioner's office) or no
+available space in command structure.
+
+All transitions into/out of command undergo scrutiny of Personnel's History Profile (PHP).
+Performance concerns may result in appointment being withheld.
+
+6.10 - RESERVES POLICY:
+Requirements to enter Reserves:
+- Reach Low Command in SAHP
+- Have held a High Command position in subdivisions or a coordination spot
+- No punishments within the last 4 weeks
+- Have been active for the last 4 weeks
+- Be in good standing with the HC team
+- Has gone above and beyond for the department while continuing to show dedication
+
+All Reserves are on 1SP (One Strike Policy) - Zero Tolerance Policy.
+
+Reserve activity requirement: 4 hours a month (roughly 1 hour a week).
+Reservists must abide by Uniform & Vehicle standards set forth in the master roster.
+Reservists should NOT operate in a supervisory capacity whatsoever.
+Reservists must NOT portray/represent themselves in a supervisor capacity either
+(i.e., do NOT wear All Blue SAHP Command Uniform, drive vehicles with Polar Bear
+Livery, or drive vehicles that say "Command" on them).
+
+6.11 - INTERNAL AFFAIRS & PROMOTION AUDITOR:
+Any LC member promoted to either Internal Affairs or Promotion Auditor will be placed
+on a 30-day probationary period. One mistake = removal from the division.
+(Both positions carry heavy responsibilities: IA for handling reports; Promotion
+Auditor for handling skipped promotion tickets.)
+The Commissioner has authority to prolong probationary time and handle removals.
+
+6.12 - SAN ANDREAS HIGHWAY PATROL BRIEFINGS:
+Captain+ (Low Command) may host in-game briefings with approval of the Highest
+Command member on-duty.
+Location: Highway Patrol Stations Briefing Room, postal 546.
+Briefings may cover: mass patrol designated areas, enforcing rules and regulations,
+addressing misconduct during patrols.
+
+How to host a briefing (Captain and above):
+1. Call it out in-game radio; tell people to stop what they're doing and head to
+   Highway Patrol station, postal 546, Briefing Room.
+2. Once there, put on formals and line up.
+3. When everyone is present, begin covering the topic(s).
+
+================================================================================
+Document Updated: 4/30/2026 by SAHP High Command
+Document Approved by: SAHP High Command
+Effective Date: 02/13/2022
+================================================================================

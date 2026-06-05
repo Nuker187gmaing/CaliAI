@@ -1,0 +1,522 @@
+BUREAU OF SPECIAL ENFORCEMENT (BSE)
+STANDARD OPERATING PROCEDURE
+Author: Deklan Brackford (BSE-21)
+Issued: 10/15/2025 | Effective: 10/16/2025
+"Federal Authority. Local Impact."
+================================================================================
+
+SECTION 1.0 | INTRODUCTION
+================================================================================
+BSE is the official department-level SOP within CaliRP, compliant with the GSOP.
+Where this document is silent, the GSOP controls. If a conflict is identified,
+the stricter rule applies and GSOP prevails.
+
+SCOPE: Applies to all BSE personnel (Probationary through Director) while on or
+representing the department. BSE operates as a California-based Federal Agency
+focusing on anti-heavy crimes (bank robberies, homicide/murder, serial & mass
+violence, organized robbery crews, high-value kidnappings, terrorism indicators)
+and supports normal LEO functions in accordance with GSOP.
+
+AUTHORITY: BSE Agents are federal LEO within the roleplay environment. Jurisdiction
+is state-wide with interagency support to local LEO and DHS. Traffic enforcement
+limitations for Federal units per GSOP remain in effect (see Section 10.0).
+
+================================================================================
+SECTION 1.1 | MISSION STATEMENT
+================================================================================
+Protect California and its communities by detecting, disrupting, and dismantling
+violent and organized criminal threats through intelligence-led investigations,
+decisive enforcement, and professional interagency coordination.
+
+OBJECTIVES:
+- Rapidly respond to and manage critical incidents (bank/armored-car robberies,
+  active killer events, hostage/barricade scenarios).
+- Conduct major case investigations into homicide, organized robbery/crew activity,
+  weapons trafficking, and RICO-style conspiracies.
+- Lead or augment multi-agency task forces, ensuring lawful tactics and safe
+  resolutions.
+- Uphold public trust through accountability, integrity, and compliance with GSOP.
+
+================================================================================
+SECTION 1.2 | PRELIMINARY INFORMATION
+================================================================================
+- Department of Homefront Security (DHS): Enforces GSOP server-wide. BSE
+  coordinates with DHS for cross-department enforcement/oversight as needed.
+- CaliRP Penal Codes: BSE adopts and enforces 2024 Penal Codes and speed limits.
+- Document Control: All official BSE documents are owned per GSOP Section 8.3
+  and must be listed in the department's official docs hub.
+- Investigative Scope: BSE's baseline LEO duties are limited by GSOP Section 10.0;
+  federal units do not initiate traffic stops, except as defined there (felony
+  in-progress, imminent threat, or at local request).
+
+================================================================================
+SECTION 2.0 | DEPARTMENT STRUCTURE
+================================================================================
+
+2.1 DEPARTMENTS BY CATEGORY:
+BSE is a Main Federal Department within the GSOP structure. BSE participates in
+global policies including TAC, UC, border, and FAA rules (Section 9.0).
+
+2.2 CHAIN OF COMMAND:
+
+01 - Director
+  Head of the Bureau; oversees all BSE operations, divisions, policies, and
+  interagency relations. Answers directly to Department Coordination / DOJ.
+  Ultimate authority on disciplinary actions and command appointments.
+
+02 - Deputy Director
+  Second-in-command of the Bureau. Supervises Assistant Directors, approves
+  federal task force operations, manages internal affairs. Acts as Director
+  in their absence.
+
+03 - Assistant Director
+  Manages operational oversight of major divisions (Operations, Investigations,
+  Intelligence). Liaison between field command and upper administration.
+  Ensures GSOP and federal standards are enforced bureau-wide.
+
+04 - Regional Director
+  Oversees operations within a designated region of California (North, Central,
+  South). Responsible for inter-regional coordination, recruitment oversight,
+  and local agency partnerships.
+
+05 - Division Chief
+  Leads a specific division (Tactical Enforcement, Major Crimes, Intelligence,
+  etc.). Reports directly to the Assistant or Regional Director. Maintains
+  division SOPs, rosters, and certification tracking.
+
+06 - Chief of Staff (THC)
+  Coordinates all internal communications, scheduling, and administrative policy.
+  Direct advisor to the Director and Deputy Director. Oversees internal HR,
+  documentation, and coordination tasks.
+
+07 - Section Chief (LC)
+  Leads multiple units or squads within a division. Manages supervisors and SACs
+  under their section. Approves tactical activations and field deployments.
+
+08 - Special Agent in Charge (SAC)
+  Commands a field office or operational district. Oversees all cases, raids,
+  and local Bureau activity within their jurisdiction. Reports directly to the
+  Section Chief.
+
+09 - Deputy Special Agent in Charge (DSAC)
+  Second-in-command to the SAC; acts in their absence. Supervises unit
+  Supervisors and ensures compliance with Bureau procedures.
+
+10 - Supervisor (LC)
+  Directly manages field teams, assigns cases, monitors investigations, and
+  handles daily operations. Responsible for evaluating and training new or
+  probationary agents.
+
+11 - Lead Special Agent (TLC)
+  Senior operational leader; assists Supervisors in field coordination and
+  training. Acts as shift or scene lead during high-risk operations. May
+  temporarily assume supervisory responsibilities when designated.
+
+12 - Senior Special Agent (SSA)
+  Highly experienced investigator. Leads critical cases, mentors junior agents,
+  and may head small task groups. Reports to Supervisor or Lead Special Agent.
+
+13 - Special Agent (SA)
+  Standard field agent rank. Conducts investigations, assists in tactical
+  operations, prepares case files, and executes warrants. Represents the
+  backbone of BSE enforcement.
+
+14 - Field Agent (FA)
+  Transitional stage between Agent and Special Agent. Gathers field experience,
+  assists with arrests, and supports investigations under supervision.
+
+15 - Agent (AGT)
+  Fully certified BSE operative. Executes assignments as part of a team; still
+  under mentorship of senior staff.
+
+16 - Probationary Agent / Trainee (PA)
+  Entry-level recruit currently in or recently graduated from training academy.
+  Must complete all certifications (Firearms, Federal Procedures, GSOP
+  Compliance, and FTO evaluation). May NOT operate solo or lead investigations
+  until cleared.
+
+COMMAND SPOTS: BSE adheres to GSOP cap of 25 total command (HC+THC+LC).
+Preferred layout: 5 HC, 4 THC, 12 LC.
+
+================================================================================
+SECTION 3.0 | IN-GAME RULES
+================================================================================
+
+3.1 IN CHARACTER (IC):
+BSE adopts GSOP Section 3.1 in full, including: 2-life rule, no breaking
+character, adherence to penal codes, internal punishments, use of force, and
+weapon policies. Tactical role separation (Scene Command vs Negotiator vs Tac
+Lead) is mandatory.
+
+3.2 DUTY BLIPS & HEADTAGS (GSOP-Aligned):
+- Marked:     Blip ON | Headtag ON
+- Unmarked:   Blip ON | Headtag Optional (BSE requires visible identification
+              when engaging enforcement)
+- Undercover: Blip ON | Headtag OFF (follow UC procedures; must re-tag on
+              contact/arrival per Section 9.2)
+
+3.3 OUT OF CHARACTER (OOC):
+BSE adopts GSOP Section 3.2 entirely (strikes, LOA rules, respect toward
+departments, follow staff, professionalism, RTO etiquette, etc.).
+
+================================================================================
+SECTION 4.0 | RADIO TRAFFIC ONLY (RTO) PROFESSIONALISM
+================================================================================
+
+4.1 10-CODES:
+Use the server's official 10-codes. If unknown, use plain English equivalents.
+"Shots fired" may be used for 10-13.
+
+4.2 COMMUNICATING IN RTO:
+- With Dispatch: request to transmit; supply concise, relevant details.
+- Without Dispatch: self-dispatch per GSOP; still obey RTO authority.
+- Use 10-1 for side-channel comms as needed; keep CAD statuses updated.
+- Request Dispatch readiness before a 10-11 callout (if assisting locals).
+- Do NOT call out FailRP/VDM/RDM in RTO; use tickets/staff.
+- Stay realistic (no "talking while down").
+
+4.3 AUTHORITY IN RTO:
+BSE follows GSOP roles for Supervisors, Pre-Main HC, Main HC, and Dispatch.
+Chain of Command must be followed at all times. Briefings require Main Dept HC
+or DHS S.S.A.+ per GSOP.
+
+================================================================================
+SECTION 5.0 | WEAPON, UNIFORM & VEHICLE POLICIES
+================================================================================
+
+5.1 GENERAL INFORMATION:
+- Department equipment is for BSE personnel only; carry valid licenses.
+- Treat all displayed firearms as lethal; no mag-dumping; cease fire when
+  threat ends.
+- Flashbangs: SRT-only or certified tactical use when necessary.
+- Explosives restricted except approved breaching (per GSOP & TAC rules).
+
+5.2 VEHICLES (GSOP-COMPLIANT):
+- Realistic LEO liveries/colors only.
+- Speed limits: 180 mph max (or 225 mph if HEAT/TEU certified) and
+  weather-dependent; disengage if unsafe.
+- FEDERAL TRAFFIC STOP LIMITATION: BSE will NOT initiate routine traffic stops.
+  Exceptions:
+  1. At local request/coordination
+  2. Felony in progress (imminent threat to life)
+  3. Drive-by/active violent felony observed (engage, then handoff)
+- Lock vehicles; follow department plate formats per GSOP
+  (2N-3L-3N or 2N-2L-4N, professional content).
+- Tactical vehicles (Bearcat/MRAP): deployment only, no patrol.
+- Window tint: federal may use up to "Dark Smoke," never full blackout.
+- Supervisors may use visor lights; patrol uses lightbar unless exempt.
+
+5.3 WEAPONS:
+- Use only BSE-authorized weapons and attachments.
+- Heavy weapons limited to SRT/active tactical.
+- No illegal weapons (AP Pistol, Ghost Glock, etc.).
+- No incendiary/explosive ammo.
+
+5.4 UNIFORM STANDARDS:
+- Rank-appropriate uniforms; professional grooming; no neck/face tattoos.
+- Formal uniforms for RTO briefings or press releases.
+- Acceptable duty options:
+  * Suit + Badge (formal)
+  * Tactical Polo & Plate Carrier (Operations)
+  * Full SRT Kit (tactical activation with "AGENT/BSE" marking)
+
+================================================================================
+SECTION 6.0 | USE OF FORCE CONTINUUM
+================================================================================
+BSE adopts GSOP Use-of-Force in full. Principles: necessity, proportionality,
+de-escalation, and duty to intervene.
+
+All OIS/serious force incidents require:
+- Immediate supervisor notification
+- Incident packet (reports, video, evidence log) within 24 hours
+
+================================================================================
+SECTION 7.0 | TRANSFER, RESIGNATION & TERMINATION
+================================================================================
+
+7.1 TRANSFER POLICIES:
+BSE adopts GSOP Section 7.1 (eligibility, 60 days TID, cooldowns, demotions on
+transfer, exceptions via Senior DC+). Main/Pre-Main/Fed/DoD transfer mapping
+per GSOP applies.
+
+7.2 RESIGNATION & RESERVE POLICIES:
+BSE adopts GSOP Section 7.2 (cooldowns, reinstatement window, reserve returns,
+DC approvals, TID resets). Cooldown bypasses via DevOps Store per GSOP.
+
+7.3 TERMINATION & BLACKLIST:
+BSE adopts GSOP Section 7.3: terminations for rule breaches; server bans 2+
+weeks remove from all departments; 2-week LEO cooldown on each departure
+(excluding transfers).
+
+7.4 REINSTATEMENT:
+BSE adopts GSOP Section 7.4: 30 days or less eligible; return at 2-4 rank
+demotion; HC/LC return at highest supervisor.
+
+================================================================================
+SECTION 8.0 | DEPARTMENT POLICIES (BSE-SPECIFIC)
+================================================================================
+
+8.1 DEPARTMENT COMMAND:
+- HC Range (01-05) per GSOP. Pre-Main/DoD concurrency limits apply.
+- Promotions must respect GSOP cooling periods; 3-rank+ changes require LDC
+  approval.
+- HC must maintain 30+ hours/month and demonstrate time-in-rank.
+
+8.2 DEPARTMENT DISCIPLINE:
+- BSE enforces CaliRP Global Disciplinary Guidelines 1.0.
+- All misconduct by LEO (any dept) observed by BSE must be reported via DHS
+  or proper ticket.
+- HC strikes count as Department Strikes and are escalated to Department
+  Director Team.
+
+8.3 DEPARTMENT REQUIREMENTS (DOCUMENTATION):
+- Master Roster (employees/vehicles/uniforms)
+- Clear Rank Structure; this SOP; classroom & field training guides
+- All docs owned by ldc@calirp.gg or department director per GSOP
+- Ownership Clause: All BSE docs belong to the department; altering/removal
+  post-resignation is prohibited.
+
+8.4 PUNISHMENT OF MEMBERS:
+Progressive discipline per GSOP:
+Oral Warning -> Written Warning -> Suspension -> Demotion -> Termination
+All proof must be logged in the BSE Discord evidence channel.
+
+8.4.1 WHAT COULD GET YOU SUSPENDED (not limited to):
+- Disrespecting other departments
+- Wrongly discharging your firearm
+- Using deadly force on a cooperative suspect
+- Abuse of Sirens & Lights
+- Abusing your authority
+- Use of explosives on non-bulletproof vehicles
+
+8.4.2 SUSPENSION LIMITATIONS - While suspended you MUST refrain from:
+1. Clocking on duty
+2. Joining RTO
+3. Patrolling
+4. Hosting trainings
+5. Assisting trainings
+6. Hosting ride-alongs
+7. Participating in Arrests / Raids
+
+8.5 TRAINING & RECRUITMENT:
+- Required pipeline: Application -> Interview -> Training (Academy & FTO)
+- Open Recruitments per GSOP cadence/notice; adherence to event caps.
+- Trainers must use standardized evaluation rubrics.
+- Core BSE Curriculum (minimum):
+  1. GSOP compliance & ethics
+  2. Use-of-Force & de-escalation
+  3. High-Risk Incident Command (HRI-ICS)
+  4. Bank Robbery/Hostage Protocols
+  5. Homicide & Major Crimes Case Building
+  6. SRT foundations (room entries, breaching, L&S driving, TEMS overview)
+  7. UC/Surveillance tradecraft (legalities, safety)
+  8. Evidence, warrants, and chain of custody
+  9. CAD, report writing, press/PIO basics
+
+8.6 SUBDIVISION POLICIES:
+BSE may operate GSOP-conforming subdivisions (TBA). Subdivision leads must be
+Supervisor+ and maintain SOPs, rosters, and training packets. TAC activation
+rules in Section 9.1 apply (min operators, no patrol, vehicle limits).
+
+8.7 LEO TRAFFIC STOPS (BSE APPLICATION):
+BSE adopts GSOP Section 8.7. BSE HC may pull over BSE units internally.
+Cross-department LEO stops require DHS per GSOP.
+
+8.8 CORRUPT ROLEPLAY:
+Absolutely prohibited (bribes, torture, etc.). Violations result in removal
+across departments as outlined in GSOP Section 8.8.
+
+8.9 BADGE & NAME FORMATS:
+- Headtag must be active when conducting law enforcement actions or upon
+  arrival on-scene (UC exceptions until contact).
+- BSE Callsign Format: BSE-### (assigned by BSE Command). Example: BSE-127
+- RTO Display: BSE-### | J. Doe
+  When undercover: 127 | UC-1 | J. Doe (per Section 9.2)
+- Unit Plates: per GSOP formats in Section 5.2 (no unprofessional content)
+
+================================================================================
+SECTION 9.0 | GLOBAL POLICIES (ADOPTED BY BSE)
+================================================================================
+
+9.1 TAC POLICIES (BSE SRT):
+- SRT responds to robberies, hostages, 10-13s, high-priority calls, and
+  illegal org actions per GSOP.
+- ACTIVATION REQUIREMENTS:
+  * 3+ operators to activate; low-TAC minimum 2 (low-priority)
+  * Clearly designated Scene Command, Negotiator, and Tac Lead (distinct roles)
+  * Markings ("AGENT"/"BSE SRT") on vests unless JSOC exception (DoD only)
+  * Vehicle usage and militarized restrictions enforced; no SRT patrol
+  * No kill-confirming/mag-dumping
+  * Callsign: TAC-1/SRT-1 for team activation
+
+9.2 UNDERCOVER (UC):
+- Must be on-duty and follow all laws; no tasting drugs, no real-world gang
+  affiliations.
+- Maintain fake ID; reveal badge to LEO upon enforcement interactions.
+- Headtag OFF while covert; re-tag when engaging LEO action/arrival.
+- Update RTO to show UC activation (e.g., 201 | UC-1 | J. Doe).
+- UC will NOT respond to routine 10-11/10-80/10-13 unless tied to UC mission.
+
+9.3 BORDER:
+BSE only assists if DHS/USBP is present or on request; follows GSOP search
+lanes, use-of-force, and vehicle policies. No shooting at crossers unless
+threat criteria met.
+
+9.4 FAA (AIR OPERATIONS):
+- AIR-1 may land where realistic; no mounted weapon use; small-arms only if
+  engaged first (TAC exception for vehicle-disable on HVTs as GSOP allows).
+- Weather & altitude restrictions apply.
+- Request Zancudo clearance on Radio 149 as applicable.
+
+================================================================================
+SECTION 10.0 | MISCELLANEOUS INFORMATION
+================================================================================
+BSE adopts GSOP Section 10.0 in full, including:
+- Department concurrency limits (1 main Fed, etc.)
+- Federal traffic stop restriction and intervention exception for imminent threats
+- CAD required at all times; no criminal CAD record for active LEO
+- Realistic names; required identification on request (unless unsafe moment)
+- No private department RTOs; use official channels only
+- PIT rules (push bar, 150 mph max, conditions clear)
+- Streaming, phone use, prop limits, press release conduct
+- Border & DoD cooperation rules
+
+================================================================================
+SECTION 11.0 | ANY DEPARTMENT POLICY (COMPLIANCE)
+================================================================================
+BSE acknowledges GSOP Section 11.0. Where "Any Department" specifics apply,
+BSE will comply when activated under AD. Otherwise, BSE uses its own format in
+Section 8.9 while adhering to global plate formats and display requirements.
+
+================================================================================
+SECTION 12.0 | DEPARTMENT OF JUSTICE (COORDINATION)
+================================================================================
+BSE abides by GSOP DOJ protocols (court/BAR verification; arrests proceed
+regardless of intent to file; refer civilians to DOJ forms). BSE will coordinate
+with DOJ for major case subpoenas, warrants, and courtroom testimony.
+
+================================================================================
+SECTION 13.0 | NAMING POLICY
+================================================================================
+13.1 DISCORD NAME: Callsign | Name (e.g., BSE-21 | John Doe)
+13.2 IN-GAME NAME: Callsign | Name (e.g., BSE-21 | John Doe)
+
+================================================================================
+SECTION 14.0 | LOA POLICY
+================================================================================
+
+14.1 PURPOSE:
+The BSE Leave of Absence (LOA) ensures all personnel maintain transparency,
+accountability, and professionalism when temporarily stepping away from duties.
+This policy ensures operational stability, prevents inactivity issues, and allows
+members to return without disciplinary action when proper procedure is followed.
+
+14.2 REQUESTING AN LOA:
+- All LOAs must be formally requested through the BSE Discord LOA Request Channel
+  or via support ticket.
+- LOA requests MUST include:
+  1. Name & Callsign
+  2. Rank & Sub-division (if applicable)
+  3. Start & End dates
+  4. Reason (generalized if private)
+  5. Expected return date
+
+Failure to submit an LOA before extended inactivity may result in an inactivity
+strike or termination per GSOP Section 3.2.
+
+================================================================================
+SECTION 15.0 | ACTIVITY REQUIREMENTS
+================================================================================
+
+15.1 PURPOSE:
+Ensures consistent departmental activity, engagement, and professionalism among
+all Bureau members. Each BSE Agent holds a federal-level position of trust and
+is expected to maintain active participation in both operational and administrative
+duties.
+
+15.2 MINIMUM ACTIVITY STANDARDS (per month):
+- High Command (01-05):         30+ Hours
+- THC (06-10):                  25+ Hours
+- Low Command (011-025):        20+ Hours
+- Supervisors:                  15+ Hours
+- Standard Agents:              12+ Hours
+- Probationary Agents/Trainees:  8+ Hours
+
+NOTE: Failure to meet these thresholds without an approved LOA may result in
+disciplinary action under Section 8.4.
+
+================================================================================
+SECTION 16.0 | CAD (COMPUTER AIDED DISPATCH) POLICY
+================================================================================
+
+16.1 PURPOSE:
+Defines proper usage, expectations, and enforcement of CAD systems for all BSE
+Agents. CAD serves as the official record-keeping and accountability tool for:
+1. Tracking call assignment & responses
+2. Unit statuses (10-8, 10-7, 10-23, etc.)
+3. Arrests, citations, and reports
+4. Warrants & BOLOs
+5. Proper documentation
+
+16.2 SCOPE:
+This policy applies to ALL BSE personnel regardless of rank, division, or
+assignment. It governs CAD use in patrols, investigations, tac activations, and
+interagency task forces. No Agent is exempt from CAD usage unless specifically
+authorized by the Director or Deputy Director under exceptional operational
+circumstances (e.g., covert operations per Section 9.2 UC Guidelines).
+
+16.3 CAD LOGIN REQUIREMENTS:
+- Agents MUST log into CAD before going 10-8 or entering RTO.
+- Login PRIOR to /duty
+- Maintain accurate status updates:
+  * 10-8  = On Duty / Available
+  * 10-6  = Busy / In Operation
+  * 10-7  = Out of Service / Break
+  * 10-23 = On Scene
+  * 10-41 = Starting Tour of Duty
+  * 10-42 = Ending Tour of Duty
+
+================================================================================
+SECTION 17.0 | FINAL STATEMENT
+================================================================================
+BSE personnel are ambassadors of federal law enforcement professionalism within
+CaliRP. You are expected to know the GSOP, follow this SOP, and represent the
+agency with discipline and integrity. Entering BSE service is an agreement to
+abide by these standards at all times.
+
+================================================================================
+APPENDIX A | BSE HIGH-RISK PLAYBOOKS
+================================================================================
+
+A1. BANK/ARMORED-CAR ROBBERY (LIVE):
+1. Initial Action: Containment (inner/outer perimeter), dispatch RTO split,
+   establish Scene Command.
+2. Intel: Cameras/drone/AIR-1 overwatch, suspect count, arms, hostages, vehicle
+   description, escape routes.
+3. Negotiation: Time, distance, cover; extract hostages; demand management;
+   crisis log.
+4. Tactical Options: SRT staging, ERPs, breaching criteria, sniper containment
+   (certified only), vehicle interdiction box.
+5. Transition: Arrest/intercept teams; evidence preservation; PIO statement;
+   after-action packet (AAR within 24 hours).
+
+A2. HOMICIDE/MAJOR CRIMES:
+1. Scene: Life-saving first; secure scene; log entries; assign Evidence/Sketch.
+2. Leads: Victimology; canvass; video dragnet; BOLOs; NIBIN/ballistics.
+3. Case: Warrant workflow; interview plan; informant handling; conspiracy chart.
+4. Arrest: Low-risk pickup vs SRT warrant; safety plan; post-arrest interview.
+5. Closure: D.A. coordination; case file QA; press posture.
+
+A3. ACTIVE KILLER/HOSTAGE:
+ICS roles separated; rescue task force with locals; hall-boss; warm-zone triage;
+comms brevity; med handoff.
+
+A4. UC/SURVEILLANCE:
+Cover ID package; contact report cadence; dead-drop/device handling;
+burn-criteria & extraction; immediate re-tagging on enforcement.
+
+A5. EVIDENCE & REPORTING:
+Chain of custody forms; digital evidence naming; disclosure packet to DOJ;
+24h initial report / 72h full report.
+
+================================================================================

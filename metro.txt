@@ -1,0 +1,314 @@
+CALIFORNIA ROLEPLAY - METRO POLICE DEPARTMENT (MPD)
+STANDARD OPERATING PROCEDURES
+================================================================================
+
+================================================================================
+1. MISSION STATEMENT
+================================================================================
+The Metro Police Department keeps life awesome for everyone in our community:
+residents, visitors, and businesses. The department believes in wellbeing and
+celebrating the diverse folks we serve. Officers of MPD are all about doing
+things the right way, with top-notch professionalism, integrity, and a strong
+sense of responsibility.
+
+The goal of the Metro Police Department is to ensure our community is safe,
+welcoming, and inclusive. We're all about justice, protecting each person's
+rights, and creating a feeling that makes the San Andreas metro area the best
+place to be.
+
+================================================================================
+2. CHAIN OF COMMAND / RANK STRUCTURE
+================================================================================
+
+HIGH COMMAND:
+  Chief of Police
+  Deputy Chief of Police
+  Assistant Chief of Police
+  Chief of Staff
+  Colonel
+
+TRIAL HIGH COMMAND:
+  Lieutenant Colonel
+
+LOW COMMAND:
+  Major
+  Captain
+  1st Lieutenant
+  2nd Lieutenant
+
+TRIAL LOW COMMAND:
+  Master Sergeant
+
+SUPERVISORS:
+  Staff Sergeant
+  Sergeant
+  Corporal
+
+SUPERVISORS IN TRAINING:
+  Lance Corporal
+
+OFFICERS:
+  Officer III
+  Officer II
+  Officer I
+
+TRAINEES:
+  Cadet
+
+RANK DUTIES:
+
+High Command:
+- Management and oversight of the department as a whole.
+
+Low Command:
+- Fulfill administrative requests.
+- Oversee department activities such as training and recruiting.
+- Provide oversight and management of Supervisors.
+
+Supervisors:
+- Host trainings and recruit new members.
+- Oversee field/patrol units and ensure SOP adherence.
+
+Patrol Officers:
+- Patrol and perform the duties assigned to the department.
+- Attend and assist with trainings.
+
+================================================================================
+3. SUBDIVISIONS
+================================================================================
+
+METRO SWAT:
+  - Tactical Air Support Unit
+  - Marksman
+  - Breaching / Negotiation
+
+GANG INVESTIGATION UNIT (GIU):
+  - Investigations
+  - Gang Unit
+  - Undercover
+  - Canine
+  - Gang Narcotics Task Force
+
+TRAFFIC ENFORCEMENT UNIT (TEU):
+  - HEAT
+  - MBU (Motor Bike Unit)
+  - Offroad
+  - Air
+  - Marine
+  - Bicycle
+  - Search & Rescue
+
+================================================================================
+4. ACTIVATION (/duty) — ON DUTY REQUIREMENTS
+================================================================================
+
+BREAKING CHARACTER:
+- At NO point are members authorized to break character, even if someone is
+  RDMing, VDMing, or breaking community guidelines.
+- Members MUST NOT break character until an active Staff Member arrives on scene.
+- Breaking character will result in disciplinary action per the Strike Policy.
+- Refer to the CaliRP Global Departments SOP for further OOC/IC rules.
+
+LOADOUT:
+All firearms must be registered to the member in CAD. The member must also
+qualify and possess all necessary firearm permits/licenses.
+  1. Combat Pistol
+  2. Pump Shotgun
+  3. Taser
+  4. NightStick
+  5. Flashlight
+  6. Carbine Rifle
+  7. Less Lethal Shotgun
+
+No other weapons permitted unless MK2 or Custom Weapons approved by Command or
+server management. Such weapons must also be registered within CAD.
+
+UNIFORM & PED POLICIES:
+- Use any uniforms dictated for your rank by the department uniform roster.
+
+VEHICLES:
+- Use vehicles and modifications dictated for your rank or any rank below yours
+  on the department vehicle roster.
+- License plate format: ##MPD### — must be registered to the member's
+  credentials within CAD.
+
+IDENTIFICATION:
+- You will be assigned a callsign and identified by it plus your CAD name
+  while on-duty.
+  Acceptable formats: 1N-01 | Andrew Z. / A. Zachary / Andrew Zachary
+- Discord username while on-duty must match: First name + last initial OR
+  first initial + full last name (e.g., Andrew Z. or A. Zachary).
+- While on-duty, identify yourself as a law enforcement professional with your
+  callsign and badge.
+- If a Supervisor is requested, request one or have a DOHS Agent fill in.
+
+RTO AND VOICE CHAT RULES:
+- Bullying, segregation, racism, or any form of harassment will NOT be tolerated.
+- Speaking about anything political is forbidden.
+- NSFW content is prohibited and will result in a ban.
+- Recruiting/advertising to members from other groups is highly prohibited.
+- Toxicity and spamming will get you kicked/banned.
+- Screaming in voice calls will get you muted.
+
+BASIC RADIO ETIQUETTE:
+- Mandatory language in public safety radio channels: English.
+- Do not interrupt unless your traffic is pertinent to a serious emergency.
+- Do not respond if you are not sure the call is for you; wait for your callsign.
+- Never transmit sensitive, confidential, financial, or military information.
+- Memorize callsigns and locations of persons you communicate with regularly.
+- Avoid long, complicated sentences; divide long messages into shorter ones.
+- Transmissions must be professional at all times (recorded and monitored).
+- Keep communications clear, simple, and short. Use 10-codes as much as possible.
+- Callsign and name must be displayed properly and match department credentials.
+
+CAD:
+- All officers must have the CaliRP CAD page open and logged in at all times
+  while on duty.
+- Status, callsign, and current call must be reflected in CAD in real time.
+
+================================================================================
+5. ON-SCENE PROTOCOL
+================================================================================
+
+PRIORITY SCENES:
+- You are always permitted to respond to priority scenes.
+- You may NEVER FORCE scene command. You MAY REQUEST to take scene command,
+  especially on scenes where command isn't already established.
+
+NON-PRIORITY SCENES:
+- You are always permitted to respond to non-priority scenes (10-10, 10-11,
+  10-17, 10-18, etc.).
+- You are still NEVER allowed to force scene command.
+
+================================================================================
+6. DISCIPLINARY ACTION
+================================================================================
+Punishments are corrective actions due to failure to follow this SOP, Global
+SOP, and/or CaliRP Policies.
+
+AUTHORITY:
+- High Command: may administer any punishment to anyone in the department.
+- Low Command: may give written warnings, send off-duty, and suspend Supervisors
+  and below.
+- Supervisors: may give written warnings or send off-duty anyone below them.
+
+STRIKE SYSTEM:
+  Strike 1: No additional action unless otherwise dictated.
+  Strike 2: 1-3 day suspension and promotion cooldown.
+  Strike 3: Extended suspension and demotion OR termination.
+
+ALTERNATIVE ACTIONS:
+- Loss of certain duties, authority, or permissions.
+- Administering a refresher training.
+- Terminations are the sole discretion of High Command.
+- If an offense warrants it, High Command may authorize a blacklist from the
+  department.
+
+CODE OF CONDUCT:
+Members represent the Metro Police Department on and off duty.
+
+Members are expected to:
+- Respect all personnel in or outside the department.
+- Perform assigned duties to the best of their abilities.
+- Follow orders and respect chain of command.
+- Maintain activity within the department and seek advancement opportunities.
+
+Anyone who does not follow the Code of Conduct will receive disciplinary action
+in conjunction with the Strike Policy.
+
+================================================================================
+7. PROMOTIONS & EVALUATIONS
+================================================================================
+Activity and professionalism determine your ability to promote. Minimum
+requirements can be found in the department Discord.
+
+RULES:
+1. Promotion activity counted Sunday 12:00am EST to Saturday 11:59pm EST.
+   You WILL NOT be given extra time past Saturday midnight EST.
+
+2. Asking for a promotion = immediate strike.
+   Breaking chain of command to ask for a promotion (e.g., contacting a
+   Department Coordinator or Liaison) = strike + 2-week rank lock.
+
+3. If you think you were missed for a promotion, open an Evaluation Ticket with
+   your reasoning. This does not guarantee your promotion.
+
+4. You must meet ALL promotion requirements including time in rank. No
+   requirements = no promotion.
+
+5. Double/triple promotions are at High Command's discretion. They are NOT
+   guaranteed by hours alone. Asking for a double promotion = fastest way to get
+   a strike.
+
+6. If you have any active strikes or are on a one-strike policy, you are
+   INELIGIBLE for promotion.
+
+================================================================================
+8. ACTIVITY POLICY
+================================================================================
+All members must log the minimum hours outlined in the Activity Requirements
+Guidelines. Failure to meet this expectation will result in disciplinary action
+in conjunction with the Strike Policy.
+
+It is recommended to exceed the minimum requirement to be considered for
+advancement.
+
+================================================================================
+9. LEAVE OF ABSENCE, RESERVE, RESIGNATION
+================================================================================
+
+LEAVE OF ABSENCE (LOA):
+- Submit an LOA request if absent for more than 1 week.
+- LOAs exceeding 14 days must be approved by High Command.
+- LOAs exceeding 30 days: High Command reserves the right to seek termination
+  if no prior High Command approval for an extended LOA was given.
+- LOA extensions must be approved by High Command.
+- Once an LOA expires, officers may not take another LOA for 7 days.
+
+RESERVES:
+- Any officer may request Reserve status at any time.
+- Minimum activity for Reserve status: 1 hour on-duty per week.
+- Reserve Officers may NOT be part of or roleplay as any subdivision unless
+  given direct explicit consent from High Command.
+- Coming off Reserve: reinstated to original rank, UNLESS returning after 60+
+  days — in that case, Time in Department resets and they are placed at Officer I
+  (per GSOP).
+
+RESIGNATION:
+- Officers may resign at any time through a resignation ticket.
+
+An officer may NOT resign to transfer if:
+- They have come off LOA in the past 14 days.
+- They have come off reserves in the past 60 days.
+- They are Cadet or Probationary Officer, or joined the department in the past
+  60 days.
+- They have an active Strike, One Strike Policy, or Suspension.
+
+REMOVAL FROM RANKS:
+- High Command reserves the right to remove anyone from any rank or any "jobs"
+  at any time regardless of department status, including but not limited to:
+  TEU, SWAT, K9, ACU, MCD, FTD, IA, or any coordination jobs.
+
+================================================================================
+10. DOHS (DEPARTMENT OF HOMELAND SECURITY)
+================================================================================
+DOHS ensures adherence to CaliRP Global SOP. DOHS Agents may attach to a
+member's call, conduct a traffic stop, or participate in general LEO roleplay.
+
+- If questioned by a DOHS Agent, answer to the best of your ability and comply
+  with any instructions given.
+- Minor issues may be corrected at the scene; DOHS reserves the right to report
+  findings to department High Command.
+- For issues or concerns over DOHS conduct: use the CaliRP Department Ticket
+  process or contact a DOHS Supervisor.
+
+================================================================================
+11. DISCORD REGULATIONS
+================================================================================
+Maintaining a friendly and professional environment in the Discord server is
+essential. All rules and regulations must be followed. Any user found NOT
+following these rules will face disciplinary action.
+
+================================================================================
+Document created and approved by: Andrew Z.
+================================================================================

@@ -1,0 +1,265 @@
+CALIFORNIA ROLEPLAY - SOUTH BEACH POLICE DEPARTMENT (SBPD)
+STANDARD OPERATING PROCEDURES (SOP)
+California Roleplay - 2026 | Jurisdiction: Los Angeles
+================================================================================
+
+SECTION I - INTRODUCTION
+================================================================================
+This document serves as the official Standard Operating Procedures (SOP) for
+the South Beach Police Department (SBPD) within California Roleplay.
+
+All members must follow:
+- The Global SOP (GSOP)
+- The SBPD SOP
+
+Nothing in this SOP overrides or conflicts with GSOP. Failure to follow
+policies may result in disciplinary action.
+
+================================================================================
+SECTION II - MISSION STATEMENT
+================================================================================
+The South Beach Police Department is dedicated to:
+- Providing realistic and professional law enforcement roleplay
+- Protecting civilians within Los Angeles
+- Enforcing the law with integrity, discipline, and accountability
+
+SBPD focuses on structured patrol, strong communication, and high-quality
+scenes.
+
+================================================================================
+SECTION III - RANKING STRUCTURE (CHAIN OF COMMAND)
+================================================================================
+
+HIGH COMMAND:
+  Chief of Police         01
+  Deputy Chief            02
+  Assistant Chief         03
+  Chief of Staff          04
+  Captain                 05
+
+TRIAL HIGH COMMAND:
+  Watch Commander
+
+LOW COMMAND:
+  Lieutenant
+  Staff Sergeant
+  Senior Sergeant
+
+SUPERVISORS:
+  Sergeant II
+  Sergeant I
+  Corporal
+
+OFFICERS:
+  Officer III
+  Officer II
+  Officer I
+  Probationary Officer
+  Reserve Officer
+  Cadet
+
+================================================================================
+SECTION IV - VEHICLE POLICIES
+================================================================================
+- Only SBPD-approved vehicles may be used while on duty.
+- Vehicles must have realistic colors and liveries.
+
+MAX SPEEDS:
+  Standard:           180 MPH
+  HEAT Certified:     225 MPH
+
+PURSUIT RULES:
+- Must prioritize public safety.
+- No reckless or unrealistic driving.
+- Disengage if unsafe.
+- No excessive off-roading.
+
+ADDITIONAL:
+- Vehicles must remain locked.
+- No use of tactical vehicles unless authorized.
+- No visor + lightbar combo unless supervisor.
+
+================================================================================
+SECTION V - UNIFORM POLICIES
+================================================================================
+- Must wear rank-appropriate uniforms at all times.
+- Uniforms must remain professional and realistic.
+
+NOT PERMITTED:
+- Bright or unrealistic hair colors.
+- Neck tattoos.
+
+FORMAL UNIFORMS REQUIRED FOR:
+- Briefings
+- Ceremonial events
+
+================================================================================
+SECTION VI - WEAPON STRUCTURE & POLICIES
+================================================================================
+- Only department-issued weapons are allowed.
+- All weapons must follow Use of Force guidelines.
+
+RESTRICTIONS:
+- No illegal weapons.
+- No incendiary or explosive rounds.
+- No mag dumping.
+
+TACTICAL WEAPONS:
+- Only authorized for SWAT / Tactical units.
+- Must be certified to use.
+
+================================================================================
+SECTION VII - ACTIVITY REQUIREMENTS
+================================================================================
+- Members must meet monthly activity expectations.
+- Must remain active in patrol, trainings, and department events.
+
+FAILURE TO MEET ACTIVITY:
+- Requires LOA submission.
+- Or may result in removal.
+
+================================================================================
+SECTION VIII - LOA POLICIES (LEAVE OF ABSENCE)
+================================================================================
+- LOA must be submitted if inactive for extended periods.
+- LOA exceeding 30 days may result in removal unless approved.
+
+RULES:
+- Must include reason and duration.
+- Abuse of LOA may result in punishment.
+
+================================================================================
+SECTION IX - PUNISHMENT GUIDELINES
+================================================================================
+
+STRIKE SYSTEM:
+  Strike 1 - Warning
+  Strike 2 - Suspension
+  Strike 3 - Termination
+
+DISCIPLINARY ACTIONS (PROGRESSIVE):
+  1. Verbal Warning
+  2. Written Warning
+  3. Suspension
+  4. Demotion
+  5. Termination
+
+NOTES:
+- All punishments must be documented and supported with evidence.
+
+================================================================================
+SECTION X - SUBDIVISIONS
+================================================================================
+
+SRT (TAC-1) - Special Response Team:
+  Handles high-risk situations. Requires certification.
+
+GANG UNIT (GANG-1):
+  Focuses on gang-related crime.
+
+AIR UNIT (AIR-1):
+  Provides aerial support.
+
+K9 UNIT (K9-1):
+  Assists with searches and tracking.
+
+TRAFFIC ENFORCEMENT (TEU-1):
+  Handles traffic enforcement and pursuits.
+
+UNDERCOVER UNIT (UC-1):
+  Conducts covert investigations.
+
+ELIGIBILITY FOR SUBDIVISIONS:
+- Must meet rank requirements.
+- Must meet activity standards.
+- Must complete required training.
+
+================================================================================
+SECTION XI - PROMOTIONAL REQUIREMENTS
+================================================================================
+Promotions are based on:
+- Activity
+- Performance
+- Professionalism
+- Time in rank
+
+RULES:
+- 1-rank promotion: 7-day cooldown.
+- 2-rank promotion: 14-day cooldown.
+- Promotions must be earned, not given.
+
+================================================================================
+SECTION XII - NAMING POLICY (IN-GAME & DISCORD)
+================================================================================
+
+IN-GAME:
+- Must follow First and Last Name format.
+- Acceptable formats: Adam R. / A. Ross
+
+DISCORD:
+- Must include callsign and rank (if required).
+
+RESTRICTIONS:
+- No unrealistic or troll names.
+
+================================================================================
+SECTION XIII - IDENTIFYING WHILE ON DUTY
+================================================================================
+- Must have correct headtag (badge) and proper callsign.
+- Identify yourself when asked: name, badge number, and callsign.
+- Failure to identify may result in punishment.
+
+================================================================================
+SECTION XIV - CAD POLICIES
+================================================================================
+- Must be in CAD at all times while on duty.
+- Must have a valid character profile with no criminal record.
+
+STATUS UPDATES:
+- Must update 10-8 (active) and 10-7 (off duty) in CAD.
+- Failure to use CAD properly may result in discipline.
+
+================================================================================
+SECTION XV - USE OF FORCE
+================================================================================
+SBPD follows the standard continuum:
+  1. Verbal Commands
+  2. Control Techniques
+  3. Non-Lethal (Taser)
+  4. Lethal Force
+
+RULES:
+- Force must be reasonable and justified.
+- Must stop when threat is neutralized.
+
+================================================================================
+SECTION XVI - RTO ETIQUETTE
+================================================================================
+
+GENERAL RULES:
+- No talking over others.
+- Keep comms clear.
+
+WITH DISPATCH:
+- Request permission before speaking.
+
+WITHOUT DISPATCH:
+- Follow chain of command.
+
+IMPORTANT:
+- No OOC in RTO.
+- No calling FailRP over radio.
+- Use 10-codes when possible.
+
+================================================================================
+FINAL STATEMENT
+================================================================================
+By joining SBPD, you agree to:
+- Follow all Global SOP and SBPD SOP.
+- Maintain professionalism at all times.
+- Provide realistic and high-quality roleplay.
+
+SBPD is built on structure, discipline, and consistency. Every member is
+expected to uphold these standards.
+
+================================================================================

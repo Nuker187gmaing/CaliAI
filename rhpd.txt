@@ -1,0 +1,559 @@
+CALIFORNIA ROLEPLAY - RHPD
+(RockFord Hills Police Department)
+MASTER ROSTER & STANDARD OPERATING PROCEDURES
+================================================================================
+
+CALLSIGN FORMAT:
+  Officers:  RPD-## (e.g., RPD-01, RPD-26, RPD-99)
+  Cadets:    CK-## (e.g., CK-01, CK-14)
+  Reserves:  RPD-4## (e.g., RPD-401)
+
+================================================================================
+RANK STRUCTURE
+================================================================================
+
+HIGH COMMAND: Department Command / Oversight
+  Chief of Police
+  Assistant Chief
+  Deputy Chief
+  Commander
+  Colonel
+
+TRIAL HIGH COMMAND (06-09):
+  Major
+
+LOW COMMAND (10-15):
+  Captain
+
+TRIAL LOW COMMAND (14-17):
+  1st Lieutenant
+  2nd Lieutenant
+
+SUPERVISORS (21-66):
+  Master Sergeant
+  Sergeant 1st Class
+  Sergeant
+
+OFFICERS: Patrol Units (67-218)
+  Corporal
+  Officer III
+  Officer II
+  Officer
+
+CADETS: Needs Training (CK-01 to CK-100)
+  Cadet
+
+RESERVES (RPD-401+)
+  Reserve
+
+================================================================================
+ACTIVE ROSTER — HIGH COMMAND
+================================================================================
+
+RPD-01  C. Titan           Chief of Police    Hired: 10/29/2023  EXEMPT
+
+================================================================================
+ACTIVE ROSTER — LOW COMMAND
+================================================================================
+
+RPD-09  River J.           Captain            Hired: 05/10/2026  LOA
+RPD-10  John C.            Captain            Hired: 02/23/2026  ACTIVE
+RPD-11  Malcove Mike       Captain            Hired: 04/19/2026  ACTIVE
+RPD-12  J. Rodriguez       Captain            Hired: 04/19/2026  ACTIVE
+
+================================================================================
+ACTIVE ROSTER — TRIAL LOW COMMAND
+================================================================================
+
+RPD-16  Paul B.            1st Lieutenant     Hired: 03/24/2026  ACTIVE
+
+================================================================================
+ACTIVE ROSTER — MASTER SERGEANTS
+================================================================================
+
+RPD-26  John W.            Master Sergeant    Hired: 03/14/2026  ACTIVE
+RPD-27  Baz B.             Master Sergeant    Hired: 02/26/2026  ACTIVE
+RPD-28  L. Reeves          Master Sergeant    Hired: 05/25/2026  ACTIVE
+RPD-29  E. Mayo            Master Sergeant    Hired: 05/20/2026  ACTIVE
+
+================================================================================
+ACTIVE ROSTER — SERGEANT 1ST CLASS
+================================================================================
+
+RPD-35  J. Paul            Sergeant 1st Class Hired: 03/28/2026  ACTIVE
+
+================================================================================
+ACTIVE ROSTER — SERGEANTS
+================================================================================
+
+RPD-48  May H.             Sergeant           Hired: 03/23/2026  ACTIVE
+RPD-49  R. Guzman          Sergeant           Hired: 03/28/2026  ACTIVE
+RPD-50  C. Mollek          Sergeant           Hired: 03/29/2026  ACTIVE
+RPD-51  J. Mike            Sergeant           Hired: 04/07/2026  ACTIVE
+RPD-52  J. Cash            Sergeant           Hired: 04/19/2026  ACTIVE
+RPD-54  C. Williams        Sergeant           Hired: 04/04/2026  ACTIVE
+RPD-55  Elite Z.           Sergeant           Hired: 01/01/2026  ACTIVE
+RPD-57  J. Max             Sergeant           Hired: 04/23/2026  ACTIVE
+RPD-58  J. James           Sergeant           Hired: 05/24/2026  ACTIVE
+RPD-59  Thorton B.         Sergeant           Hired: 04/30/2026  ACTIVE
+
+================================================================================
+ACTIVE ROSTER — CORPORALS
+================================================================================
+
+RPD-68  C. Chan            Corporal                              ACTIVE
+RPD-70  J. West            Corporal           Hired: 05/29/2026  ACTIVE
+
+================================================================================
+ACTIVE ROSTER — OFFICERS III
+================================================================================
+
+RPD-99   J. Johnson        Officer III        Hired: 04/20/2026  ACTIVE
+RPD-101  Jimmy J.          Officer III                           ACTIVE
+RPD-102  B. Bergz          Officer III                           ACTIVE
+RPD-103  A. Cat            Officer III                           ACTIVE
+RPD-104  C. Shaw           Officer III        Hired: 05/14/2026  ACTIVE
+
+================================================================================
+ACTIVE ROSTER — OFFICERS
+================================================================================
+
+RPD-144  R. Xan            Officer                               ACTIVE
+RPD-145  C. Conner         Officer                               ACTIVE
+RPD-146  J. Williams       Officer                               ACTIVE
+RPD-147  Z. James          Officer            Hired: 04/24/2026  ACTIVE
+RPD-148  Ray S.            Officer            Hired: 04/24/2026  ACTIVE
+RPD-149  K. Creed          Officer            Hired: 04/28/2026  ACTIVE
+RPD-150  Santiago M        Officer                               ACTIVE
+RPD-151  D. Durk           Officer                               ACTIVE
+RPD-152  R. Lee            Officer            Hired: 06/04/2026  ACTIVE
+RPD-153  R. Randy          Officer            Hired: 05/14/2026  ACTIVE
+
+================================================================================
+ACTIVE ROSTER — CADETS
+================================================================================
+
+CK-01   Hector V.          Cadet              Hired: 05/27/2026  ACTIVE
+CK-02   D. Martini         Cadet              Hired: 05/29/2026  ACTIVE
+CK-03   A. Briggs          Cadet              Hired: 05/29/2026  ACTIVE
+CK-04   B. Judd            Cadet              Hired: 05/29/2026  ACTIVE
+CK-05   J. Mad             Cadet              Hired: 05/29/2026  ACTIVE
+CK-06   Tony S.            Cadet                                 ACTIVE
+CK-07   D. Deyvin          Cadet              Hired: 05/29/2026  ACTIVE
+CK-08   Richard P.         Cadet              Hired: 05/29/2026  ACTIVE
+CK-09   Q. Bun             Cadet
+CK-10   B. Benz            Cadet              Hired: 05/29/2026  ACTIVE
+CK-11   C. Bird            Cadet              Hired: 05/29/2026  ACTIVE
+CK-12   C. Eich            Cadet
+CK-13   A. Pebis           Cadet
+CK-14   C. Doti            Cadet              Hired: 05/29/2026  ACTIVE
+
+================================================================================
+ACTIVE ROSTER — RESERVES
+================================================================================
+
+RPD-401  J. Smith          Reserve            Hired: 12/03/2025  RESERVE
+RPD-402  TimeKeeper Bot    Reserve            Hired: 12/23/2025  (Time Keeper Bot)
+
+================================================================================
+================================================================================
+RHPD STANDARD OPERATING PROCEDURES
+================================================================================
+================================================================================
+
+MISSION STATEMENT
+================================================================================
+The mission for the RockFord Hills Police Department is to protect with equality
+and fairness, and to protect the public and the people of the RockFord Hills and
+surrounding locations, to help when needed, wanted, and to interact and serve
+the people within San Andreas. And to never leave another officer down or behind.
+
+Signed by: C. Titan | Jordan M. | Dave S.
+
+================================================================================
+1.00 INTRODUCTION
+================================================================================
+
+1.01 - WELCOME
+The RockFord Hills Police Department is tasked with keeping the citizens of San
+Andreas safe and secure. We strive to help maintain the environment for those who
+live and work in the state by enforcing its laws. This is made possible by the
+dedication of our wonderful officers, supervisors, and command team each and
+every day. The command team would like to thank you for choosing to be a part of
+the RHPD.
+
+1.02 - CORE VALUES
+* Integrity — We hold ourselves accountable and demand the highest level of
+  ethical and moral standards from all. We are role models acting with courage
+  and building trust within the community to provide service and protection to
+  the state of San Andreas.
+
+================================================================================
+2.00 CONDUCT
+================================================================================
+
+2.01 - UNITS CONDUCT
+Units should always remember that they are a reflection upon the San Andreas
+citizens. Units shall always stay professional and correctly deal with situations,
+either by moral values, or by enforcing the law. Units should always be
+professional and shall always exercise patience and discretion.
+
+2.02 - DISCIPLINARY ACTIONS
+There are multiple levels of disciplinary actions:
+
+1. Verbal Warning — Wake-up call to fix whatever you were doing wrong.
+2. Written Warning — Comes after a verbal warning; documented.
+3. Strike System — Strikes given for major offenses or repeated mistakes.
+4. Sent Off Duty — Not allowed back on patrol for a set time.
+5. Retraining — Must go through classroom + field training / ride-alongs again.
+6. Termination — Removed from department immediately; 2-week cooldown before
+   joining any new department. May reapply after 2 weeks.
+7. Blacklist — Removed from department and placed on the blacklist roster,
+   possibly never allowed to rejoin RHPD.
+
+All Cadets & Officer I's are on an automatic 1-strike policy until promoted.
+This means any offense deemed worthy of a strike is subject to termination.
+
+2.03 - ACTIVITY REQUIREMENTS
+All units are required a minimum of 5 hours each period (week). Failure to meet
+the minimum results in an inactivity strike. 1 inactivity strike is removed if
+you are active for 2 periods (weeks). This does not apply to LOA.
+
+To be eligible for promotion at the end of a period you must have 5 hours
+patrolled and proper time in rank.
+
+2.04 - PUNISHMENT GUIDELINES
+Global punishment guidelines apply.
+
+2.05 - PROMOTION POLICY
+Promotions are granted when an officer reaches their rank's promotion guideline.
+Weekly, Low Command meets with High Command and makes a list of everyone who
+completed their requirements, then promotions occur at the department meeting.
+
+Promotions are NEVER to be requested, asked for, or bribed for — this can result
+in termination.
+
+Promotion cooldowns: if an officer receives a double promotion, they are placed
+on a 2-week promo cooldown.
+
+2.06 - RTO ETIQUETTE AND 10-CODES
+
+Radio Etiquette Rules:
+* Mandatory language in radio channels: English.
+* Do not interrupt unless your traffic is pertinent to a serious emergency.
+* Do not respond if you are not sure the call is for you.
+* Never transmit sensitive, confidential, financial, or military information.
+* Memorize callsigns and locations you communicate with regularly.
+* Avoid long sentences; divide long messages into shorter ones.
+* Transmissions must be professional at all times (recorded and monitored).
+* Keep communications clear, simple, and short. Use 10-codes as much as possible.
+* Callsign and name must be displayed properly and match department credentials.
+
+Standard Phonetic Alphabet:
+A-Alpha  B-Bravo  C-Charlie  D-Delta  E-Echo  F-Foxtrot  G-Golf  H-Hotel
+I-India  J-Juliet  K-Kilo  L-Lima  M-Mike  N-November  O-Oscar  P-Papa
+Q-Quebec  R-Romeo  S-Sierra  T-Tango  U-Uniform  V-Victor  W-Whiskey
+X-X-ray  Y-Yankee  Z-Zulu
+
+10-Codes / General Codes:
+10-0  - Disappeared
+10-2  - Negative
+10-4  - Acknowledged
+10-6  - Busy
+10-7  - Out of Service
+10-8  - In Service
+10-9  - Repeat
+10-10 - Fight in Progress
+10-11 - Traffic Stop
+10-13 - Shots Fired
+10-19 - Active Ride Along
+10-20 - Location
+10-22 - Disregard
+10-32 - Additional Unit Requested (Code 1-2-3)
+10-41 - Beginning Tour of Duty
+10-42 - Ending Tour of Duty
+10-50 - Vehicle Accident
+10-52 - Request EMS
+10-63 - Radio Check
+10-65 - Armed Robbery
+10-70 - Foot Pursuit
+10-76 - In Route
+10-99 - Officer In Distress EXTREME EMERGENCY ONLY
+11-44 - Person Deceased
+Code 5  - Felony Stop / High Risk Stop
+Signal 100 - HOLD ALL BUT EMERGENCY TRAFFIC
+
+================================================================================
+3.00 UNIFORM & EQUIPMENT
+================================================================================
+
+3.01 - UNIFORM STRUCTURE
+Wear the correct uniform stated on the RHPD Uniform Roster.
+
+3.02 - VEHICLE STRUCTURE
+* Only classic black or white on marked/ghosted vehicles. Only approved colors
+  for unmarked vehicles.
+* Cruise lights cannot be used while driving on routine patrol. They may be used
+  during: traffic stops (when subject is already pulled over or as backup),
+  property checks, sitting on the side of the road in low-visibility conditions.
+* Ghost skins are to be slick top only.
+
+3.03 - WEAPON LOADOUT
+* Combat Pistol (with flashlight)
+* Pump Shotgun (with flashlight)
+* Carbine Rifle (with flashlight, scope, grip)
+* Stun Gun
+* Baton / Nightstick
+* Flashlight
+
+Rules:
+* Weapons used only per the Use of Force Continuum.
+* All weapons used in a realistic manner.
+* LEO may only use department-provided weapons with approved attachments.
+* Only active SWAT members with correct certifications may use heavy weapons
+  (Sniper, LMG, .50 BMG, etc.).
+* AP Pistol is strictly prohibited — can result in termination.
+
+================================================================================
+4.00 RANK STRUCTURE
+================================================================================
+
+4.01 - CHAIN OF COMMAND
+Chain of Command (CoC) must not be broken or disciplinary action will follow.
+
+  Patrol Units -> Supervisor in Training -> Supervisor -> Senior Supervisor
+  -> Low Command -> Trial High Command -> High Command
+
+4.02 - RANK STRUCTURE
+
+HIGH COMMAND:
+  Chief of Police
+  Assistant Chief of Police
+  Deputy Chief of Police
+  Commander
+  Colonel
+
+TRIAL HIGH COMMAND:
+  Major
+
+LOW COMMAND:
+  Captain
+  1st Lieutenant
+  2nd Lieutenant
+
+TRIAL LOW COMMAND:
+  Master Sergeant
+  Sergeant 1st Class
+
+SUPERVISORS:
+  Staff Sergeant
+  Sergeant
+  Corporal
+
+OFFICERS:
+  Officer III
+  Officer II
+  Officer I
+
+OFFICERS IN TRAINING:
+  Cadets
+
+================================================================================
+5.00 GENERAL PATROL
+================================================================================
+
+5.01 - TRAFFIC STOPS (10-11s)
+
+Before the Stop:
+* Observe a violation or have reasonable suspicion.
+* Pick a safe spot to initiate (parking lots, highway breakdown zones, roadsides).
+* Turn on lights and siren if needed.
+
+Approach: Exit your vehicle, go around the back, approach from the passenger
+side. Identify yourself and state the reason for the stop. Ask for license,
+registration, and proof of insurance. Run information; return same way.
+
+Positioning: Align right front headlight with the vehicle's back left brake
+light, roughly 10 degrees to the left. Enter stop info in CAD (street name,
+postal, nearest landmark). Call into RTO to advise of a 10-11.
+
+After the Stop: Be courteous and professional. Determine proper action (verbal
+warning, written warning, or citation). Return to car, turn off lights, call
+10-8 into RTO.
+
+5.02 - HIGH RISK TRAFFIC STOPS (CODE 5)
+Performed when the registered owner has a warrant or vehicle was involved in
+dangerous criminal activity.
+
+Procedure:
+1. Radio for a 10-32 (Code 3) and wait for backup before initiating Code 5.
+2. Initiating unit positions behind suspect vehicle, driver's door open for cover.
+3. Additional unit(s) position to the left at offset angles, doors open for cover.
+4. All LEO stand behind vehicle doors with service weapons aimed at suspect vehicle.
+5. Initiating unit (or highest rank) instructs driver/passengers.
+6. Occupants exit one at a time, starting with driver; face away, walk back.
+7. At least ONE unit must cover the vehicle at all times.
+8. Once all suspects are in custody, units move and clear the vehicle.
+
+5.03 - VEHICLE PURSUITS
+Use normal department pursuit tactics and communication procedures. PIT
+maneuvers and spike strips must be approved by a supervisor. DO NOT self-attach
+to priorities if dispatch is in RTO.
+
+5.04 - PERSONAL CHECKS
+Units may perform property/business checks every 15 minutes when not responding
+to a call.
+
+5.05 - WHEN TO CALL A SUPERVISOR (10-71)
+* A person requests to see your supervisor.
+* You are unsure of what to do.
+* A situation has escalated.
+* It is a priority.
+* An officer is injured.
+* A unit is involved in a 10-50.
+* Abnormal situations.
+* Pulled over by another department's High Command or DHS/CIA/NGA.
+
+5.06 - RESPONSE POLICY
+
+Code 1 (Routine): Normal pace, no lights or sirens.
+  Examples: Parking complaint, fender bender (no injuries), loud noise complaint,
+  shoplifting, trespassing (no weapons), public intoxication (no danger), any
+  call requiring only report writing, no one in danger.
+
+Code 2 (Urgent): Lights; sirens only at intersections.
+  Examples: Intoxicated driver report, domestic disturbance (verbal), road hazard,
+  non-compliant subject (no warrants), any call requiring quicker response but
+  no one in immediate danger.
+
+Code 3 (Emergent): Lights and sirens; respond as quickly and safely as possible.
+  Examples: Pursuits, 10-50 with injuries/fire/roadblock, life-threatening medical,
+  domestic disturbance (physical), GTA, subject with warrants/combative, structure
+  fire, bank alarm, homicide, kidnapping.
+
+Special: Burglary in progress / hostage situations — respond Code 3, drop to
+Code 1 when 5 blocks away.
+
+5.07 - SCENE COMMAND POLICY
+Highest-ranking supervisor on scene takes scene command ("Scene Command" in RTO).
+If same rank, first supervisor on scene takes command. Incoming scene command
+must be briefed by the outgoing unit. RTO must be informed of all priorities and
+any shots fired or Code 4 status.
+
+5.08 - MVA (MOTOR VEHICLE ACCIDENT) POLICY
+
+If attached to a 10-50:
+* Determine if injuries are present; Code 3 with injuries, Code 1 without.
+* Notify fire to attach if injuries are present.
+* On arrival: assess situation, determine if additional 10-32s needed.
+* Call for a supervisor (dispatch may do this).
+
+If involved in a 10-50:
+* Incapacitated: Do NOT press panic button. Wait 10-20 minutes before messaging
+  RTO for a 10-73 (Status Check). If a unit arrives first, RP your injuries.
+* Not incapacitated: Inform RTO you were involved in a 10-50, request a 10-71,
+  advise if anyone was injured.
+
+5.09 - SELF ATTACHING POLICY
+Command members may attach to any active call as supervisory unit. They are not
+primary units and act only as supervisors unless a call is being mishandled.
+Better judgment must be used; abuse results in disciplinary action and possible
+rank reduction.
+
+5.10 - USE OF FORCE POLICY
+Units may use lethal force when they have a reasonable belief that the subject
+poses an imminent danger of death or serious physical injury. A verbal warning
+should be given before deadly force if feasible.
+
+Firearm from inside vehicle — ALLOWED if:
+* A suspect is actively shooting at you, other LEO, or civilians.
+* A suspect is attempting to ram your vehicle and you cannot get out of the way.
+
+Firearm from inside vehicle — NOT ALLOWED if:
+* Going faster than 25 MPH.
+* Taking a turn.
+* Anyone other than the suspect is in the bullet's trajectory.
+
+After discharging your firearm from inside a vehicle, stop the vehicle — it is
+no longer road-worthy. Follow section 5.11.
+
+Discharging at/into a vehicle: Only if you or someone else's life is in immediate
+danger and no evasive action is possible.
+
+5.11 - AFTER ACTION CLEARANCE POLICY
+Whenever a unit discharges a firearm, they must request their immediate supervisor
+to clear them from the scene. A unit cannot clear themselves. Supervisors must
+determine if force was warranted based on:
+* Severity of the crime.
+* Whether the subject posed an immediate threat to life.
+* Whether the subject actively resisted arrest.
+Once the investigation is complete, the unit must provide the discharged firearm.
+
+================================================================================
+6.00 DEPARTMENTAL POLICIES
+================================================================================
+
+6.01 - LEAVE OF ABSENCE (LOA) POLICY
+LOA requests must be approved by Low Command. While on LOA:
+* Not allowed on duty as RHPD or in any RHPD-related activities.
+* Not allowed on another FiveM server or active as a LEO (dual-clanning).
+* Must list a valid reason (medical emergency, family emergency, exams, natural
+  disaster, vacation, PC issues, no PC/internet access).
+* Taking a break is NOT a valid reason.
+* LOA must not be less than 7 days or exceed 14 days (Low Command approval).
+* Long-Term LOA (15+ days): open a Low Command ticket; High Command must approve.
+  May be asked to step down from a command position.
+* After LOA ends: 7-day LOA cooldown before starting another LOA.
+
+6.02 - TRANSFER POLICY
+Transfers are available in the CaliRP Department Hub. Transfers come with a
+60-day transfer cooldown in the new department (or the one you left).
+Transfers can be denied for: punishment history, lack of activity, or being on
+LOA (must be off LOA for 7 days before transferring).
+
+6.03 - RADIO FREQUENCY
+Must be in RHPD RTO (Discord) and the in-game radio frequency at all times while
+on duty. In-game frequency: ###.## (see department Discord for current frequency).
+
+6.04 - NAME STRUCTURE
+Steam/FiveM name must include your callsign and name.
+Format: RHP-01 | C.Titan
+Must have a first and last name (order does not matter).
+
+6.05 - LICENSE PLATE
+Format: ##RHP### (replace # with any available number).
+Set make/model to "Police Cruiser" and color to "RHPD Livery."
+Incorrect plate format results in disciplinary action (starting with verbal/
+written warning, escalating per 2.02).
+
+6.06 - CAD SYSTEM
+Must have a LEO character in the CAD system and be signed in while on patrol.
+All required weapons and the vehicle plate must be registered in CAD.
+Registrations must be updated each time you are promoted to a new rank.
+Your LEO person may not have any outstanding tickets or arrests.
+
+6.07 - ON DUTY POLICIES
+* Must be in the correct RTO and in-game radio while on duty.
+* 10-1 channels are for questions/help only — do not sit in them.
+* 1-3 seconds between transmissions. No talking over or cutting off others.
+* Correct badge, name, and in-game name must match and be displayed at all times.
+* Headtag required at all times unless undercover.
+* You may not staff your own incidents unless HA+ or select JHA+.
+
+6.08 - SUBDIVISIONS
+
+SWAT:
+* Must be Officer III or higher.
+* No current strikes or reports in the last 14 days.
+* 7-day wait before reapplying if not accepted.
+
+SPEED FREAKS (TEU — Pursuit & Off-Road Units):
+* Must be Corporal or higher.
+* No reports in the last 30 days.
+* Pursuit Units: ramming when turning may result in removal from Speed Freaks
+  and a 30-day strike.
+* Off-road units must use trucks, SUVs, or lifted challenger/charger (SRT Pack).
+  Stock F150, Explorer, Durango, Tahoe, etc. are too low for off-road use.
+* 14-day wait before reapplying if not accepted.
+
+================================================================================

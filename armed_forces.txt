@@ -1,0 +1,714 @@
+CALIFORNIA ROLEPLAY - ARMED FORCES
+STANDARD OPERATING PROCEDURES
+Last Updated: 05/24/2026 | Authors: Leo D., J. Rice, S. Flye, J. Mills
+Signed By: Department Coordination Team & Ownership
+================================================================================
+
+All Armed Forces Regulations and Standard Operating Procedures are to be followed,
+respected, and read over by every member of the Armed Forces regardless of rank.
+
+By agreeing to this document you acknowledge that reprimands could come from
+violations of any rules/regulations listed. If you feel this document is incomplete
+or unfair, reach out to the Armed Forces Command Team or Department Coordination Team.
+
+================================================================================
+1.0 | AGREEMENT AND BASICS
+================================================================================
+All members are aware that if violations are a concern to their Command Team they
+could be investigated and removed. All points are to be considered with full
+discretion — these rules apply to ALL ranks within the Armed Forces.
+
+--------------------------------------------------------------------------------
+1.1 | WEAPONIZED VEHICLES AND ROSTER
+- You may use any weaponized vehicle on your department vehicle roster that is
+  allowed based on your department's rules.
+- Any usage of weaponized vehicles must directly relate and correlate to an RP
+  scenario for your respective department.
+- Improper usage of weaponized vehicles will result in a strike within the Armed
+  Forces.
+- Refer to the Global Department SOP and your own current department SOP as needed.
+- Usage of vehicles with a gunner seat: a body (member) MUST be in the gunner seat.
+
+--------------------------------------------------------------------------------
+1.2 | VEHICLE SPEEDS
+- Speed on all land vehicles: 45 MPH speed limit inside Fort Zancudo.
+- Outside Fort Zancudo: follow all posted speed limits.
+- Tanks, LAVs, and similar vehicles shall NOT leave the base unless given correct
+  approval.
+
+--------------------------------------------------------------------------------
+1.3 | LEO AND ARMED FORCES ROLEPLAY
+- Armed Forces may be requested for large Cartel/Militia presence or dealing with
+  weaponized vehicles, etc.
+- Armed Forces and LEO/Federal departments may ONLY roleplay together with
+  authorization from an Office of the Secretary of Defense member, DHS 400
+  callsign, or Main Dept LC.
+
+--------------------------------------------------------------------------------
+1.4 | RTO AND UNICOM
+- While on as your military department, you MUST be in the Armed Forces UNICOM RTO
+  in the MAIN DISCORD.
+- UNICOM should be strict at all times. Failure to comply will lead to a UNICOM
+  strike.
+- Exception: trainings (respective training rooms only).
+- Any operations within your department must be conducted within respective Armed
+  Forces Operations Channel(s).
+
+--------------------------------------------------------------------------------
+1.5 | FLYING AND FAA
+- While flying, you MUST be in radio 149 (FZ Aviation Radio) while in FZ airspace
+  for takeoffs, landings, taxiing, etc.
+- NO aircraft within Armed Forces shall fly below ATC and Radio Tower.
+- Exception: OSD Approval may allow flying below ATC and Radio Tower within FZ
+  airspace.
+- You may fly below ONLY when taking off or landing your jet or helicopter.
+- You may NOT take off from a taxiway at any time.
+- Abuse of aircraft could result in removal from your department.
+  (Civilians on the ground should not see your plane.)
+
+--------------------------------------------------------------------------------
+1.6 | HEAD TAGS AND DUTY BLIPS
+- You MUST wear your department's head tag and duty blips while active on duty or
+  roleplaying as your military department at all times.
+- Head tags should NEVER be abused.
+- Any department-related tags must be approved by VCJCoS before being locked to
+  your department.
+
+--------------------------------------------------------------------------------
+1.7 | ROLEPLAYING OFF DUTY OR AS CIVILIAN
+- ANY individual NOT in a Military Department or the Armed Forces is NEVER to be
+  allowed in any military vehicle or Armed Forces UNICOM/RAID channels.
+- Off-duty Armed Forces members may NOT use their Armed Forces CAD character while
+  on as a civilian and do "Off Duty RP," nor attempt to come on base as "Off Duty
+  Armed Forces."
+
+--------------------------------------------------------------------------------
+1.8 | TANK USAGE OFF BASE
+- Tanks or any other tracked vehicle shall NOT be driven off Fort Zancudo unless
+  there is a direct military operation APPROVED by OSD or NG Command to contain
+  a hostile threat.
+- Tanks should always be shipped on a trailer when needing transport.
+- Having someone in the tank or heavy-tracked vehicle while on a trailer is NOT
+  allowed.
+- Lock all transport vehicles on or off trailers including the semi driving.
+
+--------------------------------------------------------------------------------
+1.9 | IFF (IDENTIFICATION FRIEND OR FOE)
+- Every department MUST offer IFF training inside their main training course or
+  boot camp.
+- Cadets must be taught how to identify themselves and others.
+- You MUST always identify yourself within RTO/UNICOM while taking off, landing,
+  and taxiing.
+- Before opening fire on an unidentified aircraft, you MUST attempt to contact
+  them first.
+  * Green Zone: must be intercepted.
+  * Red Zone: may be shot down.
+- Anyone flying over restricted airspace not in UNICOM, not in FAA Radio (150.0)
+  in-game, and not responding must be eliminated.
+- Any civilian aircraft must be ESCORTED off the airspace.
+- ONLY E-5+ MAY FLY.
+
+================================================================================
+2.0 | UNIFORMS & VEHICLE STRUCTURE
+================================================================================
+Any Armed Forces unit active on duty MUST be in the proper uniform per their
+department's uniform guidelines at ALL times.
+
+UNIFORM RULES:
+- On base: wear ACUs.
+- On patrol or convoy: wear combat uniforms.
+- While using a jet or helicopter: wear an appropriate flight uniform.
+- Indoors: remove your cover/hat unless actively being raided or at a ceremony.
+  This includes anything on top of your head and in your ears.
+- When transferring from a JSOC to normal base operation: put on your OCPs.
+- Only American flags are permitted on uniforms (no British flags, etc.).
+- Midget peds are PROHIBITED when on as Armed Forces (passive RP only peds).
+
+VEHICLE RULES:
+- Follow your department's vehicle guidelines and rank structure.
+- Vehicles must be realistic — NO sport cars, bikes, or supercars on base.
+- Vehicles must have plates in accordance with GSOP.
+- No vehicle may have a window tint darker than limo unless operating as JSOC.
+- Vehicles may NOT have both visor lights and a lightbar at the same time.
+
+--------------------------------------------------------------------------------
+2.1 | USE OF ARMED FORCES DEPARTMENT PERSONALS
+- No member of Armed Forces, regardless of rank or server status, may drive a
+  military vehicle not allowed for their department and rank unless authorized
+  by the OSD.
+
+--------------------------------------------------------------------------------
+2.2 | ARMED FORCES PERSONAL STRIKE POLICY
+No member of the Armed Forces, regardless of rank, is exempt from breaking Armed
+Forces rules.
+
+DEPARTMENT STRIKE SYSTEM (per department):
+  Strike 1: Warning
+  Strike 2: Suspension
+  Strike 3: Removal
+
+ARMED FORCES GENERAL STRIKE SYSTEM (2 strikeout policy):
+  Strike 1: 30-day suspension
+  Strike 2: Permanent Blacklist
+
+NOTE: Armed Forces OSD/DC are exempt from following this.
+
+--------------------------------------------------------------------------------
+2.3 | LEO AND DHS PULLING YOU OVER
+- If an Armed Forces vehicle is pulled over by any blue/red lights, they MUST pull
+  over and comply.
+- LEOs may pull over Armed Forces vehicles and call DHS for further interactions.
+- If no DHS is available, provide your information and they will let you go.
+- If a DHS agent pulls up beside your vehicle and asks you to pull over, you MUST
+  pull over IMMEDIATELY.
+- Listen, respect, and remain calm when DHS is handling you. Follow all orders they
+  give and handle the situation after returning to base.
+
+--------------------------------------------------------------------------------
+2.4 | NICKNAMES AND IDENTIFICATIONS
+- Members MUST have their pay grade, rank, and name displayed with their badge
+  while in Fort Zancudo RTO, Joint Operations channels, and on duty.
+- Do NOT use unrealistic callsigns (e.g., "Thug 1-1" or "Lebron 1-1").
+- Callsigns must be realistic and professional (e.g., "Reaper 1-1", "Dagger 1-1").
+- Example formats:
+  O-10 | Gen. | John D.    /    E-1 | PVT | J. Doe    /    O-3 | CPT | John Doe
+
+--------------------------------------------------------------------------------
+2.5 | PROPER ROLES AND PERMISSIONS
+- Request your department role in the role-request channel in the Armed Forces Discord.
+- Members are only allowed in ONE Main Armed Forces department and ONE Sub Armed
+  Forces Department at a time.
+- Ensure you have the Whitelisted DoD Role in the main discord.
+- If you are E-5+, ensure you have the Whitelisted DoD Supervisor Role in the main
+  discord.
+- Having another Armed Forces Department's role in the Armed Forces Discord is NOT
+  allowed.
+
+--------------------------------------------------------------------------------
+2.6 | RTO AND UNICOM ETIQUETTE (2 STRIKE POLICY)
+- REQUIRED to maintain professionalism and strictness in RTO channels at all times.
+- NO general conversations held in RTO — only Armed Forces related information.
+- No talking over others or arguing in RTO. THIS WILL BE STRICTLY ENFORCED.
+- If rules in UNICOM are not followed, a Commanding Officer will issue a warning.
+- 2 warnings = UNICOM Strike.
+- 2 UNICOM Strikes = Department Strike.
+- All Armed Forces Personnel should NOT be in Department offices or management
+  offices inside Discord Canary while clocked on as Armed Forces Personnel.
+  Exception: if recruiting, you may be in your respective recruitment VC instead
+  of UNICOM.
+
+--------------------------------------------------------------------------------
+2.7 | ARRESTING, MEDICAL, AND JAILING DEAD/WOUNDED INDIVIDUALS
+If anyone is killed by Armed Forces on base:
+1. Approach the individual and first put in: /me checks pulse
+2. If dead: /me calls coroner (or CC), then use M menu to send to coroner.
+3. If alive after checking vitals: apply medical assistance or radio for someone
+   who can; then hospitalize, question, and/or jail/arrest them.
+
+CORONER TIMER RULES:
+- Player raids the base and KILLS 1+ Armed Forces members: coroner for 300 seconds.
+- Player raids the base and does NOT kill any Armed Forces members: coroner for 150
+  seconds.
+- AT NO TIME should these features be used to skip respawn timers.
+
+--------------------------------------------------------------------------------
+2.8 | GATE SECURITY AND PROPER GATE PROCEDURES
+ALL members MUST follow these procedures for individuals approaching/entering base:
+
+Step 1: Approach the vehicle or individual attempting to enter Fort Zancudo.
+Step 2: Ask what their intentions are on base.
+Step 3: If they identify as a Military Branch, ask for their CAC.
+Step 4: If they don't identify as Military, ask why they need access and CHECK
+        WITH A BASE COMMANDER (O-5+ or highest ranking member on duty) if they
+        should be allowed in.
+Step 5: Upon denial, ensure they leave the base's surroundings.
+Step 6: If permitted entry, perform a FULL search of the individual and vehicle.
+
+--------------------------------------------------------------------------------
+2.9 | ARMED FORCES DEPARTMENT MOVEMENTS
+
+DEPARTMENT TRANSFERS:
+- May happen at any time.
+- If you leave or are removed without transferring: 14-day cooldown before joining
+  another Armed Forces department.
+- To transfer: go to Department Hub Discord and initiate a transfer request.
+- Upon transfer: mandatory demotion of 1 rank (can be more if receiving HC wishes).
+
+DEPARTMENT SHUTDOWN TRANSFERS:
+- When an Armed Forces Department shuts down: 72 hours to transfer to another
+  Armed Forces Department.
+- Below O-3: lateral transfer.
+- HC or LC: automatically become O-3 unless approved by LDC+ to go higher.
+  This is case-by-case; NO exceptions.
+
+SUBDIVISION TRANSFERS:
+- Transferred to the equivalent subdivision they were previously in.
+- Must still go through training and pass the new department's training.
+  NO exceptions.
+
+================================================================================
+3.0 | RAIDING FORT ZANCUDO
+================================================================================
+Raiding Fort Zancudo without well-developed roleplay beforehand is considered
+FailRP & RDM and against server rules.
+
+- Putting in a /GME saying "Raiding FZ" or "Raiding FZ in 5 minutes" is NOT
+  considered well-developed roleplay.
+- No OOC talking about defending Zancudo and encouraging others to raid.
+- All raids must remain within RP at all times.
+- If Armed Forces choose to end the scene, staff may be called and the scene
+  disregarded.
+- Armed Forces members who go off duty must wait 30 minutes before raiding
+  the base (powergaming rule).
+- All vehicles, weapons, and peds must remain realistic throughout RP.
+
+--------------------------------------------------------------------------------
+3.1 | CAYO PERICO RULES
+- Raiding must only be done when properly scouted (foreign land, not part of map).
+- Driving/flying around or "relaxing" at Cayo is NOT allowed.
+- Simply going there to "go there" or mass kill is NOT allowed.
+  (Scouting and gathering intel is fine — scouts must be discreet.)
+- If found at Cayo, they CAN and WILL shoot on sight with no questions asked.
+- Tanks to Cayo ONLY by trucking, boating, or airlifting — NOT driving on roadways.
+  Driving tanks on roadways to get to Cayo may result in punishment. NON-NEGOTIABLE.
+- ONLY Operators of the Joint Special Operations Command (JSOC) may conduct
+  operations on Cayo.
+
+--------------------------------------------------------------------------------
+3.2 | OFF-BASE ROLEPLAY
+- Militarized vehicles off base only allowed during RP (transport convoy or called
+  upon by state authorities — see 1.3).
+- E-5+ required to host and launch a convoy off base.
+- Must make a pre-planned route and communicate in radio 146.00.
+- Only MARKED vehicles are allowed outside of Fort Zancudo.
+- JSOC Operators permitted off base for Intel/Operations missions.
+- When responding to high-priority scenes: MUST match force or be one level above
+  the current threat.
+  Example: Suspects have rifles → bring a 50.CAL.
+           Suspects have 50.CAL → bring a bigger 50.CAL or use a 40MM.
+
+--------------------------------------------------------------------------------
+3.3 | LEO LIGHTS ON ARMED FORCES VEHICLES
+- Military vehicles with LEO lights shall NOT use emergency lights off base except:
+  * To head back to base Code 2 or 3 if the base is under attack.
+  * If you are active Military Police.
+- If stopped by DOHS or NG and asked for proof the base is being attacked, comply
+  respectfully.
+- Amber/Yellow lights MAY be used during convoy operations to escort convoys off
+  base.
+- All rules regarding the Emergency Services SOP must be followed.
+- If on as MP: you must have an MP Livery on your vehicle.
+
+--------------------------------------------------------------------------------
+3.4 | LOCKDOWN PROCEDURES AND ESTABLISHING KOS
+
+ALPHA:
+- Base on complete lockdown.
+- All non-combat personnel must be inside the bunker for safety.
+- Base under attack.
+- Kill on sight on all hostile actions.
+- DOHS, CIAA, NCIS & VGA are allowed on base during Code Alpha.
+
+BRAVO:
+- Base on shutdown.
+- All personnel must be in combat vehicles.
+- Contractors & federal units NOT allowed entry.
+- DOHS, CIAA, NCIS & VGA are allowed on base during Code Bravo.
+
+CHARLIE:
+- Heightened awareness.
+- All contractors & federal units must be escorted by MPs.
+
+DELTA:
+- Normal Base Operations.
+
+--------------------------------------------------------------------------------
+3.5 | MILITARY POLICE
+- MPs may pull over other departments (besides NG) inside base for valid reasons
+  (e.g., not following speed limits, driving on taxiways/runways without reason).
+- Must be in proper uniform, using the Military Police Gangtag, and in radio 148.00.
+- You are NOT allowed to put charges on an Armed Forces member's CAD character.
+- If an Armed Forces member commits a felony on base: refer it with evidence (clips)
+  to their Department Command.
+- If you pull over a contractor: forward it to an OSD member with evidence.
+- AT NO TIME will jail exceed 800 seconds per server rules.
+
+--------------------------------------------------------------------------------
+3.6 | ROEs AND USE OF FORCE INSIDE OF BASE
+- Gate-guard/MP: check CAC cards or verify the contractor's list.
+
+RULES OF ENGAGEMENT:
+- If they speed through the gate and KILL any gate-guard/MP: immediately classified
+  as KOS — you are permitted to fire on them.
+- If they speed through the gate and run WITHOUT killing anyone: try to detain/catch;
+  you are NOT permitted to shoot them unless they are holding a weapon (bat, pistol,
+  rifle) or are in an armored vehicle.
+- Always CALL OUT YOUR TARGETS to prevent friendly fire.
+- Civilian contractors on base: immediately locate them and get them to safety
+  (armored vehicle or inside barracks).
+- AT NO POINT use explosive rounds on a soft target — this applies even to tier 5
+  terrorists. DO NOT use tanks against ground troops.
+
+RESTRICTED AREAS / KOS ZONES:
+- Fort Zancudo ATC Tower: KOS if inside, outside trying to break in, or on top.
+- Fort Zancudo Radio Tower: KOS if on the Radio Tower.
+- Fort Zancudo Medical Bay & HQ: KOS if breaking into Medical Bay or HQ.
+
+--------------------------------------------------------------------------------
+3.7 | CLOSE AIR SUPPORT (CAS)
+- CAS on a soft target must ONLY be approved by OSD or NG Command during an
+  operation outside of base.
+- Do NOT strike Fort Zancudo Military Base with explosives or non-explosive
+  ammunition unless approved by OSD.
+- CAS ONLY provided on armored, bulletproof, or weaponized vehicles.
+- A pilot reserves the right to deny an air strike if deemed unsafe, likely to
+  cause casualties, or conditions aren't right.
+
+--------------------------------------------------------------------------------
+3.8 | JSOC AND OPERATIONS OUTSIDE OF BASE
+- Operating outside Fort Zancudo: ONLY done by Special Operations groups approved
+  by the respective Team Leader or Office of the SOD.
+- Special Operations groups MUST be in an Armed Forces Ops Channel while conducting
+  operations.
+- All RP rules must be followed; violations result in punishments regardless of rank.
+- Operating outside Fort Zancudo is a PRIVILEGE — treat it as such.
+- If contacted by a Department Coordinator requesting you return to base, obey
+  immediately and wait for further instructions.
+- A raid format MUST be filled out when raiding any property on or off US soil.
+- Vehicle restrictions still apply; maintain the highest degree of realism.
+
+JSOC BEARD POLICY:
+- JSOC members ARE permitted to grow and utilize a beard while deployed.
+- Upon return to base: member MUST change to a ped without a beard.
+- JSOC members are NOT permitted to remain active on base after conclusion of their
+  raid; must change immediately after the after-action report.
+- Dress Blues policy ALWAYS supersedes this — beards must be removed immediately
+  when wearing dress blues regardless of recent return from JSOC.
+
+--------------------------------------------------------------------------------
+3.9 | LEO REINFORCEMENTS AND QRF (QUICK REACTION FORCE)
+- Highest in UNICOM will respond to any Main Dept Low Command+ LEO requesting
+  Armed Forces assistance.
+- Highest in UNICOM will pick 3-6 people depending on the severity of the situation.
+- IF THERE ARE NOT A MINIMUM OF 3 OTHER PEOPLE IN UNICOM BESIDES THE TEAM LEADER,
+  YOU ARE NOT PERMITTED TO ACTIVATE AS QRF.
+- Highest in UNICOM is the team leader — what they say goes.
+- Uniform is determined by your department HC.
+- QRF is LIMITED to ONLY the DOD_Humvee1 or DOD_Humvee2 while activated as QRF.
+- PROHIBITED QRF weapons: Explosive weapons and Throwable Explosives.
+- PERMITTED QRF weapons: Flashbangs and Breach Charges.
+- QRF ONLY responds to stationary scenes — vehicle chases are NOT permitted and
+  must be left to LEO.
+
+================================================================================
+4.0 | ALLOWING DEPARTMENTS ON BASE AND DOHS BASE ACCESS CARD
+================================================================================
+- "Stationed" status: allows said department/subdivision to stage for operations,
+  take off in helicopters/planes, and use the war room for briefings.
+- "Base Patrol" or "Outer Base Security" status: access to patrol and maintain
+  base security.
+- CIAA and DHS: access ONLY for taking off in helicopters/planes.
+  Exemptions require OSD member approval.
+- DHS Members with a DHS Base Access Card may patrol within the base and enter
+  Armed Forces UNICOM to assist in day-to-day operations.
+- Department Coordinators: granted access at all times when on official business.
+- Any reports on abuse of power from the above must be reported to Armed Forces DCs
+  immediately.
+
+--------------------------------------------------------------------------------
+4.1 | MILOOPS/UNIVERSAL/PERSONAL VEHICLE USAGE
+- Access to a vehicle does NOT mean you can use it whenever.
+- Must follow Armed Forces guidelines — e.g., if activated as a department that
+  wouldn't realistically have a tank, you may NOT use a tank.
+- NATO Vehicles are allowed.
+- You are NOT allowed vehicles that are non-American (e.g., cannot use a SU-47).
+
+--------------------------------------------------------------------------------
+4.2 | WEAPON POLICY AND USAGE
+- Front sling: always permitted.
+- Back sling: only for heavy weapons (grenade launcher, sniper rifles, LMGs).
+- Do NOT run around base slinging RPGs unless actively using them.
+- Suppressors: ONLY permitted for operations; must be used on primary rifle.
+  All snipers MUST include a suppressor.
+- RESTRICTED WEAPONS: AP Pistol, Ghost Weapons, Dragon's Breath Rounds, Incendiary
+  Rounds.
+- Mini Gun usage: must be approved by an OSD member.
+- Breaching charges (C4) and small explosives (grenade/flashbang): ONLY for
+  breaching rooms and clearing hostiles in enclosed buildings.
+- Extended mags, regular mags, and drum mags are allowed.
+- RPG POLICY: Only permitted on bulletproof vehicles, aerial machinery, heavy
+  ground artillery, and targets who are holding explosives or have recently used
+  explosives.
+
+--------------------------------------------------------------------------------
+4.3 | S.A.M SITE RP
+- S.A.M/Anti-Air Defence Site RP is permitted on base.
+- MUST be stationed in ONE position; NOT allowed to move for the entirety of
+  operating a S.A.M.
+- To stop: exit the vehicle and DV (delete) the S.A.M before continuing other RP.
+
+--------------------------------------------------------------------------------
+4.4 | CAC POLICY
+- You MUST present your CAC to any MP who requests it on base.
+- This includes all base entries, MP traffic stops, and other situations requiring
+  a CAC.
+- Use /showid or the God's Eye menu to present your CAC.
+
+--------------------------------------------------------------------------------
+4.5 | DRONE USAGE
+- Drones do NOT fall under the plane category.
+- Allowed altitude: 350-450ft maximum.
+- Drone should NOT operate BELOW these requirements (don't let the enemy see you
+  easily).
+- Strictly for RECONNAISSANCE purposes against an OpFor.
+
+--------------------------------------------------------------------------------
+4.6 | LA OPERATIONS
+- All Combat Ready troops within Armed Forces are allowed to station in LA and
+  combat local Cartel/Militia crimes.
+- STRICT regulations:
+  * Only drive Blacked-out Chargers or Tahoes.
+  * Must wear uniform codes 19022 or 19023 at ALL TIMES.
+  * Only engage designated groups; do NOT interfere with or take over any LEO scene.
+  * May only assist LEO if specifically requested.
+  * NOT permitted to partake in: Bank Robberies, Drug Busts, Hostage Situations,
+    10-99, or 10-80.
+  * If you encounter any of the above, notify local LEO and do NOT interfere.
+  * You may NOT exceed into Mexico or Blaine County at ANY time.
+  * Must utilize an Armed Forces Operations or Joint Operations Channel while
+    conducting combat missions in LA.
+  * MUST notify Base Commander+ before conducting combat operations.
+  * If FZ requires your assistance: R.T.B. (Return to Base) IMMEDIATELY.
+  * Required to have 4 or more people when operating off base.
+
+--------------------------------------------------------------------------------
+4.7 | SEARCH & RESCUE OPERATIONS
+- Armed Forces members may conduct Search & Rescue on civilians on land or at sea
+  under STRICT RP.
+- S&R members MUST be properly trained before activation.
+- Land vehicles for S&R missions are NOT permitted; must use Helicopters or
+  Watercraft.
+- May conduct rescue operations all over the state (including Roxwood/Paleto).
+- To launch a S&R mission: must be in the presence of an E-5+ and Base Commander
+  must sign off on the mission.
+- After rescue: fly or transport to the nearest medical center and return to base.
+- Uniform must be Combat Medic styled during S&R missions.
+
+--------------------------------------------------------------------------------
+4.8 | MORTAR USAGE
+- Members who have purchased "Mortars" are permitted to use them on duty.
+- Mortars are NOT bound to the "Hard Target, Soft Target" rule — may be used on
+  people or vehicles.
+- Must be used realistically.
+- Must be accompanied by a TWO-MAN TEAM: one Spotter and one Mortar Fire Technician.
+- You may NOT station your mortar within 150 meters of your target.
+- You may NOT bomb the base using mortars unless approved by Base Commander+ and
+  the section must be closed off in RP for repairs.
+
+--------------------------------------------------------------------------------
+4.9 | HARD TARGET / SOFT TARGET
+A HARD TARGET is: anyone using explosives (RPG, sticky bombs, etc.), anyone in a
+bulletproof or bombproof vehicle, anyone in tanks, weaponized helis, jets, or
+using a 50.CAL on base.
+
+RULES:
+- At NO time may you bomb people with explosive cannons.
+- At NO time may you bomb people with explosives (exemption: Mortar).
+- You MAY ONLY use explosive cannons on armored vehicles or buildings.
+- You MAY ONLY use bombs on armored vehicles or buildings.
+- You MAY ONLY use bombs/explosive cannons on people who are ACTIVELY using
+  explosives.
+
+================================================================================
+5.0 | DEPARTMENT SPECIFIC VEHICLE USAGE
+================================================================================
+Armed Forces Personnel may ONLY use vehicles realistic to their department:
+- Air Force CANNOT use Tanks.
+- Navy CANNOT use Tanks.
+- Army CANNOT fly Fighter Jets.
+This applies to all general roleplay and operations.
+
+--------------------------------------------------------------------------------
+5.1 | BASE SECURITY
+- 1 Personnel should ALWAYS be in a Manned Humvee 50.CAL covering the main gates
+  (1 at O6, 1 at O5).
+- Troops at the gate MUST always have a rifle and be in proper combat uniforms.
+  MPs must have a vest on.
+- All troops must be actively communicating in radio 148 (MP & Gate Guard Radio).
+- Recommended (not required): 2-3 man foot patrols covering mountain ranges and
+  swamps around the base. MPs should be actively patrolling for invaders.
+- MINIMUM of 2 people required at each gate (O5 & O6). MUST BE ROTATED EVERY 30
+  MINUTES.
+- ALL personnel must have their CAC reviewed and verified before entering the base.
+- All Civilian Contractors must be verified fully on the contractor list and have
+  their CAD checked (SSN verification) before entry.
+- All Department Contractors must be verified at the gate and only be on base for
+  their assigned contract.
+- All contractors entering base must be notified to and approved by the current
+  Base Commander.
+
+--------------------------------------------------------------------------------
+5.2 | BASE COMMANDER
+- The Base Commander ensures good order and discipline on Fort Zancudo.
+- Anyone of a lesser grade MUST follow all lawful orders of the Base Commander.
+- The highest-ranking Armed Forces member on duty automatically becomes Base
+  Commander.
+- Must debrief the new Base Commander if someone higher rank comes on duty.
+
+--------------------------------------------------------------------------------
+5.3 | GROOMING STANDARDS
+All members MUST be clean shaven. NOT PERMITTED:
+- Silly faces (huge nose, inverted faces).
+- Beard while on duty (exception: see 3.8 JSOC rules).
+- Mustache extending past the corners of the mouth.
+
+Senior-ranked members may inform offending members to shave; failure to do so
+may result in disciplinary action.
+
+MUST be clean shaven when wearing dress uniforms including:
+- Service Alphas (full dress jackets).
+- Service Bravos (shirts bearing medal ribbons and rank on shoulders).
+
+HAIR STANDARDS:
+- Hair must be short and neatly cropped.
+- Must not extend past the halfway point of the ear.
+- No more than 2 inches in length.
+- Must not stick out under any headdress (berets, peaked caps, tactical helmets).
+- Dreadlocks and afros must be kept short and neatly cropped.
+- Hair should not poke out from inside headdress.
+
+--------------------------------------------------------------------------------
+5.4 | PMC RULES AND REGULATIONS
+
+CONTRACTING PROCEDURES:
+- May be contracted by civilians or law enforcement.
+- CANNOT be involved in any criminal activity or contracted by gangs/criminal
+  enterprises.
+- Must follow all laws at all times.
+- Must uphold GSOP and Armed Forces SOP.
+
+RULES AND REGULATIONS:
+- When activated as a PMC, you are expected to follow all rules in the Armed Forces
+  SOP.
+- Permitted to patrol in an Armed Forces Operations Channel or Joint Operations for
+  contracting missions.
+- For Civilian Contracting Missions: communicate with them via a radio frequency.
+
+RAIDING GANGS AND CRIME FAMILIES:
+- PMC must still follow JSOC Guidelines and Armed Forces SOP raiding rules.
+- Must be contracted out to raid gangs/families by Civs or Armed Forces/LEO only.
+- A PMC CANNOT raid FZ, Marine, or be contracted by another gang or crime family.
+- PMCs CANNOT be contracted to conduct any illegal/unlawful activities.
+
+PMC ROLEPLAY:
+- PMC may roleplay with other civs and Armed Forces on and off base.
+- Civs are NOT allowed on base unless on the Armed Forces Contractors List.
+- PMCs may NOT partake in Corrupt Roleplay.
+- PMCs may not violate any laws; all contracts must be FULLY LAWFUL.
+
+OPERATIONS OUTSIDE OF BASE:
+- PMCs are allowed to conduct raids on gangs and crime families following all Armed
+  Forces SOP and JSOC SOP rules.
+- NO PMC member may call in CAS off base while conducting contracts for civilians.
+  PMC may call in air support only while with other Armed Forces or on department
+  operations.
+- PMCs are permitted to raid in Mexico.
+
+ACTIVATIONS:
+- PMCs may activate as Air Units, Marine Units, and tactical units.
+- May use weaponized helicopters within reason.
+- When supporting LEOs as a conventional air unit: use NON-weaponized aircraft
+  (e.g., C-130, MH6).
+- When activating as an aerial unit: MUST be in radio 149 and communicate with Fort
+  Zancudo ATC Tower at all times.
+- May use weaponized boats (patrol boat and 50.CAL dinghy).
+- NOT permitted to use weaponized vehicles when supporting LEOs as a conventional
+  marine unit.
+
+ARMORED VEHICLES USAGE OFF BASE:
+- PMCs may use 50.CAL trucks/vehicles off base ONLY in non-populated areas.
+- PROHIBITED areas: Sandy, Grapeseed, Roxwood, Paleto, Inner LA.
+- Must be used realistically — not just for patrolling in 50.CALs.
+- All 50.CAL gunners MUST be able to be shot when out.
+- Tanks and APCs must be transported legitimately and used far from populated areas
+  in pre-coordinated RP.
+
+PATROLLING:
+- When not contracted, MUST be on base and help perform basic base duties (gate
+  duty, etc.).
+- Only permitted to patrol off base when contracted out and completing contracting
+  missions.
+
+--------------------------------------------------------------------------------
+5.5 | ARMED FORCES COMMAND STRUCTURE
+Structure: 5 HC spots, 2 THC spots, up to 6 LC spots. Departments will NOT exceed
+their HC, THC, and LC spots.
+
+HC:   O-10, O-9, O-8, O-7, O-7
+THC:  O-7, O-7
+LC:   O-6 (x6)
+
+Only Main Armed Forces Departments and PMC can clock in.
+O-7 HC+ can clock in as staff. They CANNOT staff their own staff scenes.
+
+--------------------------------------------------------------------------------
+5.6 | CUSTOMS AND COURTESIES
+All members must follow Customs and Courtesies Guidelines. Supervisors and command
+are responsible for maintaining standards. Violations may result in verbal warnings,
+written warnings, suspension, or removal.
+(Armed Forces DC and LEO DC are NOT exempt.)
+
+SALUTING:
+- Salutes or verbal acknowledgments ("Sir/Ma'am") will be rendered to ranks of
+  Lieutenant and above (O-1+) during formal situations (ceremonies, inspections,
+  promotions).
+
+MILITARY ETIQUETTE:
+- Treat all personnel, regardless of rank or department, with respect at all times.
+
+RADIO ETIQUETTE:
+- Use proper callsigns and unit numbers at all times.
+- Speak clearly, professionally, and only when necessary.
+- Begin transmissions with your unit ID followed by the recipient's ID
+  (e.g., "Dagger 1-1.")
+- Avoid slang and excessive radio chatter.
+
+--------------------------------------------------------------------------------
+5.7 | FORT NOVA RULES
+All Armed Forces members must follow all rules regarding Fort Nova base rules.
+Failure will lead to Written Warning, Suspension from Fort Nova, or removal from
+your department.
+
+- OSD withholds permissions to handle any unit on the base including NCIS.
+- Everyone must maintain strict mannerisms as on Fort Zancudo, following all Armed
+  Forces rules and regulations.
+
+NCIS FZ RULES:
+- NCIS is allowed to fly aircraft and drive tanks (base command approval required).
+- NCIS does NOT have permission to conduct Torture RP on Fort Zancudo.
+- NCIS must follow Armed Forces SOP when activating on Fort Nova.
+
+ARMED FORCES RULES ON FORT NOVA:
+- NCIS THC are allowed to send off Armed Forces members on Fort Nova ONLY.
+- Armed Forces members can fly and drive tanks at Fort Nova.
+
+--------------------------------------------------------------------------------
+5.8 | HC MEMBERS IN OTHER ARMED FORCES DISCORDS
+- Armed Forces Command Team members DO NOT NEED TO BE in other Armed Forces Discords.
+- To join another Armed Forces Discord: ask the Acting O-10 of that department.
+- If removed from that Discord: the HC member must reach out with a valid reason.
+- To get a member banned from a specific department Discord: must get VCJCoS (OSD)
+  approval plus proof/valid reason before the ban.
+- Exception: if the member is breaking Discord TOS, account is compromised, or
+  sending explicit images/messages — they can be banned right away WITH proof.
+
+--------------------------------------------------------------------------------
+5.9 | ARMED FORCES RESERVES GUIDELINES
+- A member in the Reserves Program will NOT get a rank higher than O-1.
+- When in Reserves: NOT assigned to any JSOC team; however, can still be assigned
+  to MP, Armed Forces Fire, or the Air Division.
+- Upon coming off the Reserves Program: placed at a rank the command team feels is
+  fit.
+- NOTE: Command Team cannot instate higher than O-3 unless approved by LDC+.
+
+================================================================================

@@ -1,0 +1,214 @@
+CALIFORNIA ROLEPLAY CARTEL COORDINATION
+CARTELS HANDBOOK
+Last Updated: 10/28/2025
+================================================================================
+
+SECTION 1 | INTRODUCTION
+================================================================================
+
+1.01 | CARTEL EXPECTATIONS
+- You MUST comply with both the CaliRP Gang Community SOP and the CaliRP Server Rules.
+- You may belong to ONLY ONE cartel at a time.
+- All roleplay must meet the highest possible standard — poor roleplay quality will
+  result in consequences.
+- If a member BELOW High Command leaves a cartel, they must serve a 3-day parole.
+- HIGH COMMAND members must serve a 5-day parole upon leaving.
+- Punishments follow the CaliRP Gang Punishment Guidelines V3 and may be updated
+  at any time.
+- Gun rules are mandatory — violations are punished by Cartel Coordinators.
+
+--------------------------------------------------------------------------------
+1.02 | CARTEL COORDINATION
+Cartel Coordinators play an essential role in maintaining the structure, quality,
+and integrity of cartel roleplay. Their responsibilities:
+- Oversee all cartel-related activity to ensure consistency, creativity, and
+  adherence to server standards.
+- Stay active within the roleplay scene; support cartel members and HC/LC.
+- Help create engaging roleplay that strengthens the overall community experience.
+- Act as a bridge between individual cartels and Cartel Heads.
+- Assist with administrative tasks; help interpret and enforce community guidelines.
+- Step in to resolve issues or conflicts before they escalate.
+- Revoke or reinstate unjust punishments or removals (per Cartel Coordination
+  Structure).
+- Provide guidance, resources, and structure to help cartels grow and deliver
+  high-quality roleplay.
+
+--------------------------------------------------------------------------------
+1.03 | CHAIN OF COMMAND
+  Gang Manager          - Saif    - Oversees Cartel operations; final authority
+  Lead Gang Coordinator - S / Tanner - Handles day-to-day Cartel operations
+  Cartel Coordinator              - Assists Head of Cartels with Cartel operations
+
+--------------------------------------------------------------------------------
+1.04 | NAME FORMAT WITHIN CARTELS
+- ONLY Gang Coordinators and Assistant Community Managers+ should have "!" before
+  their name (e.g., ! Saif). No JHAs or Head Admins should use "!".
+- High Command member:  # RC-04 | Bubby
+- Low Command member:   $ RC-06 | Jenna
+- Non-compliance: Warning -> Possible suspension.
+
+================================================================================
+SECTION 2 | CARTEL GUIDELINES
+================================================================================
+
+2.01 | OUTFIT REGULATIONS
+Uniforms should be as realistic as possible. Cartels use certain colors due to EUP
+and style requirements.
+
+"SHITTER FITS" are STRICTLY PROHIBITED and will result in punishment.
+
+TACTICAL / CARTEL OUTFIT POLICY:
+Purpose: Ensure outfits are realistic, safe, and appropriate for roleplay scenes.
+Prevent misuse of heavy tactical gear in low-risk/public settings.
+
+WHEN ALLOWED:
+- Full tactical gear (rifles, helmets, NVGs, heavy plate, full-face goggles) is
+  permitted ONLY during raids, active combat ops, or explicitly designated
+  high-risk scenarios.
+
+WHEN PROHIBITED:
+- Do NOT wear full tactical loadouts in passive/public business or street scenes
+  (e.g., casual street RP, shops, offices).
+
+PERMITTED EVERYDAY KIT:
+- Low-profile items (hoodies, jeans, concealable/soft armor, simple vests) are
+  acceptable for non-raid RP.
+
+APPEARANCE GUIDELINE:
+- Keep uniforms realistic — no bright, attention-grabbing color schemes or
+  mismatched costume elements that make the outfit obviously theatrical or
+  out-of-place.
+- Remake any outfits that look unrealistic or overly conspicuous for everyday
+  city RP.
+
+ENFORCEMENT:
+- Repeated violations (unwarranted heavy gear, blatant attention-seeking outfits,
+  frequent inappropriate raid initiation) will result in warnings and possible
+  demotion from tiers.
+
+SUMMARY: Heavy/tactical = raid-only. Low-profile = acceptable for everyday
+cartel/militia RP. Keep it realistic and situational.
+
+--------------------------------------------------------------------------------
+2.02 | FEAR ROLEPLAY / RAIDS AND LIFE RULE
+
+FEAR HIERARCHY:
+- Tier 3 Cartels do NOT need to fear anyone else in their category.
+- Tier 2s MUST fear a Tier 3 if outnumbered.
+- Tier 1s MUST fear Tier 2 AND Tier 3 at all times if outnumbered.
+
+RAIDS:
+- By default, all raids are BOG (Boots On Ground).
+- NO weaponized vehicles are permitted at any point unless agreed upon by BOTH
+  gangs prior to the raid.
+
+LIFE RULE:
+- 1 life per scene at all times with Gangs & LEO, unless it is a planned raid and
+  both sides agree on more lives.
+
+--------------------------------------------------------------------------------
+2.03 | RANK STRUCTURE / SUBDIVISION RULES
+
+RANK STRUCTURE:
+  Overseers:     00 (Earned or Purchased)
+  High Command:  01 - 05
+  Low Command:   06 - 010
+
+RANK SLOT RULES:
+- Each command rank can only have ONE member per slot (e.g., only one 05, one 010).
+- Exception: If your group has purchased double rank slots, up to TWO members are
+  allowed per rank (e.g., two 01s or two 04s).
+- Multiple Overseers (00s) are allowed based on the number of slots your group owns.
+- Any group found with unauthorized duplicate command ranks will receive IMMEDIATE
+  punishment without warning.
+
+SUBDIVISIONS:
+- Any new subdivision must first be APPROVED before creation.
+- Open a creation ticket for review to ensure the subdivision name and concept
+  align with current community guidelines.
+
+================================================================================
+SECTION 3 | CARTEL INTERACTIONS
+================================================================================
+
+3.01 | GENERAL CARTEL INTERACTIONS
+
+LIFE RULE:
+- Each member gets ONE life per scene unless a different rule is clearly stated in
+  a /gme before the scene starts.
+- The group that INITIATES the scene sets the life rule; it CANNOT be changed
+  mid-scene.
+
+PROPERTY RULE:
+- If your cartel owns a postal or YMAP, you can request another group to leave OOC
+  by using /calladmin or contacting Cartel Coordination.
+- This should ONLY be done if the scene gets out of control — NOT to avoid roleplay.
+
+IN-CHARACTER BEHAVIOR:
+- Stay in character at all times when roleplaying as or with a cartel.
+- Going OOC or disrupting scenes will result in punishment.
+
+QUALITY ROLEPLAY:
+- Every scene must have roleplay build-up. Random or unprovoked attacks are NOT
+  allowed.
+- "At war" is NOT an excuse for Kill On Sight (KOS) behavior.
+- Repeated toxic or random attacks will lead to group strikes or punishments.
+
+INTERACTION RULES:
+- New Life Rule: 1 life per scene — you have NO memory of your past life after dying.
+- Stay In Character: No OOC talk during roleplay.
+- Fear RP: Always show proper fear in realistic situations.
+- Gang Tag: You MUST wear the correct group tag (e.g., Madrazo Cartel tag when on
+  that character).
+- Cartel vs. Street Gangs: Cartels can ONLY attack street gangs if provoked first.
+  Retaliation must happen within the same scene. Street gangs must fear cartels —
+  report any abuse of this rule to the Cartel/Street Gang Coordinator with proof.
+
+--------------------------------------------------------------------------------
+3.02 | LEO INTERACTIONS
+
+TRAFFIC STOPS:
+- If cooldown or priority is not active, you MAY run from LEOs — but don't do it
+  every time. Always aim to create good, realistic RP for both sides.
+- If you stop, provide your CAD info and roleplay the scene properly.
+
+LEO RAIDS:
+- You may defend yourself during a raid, especially on your own property, but
+  follow life rules.
+- LEOs get 2 lives; you get 1, unless the owning gang's /gme states otherwise.
+- Always fear for your freedom — LEOs can arrest you for life, opening future RP
+  like warrants or BOLOs.
+
+--------------------------------------------------------------------------------
+3.03 | CARTEL BEEF STAGES
+Cartels must progress through beef stages in order. Jumping stages is NOT permitted.
+
+STAGE 1:
+  - Violent aggression
+  - Theft of assets (outside of gang properties)
+  - Use of weapons (within gun rules)
+  - Raiding properties (5 minutes prior RP required)
+  - All raids are boots on ground
+  - Allies CANNOT be involved
+  - Must remain in Stage 1 for 1 week
+
+STAGE 2:
+  - Violent aggression
+  - Use of weapons (within gun rules)
+  - Theft of assets (within gang properties)
+  - Raiding all properties (with GME)
+  - Allies CANNOT be involved
+  - Boots-on-ground subject to agreement by both parties
+  - Must remain in Stage 2 for 1 week
+
+STAGE 3:
+  - Free locations can be put up for grabs at turf wars (must be agreed by both)
+  - All-out war
+  - Boots-on-ground subject to agreement by both parties
+  - KOS on sight (if marked)
+  - Allies CAN be involved
+
+================================================================================
+For questions or clarification, contact a Cartel Coordinator directly or reach
+out to Saif.
+================================================================================

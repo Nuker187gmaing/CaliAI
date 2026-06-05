@@ -1,0 +1,63 @@
+CALIFORNIA ROLEPLAY GLOBAL STANDARD OPERATING PROCEDURES
+Latest Revision: January 26th, 2026
+
+Key Sections: Introduction, Departments Structure, In-game Rules, RTO Etiquette, 
+Weapons/Uniforms/Vehicles, Transfer/Resignation, Department Policies, 
+Miscellaneous Information, Any Department Policy, Jurisdictions
+
+TABLE OF CONTENTS:
+1.0 Introduction - 1.2 Mission Statement, Preliminary Information
+2.0 Departments Structure - 2.1 By Category, 2.2 Chain of Command
+3.0 In-game Rules - 3.1 In Character, 3.2 Duty Blips/OOC
+4.0 Radio Traffic Only (RTO) - 4.1 10-Codes, 4.2 Communicating, 4.3 Authority
+5.0 Weapon, Uniform, Vehicle - 5.1 General, 5.2 Vehicles, 5.3 Weapons, 5.4 Uniforms
+6.0 Use of Force Continuum
+7.0 Transfer, Resignation, Termination - 7.1 Transfers, 7.2 Resignation, 7.3 Termination, 7.4 Reinstatement
+8.0 Department Policies - 8.1 Command, 8.2 Discipline, 8.3 Requirements, 8.4 Punishments, 8.5 Training, 8.6 Subdivisions, 8.7 LEO Traffic Stops, 8.8 Corrupt RP, 8.9 Badge Formats
+9.0 Global Policies - 9.1 TAC, 9.2 Undercover, 9.3 Border, 9.4 FAA
+10.0 Miscellaneous
+11.0 Jurisdictions / Patrol Zones
+12.0 Final Statement
+
+GSOP OVERVIEW:
+This is the official Global Standard Operating Procedures of California Roleplay effective January 26th, 2026. 
+This document has been created to guide departments into growth, realism and structure. This is to be followed at all times.
+
+KEY RULES:
+- All members must follow 2-life rule in roleplay
+- No breaking character unless staff initiates
+- Members must follow GSOP, penal codes, use of force continuum, weapon policies
+- Members under investigation cannot activate until cleared
+- Members must provide consistent realistic roleplay
+- Members must meet assigned duties and hour requirements
+- On tactical scenes: Scene Command, Negotiator, Tac Command should be 2-3 different people
+- All departments must abide by penal codes and internal punishment guidelines
+- Chain of Command MUST BE FOLLOWED IN RTO AT ALL TIMES
+- Departments have max 25 command spots (5 HC, 4 THC, 12 LC preferred)
+- All promotion/demotion follow cooldown rules
+- Transfer policies: 60 days minimum in department before transfer, one-rank demotion upon transfer
+- Termination results in 1-week LEO cooldown
+- Vehicle pursuits: Opposing lane discretionary, officer liable for damage
+- Weapons only justified by Use of Force Continuum
+- No "mag dumping" - continuous assessment required
+- Flashbangs: Tactical units or tactically certified only
+- LEO Supervisors can pull over own units
+- Only MAIN Department HC and DHS can pull over on-duty LEOs
+- Corrupt roleplay prohibited (except Syndicate Command exception for bribes)
+- Members represent departments; must uphold standards and remain professional
+
+TRANSFER STRUCTURE:
+Main LEO ↔ Main LEO ✅
+Main FED ↔ Main FED ✅
+Pre Main ↔ Pre Main ✅
+Main FED → Pre Main ✅
+Any DOD ↔ Any DOD ✅
+Pre Main → Main FED ❌
+Any Fed → Any LEO ❌
+
+DEPARTMENT STRIKES:
+Strike #1: Lose staff clockin perms (main fed/leo only)
+Strike #2: Demoted to Pre-Main or shutdown
+Strike #3: Department shutdown
+
+See CaliRP Global SOP for complete details on all sections.
