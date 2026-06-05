@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const MODEL_NAME = 'claude-haiku-4-5-20251001';
 const ALLOWED_ORIGIN = '*';
-const DOCS_FOLDER = path.join(__dirname, 'docs');
+const DOCS_FOLDER = __dirname;
 
 const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
 
