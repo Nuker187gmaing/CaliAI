@@ -200,6 +200,29 @@ function deterministicAnswer(query, codeMap, natoMap, punishments) {
   return null;
 }
 
+// ============================================================
+// Load docs ONCE at startup. The docs text must be byte-identical
+// on every request so Anthropic's prompt cache can be reused.
+// (Render restarts the service on every deploy, so edits to the
+// .txt files still get picked up - they just require a redeploy.)
+// ============================================================
+const DOCS = loadDocs();
+const CODE_MAP = buildCodeMap(DOCS);
+const NATO_MAP = buildNatoMap(DOCS);
+const PUNISHMENTS = buildPunishments(DOCS);
+
+const SYSTEM_BLOCKS = [
+  {
+    type: 'text',
+    text: 'You are an assistant for California Roleplay (CALIRP), a GTA roleplay server. Answer ONLY using the reference text below. Do not use any real-world knowledge. Do not invent or add anything not written in the reference text. If the answer is genuinely not in the reference text, reply exactly: "That is not in our documents." Keep answers short and quote rules and definitions as written.'
+  },
+  {
+    type: 'text',
+    text: `Reference text:\n${DOCS}`,
+    cache_control: { type: 'ephemeral' } // Claude processes the docs once, then reuses the cache
+  }
+];
+
 app.get('/status', (req, res) => {
   res.json({ status: 'Proxy is running', model: MODEL_NAME });
 });
@@ -215,29 +238,24 @@ app.post('/chat', async (req, res) => {
     return res.status(400).json({ error: 'Missing or invalid message' });
   }
 
-  const docs = loadDocs();
-  const codeMap = buildCodeMap(docs);
-  const natoMap = buildNatoMap(docs);
-  const punishments = buildPunishments(docs);
-
   res.setHeader('Content-Type', 'text/plain; charset=utf-8');
   res.setHeader('Cache-Control', 'no-cache');
 
   // 1) Exact, no-AI answer first (codes, signals, phonetics, punishments) - instant
-  const direct = deterministicAnswer(message, codeMap, natoMap, punishments);
+  const direct = deterministicAnswer(message, CODE_MAP, NATO_MAP, PUNISHMENTS);
   if (direct) {
     res.write(direct);
     return res.end();
   }
 
   // 2) Otherwise Claude answers, constrained to the docs, streamed token-by-token.
-  const systemPrompt = `You are an assistant for California Roleplay (CALIRP), a GTA roleplay server. Answer ONLY using the reference text below. Do not use any real-world knowledge. Do not invent or add anything not written in the reference text. If the answer is genuinely not in the reference text, reply exactly: "That is not in our documents." Keep answers short and quote rules and definitions as written.\n\nReference text:\n${docs}`;
-
+  //    The docs block in SYSTEM_BLOCKS is cached server-side by Anthropic, so
+  //    Claude does not re-read all ~85k tokens of documents on every question.
   try {
     const stream = anthropic.messages.stream({
       model: MODEL_NAME,
       max_tokens: 1024,
-      system: systemPrompt,
+      system: SYSTEM_BLOCKS,
       messages: [{ role: 'user', content: message }]
     });
 
