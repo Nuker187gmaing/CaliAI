@@ -46,13 +46,46 @@ app.use((req, res, next) => {
   next();
 });
 
+// Friendly names so Claude knows which department each file belongs to.
+const DOC_LABELS = {
+  'accendere.txt': 'Accendere Corporation',
+  'armed_forces.txt': 'Armed Forces',
+  'army.txt': 'Department of the Army (UCMJ)',
+  'bb.txt': 'Boosted Boiz (BB)',
+  'bse.txt': 'Bureau of Special Enforcement (BSE)',
+  'business.txt': 'CALIRP Businesses',
+  'cartel.txt': 'Cartel Coordination / Cartels Handbook',
+  'civilian.txt': 'Civilian Punishment Guidelines',
+  'codes.txt': '10-Codes and NATO Phonetic Alphabet',
+  'gang.txt': 'Gang Management / Gang Community Handbook',
+  'gsop.txt': 'Global Standard Operating Procedures (GSOP)',
+  'leo.txt': 'LEO Member Punishment Guidelines',
+  'metro.txt': 'Metro Police Department (MPD / Metro)',
+  'ncea.txt': 'National Criminal Enforcement Agency (NCEA)',
+  'nsb.txt': 'National Security Bureau (NSB)',
+  'overdrive.txt': 'Overdrive',
+  'pilots.txt': 'Pilots License & Vehicle Roster',
+  'rhpd.txt': 'Rockford Hills Police Department (RHPD)',
+  'safr.txt': 'SAFR / EMS',
+  'sahp.txt': 'San Andreas Highway Patrol (SAHP)',
+  'satf.txt': 'San Andreas Task Force (SATF)',
+  'sbo.txt': 'Special Bureau Operations (SBO)',
+  'sbpd.txt': 'South Beach Police Department (SBPD)',
+  'staff.txt': 'Staff Punishment Guidelines',
+  'talon_security.txt': 'Talon Security',
+  'verified_civilian.txt': 'Verified Civilian',
+  'vo.txt': 'Volunteer Officer (VO)',
+  'weazel_news.txt': 'Weazel News'
+};
+
 function loadDocs() {
   try {
-    const files = fs.readdirSync(DOCS_FOLDER).filter(f => f.endsWith('.txt'));
+    const files = fs.readdirSync(DOCS_FOLDER).filter(f => f.endsWith('.txt')).sort();
     let combined = '';
     for (const file of files) {
       const content = fs.readFileSync(path.join(DOCS_FOLDER, file), 'utf8');
-      combined += `\n\n--- ${file} ---\n${content}`;
+      const label = DOC_LABELS[file] || file.replace('.txt', '');
+      combined += `\n\n<document department="${label}" file="${file}">\n${content}\n</document>`;
     }
     return combined;
   } catch (err) {
@@ -91,7 +124,7 @@ function buildPunishments(docs) {
   for (const raw of lines) {
     const line = raw.trim();
     if (!line) continue;
-    const fileMark = line.match(/^---\s*(.+?)\.txt\s*---$/i);
+    const fileMark = line.match(/^<document department="(.+?)"/i);
     if (fileMark) { section = fileMark[1]; continue; }
     if (/(OFFENSES|PUNISHMENTS|PUNISHMENT GUIDELINES)\b/i.test(line) && !/→/.test(line)) {
       const m2 = line.match(/^([A-Za-z][^:]{0,60}?):\s*(.+)$/);
@@ -214,7 +247,7 @@ const PUNISHMENTS = buildPunishments(DOCS);
 const SYSTEM_BLOCKS = [
   {
     type: 'text',
-    text: 'You are an assistant for California Roleplay (CALIRP), a GTA roleplay server. Answer ONLY using the reference text below. Do not use any real-world knowledge. Do not invent or add anything not written in the reference text. If the answer is genuinely not in the reference text, reply exactly: "That is not in our documents." Keep answers short and quote rules and definitions as written.'
+    text: 'You are an assistant for California Roleplay (CALIRP), a GTA roleplay server. Answer ONLY using the reference documents below. Do not use any real-world knowledge. Do not invent or add anything not written in the reference documents. If the answer is genuinely not in the reference documents, reply exactly: "That is not in our documents." Keep answers short and quote rules and definitions as written.\n\nIMPORTANT: Each document is wrapped in a <document> tag stating which department it belongs to. Many departments have sections with identical names (for example, VEHICLE STRUCTURE exists in RHPD, NCEA, SBO, VO, and Armed Forces). When the user mentions a department (by name or abbreviation like RHPD, SAHP, SBPD, NSB, NCEA, SBO, VO, BSE, SATF, MPD/Metro, SAFR, BB), you MUST answer only from that department\'s document and say which department you are quoting. If the question matches sections in multiple departments and the user did not specify one, list the departments that have that section and ask which one they mean.'
   },
   {
     type: 'text',
