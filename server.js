@@ -263,7 +263,7 @@ const REMOTE_DOCS = [
   { file: 'sadps_promo.txt', label: 'San Andreas Department of Public Safety (SADPS / DPS) - Promotional Guidelines',
     keywords: ['sadps', ' dps ', 'public safety', 'constable'],
     url: 'https://docs.google.com/document/d/1jlu2LdqBWW81o35fvlrghIWt5d50UazP2QFeZOKp2v0/export?format=txt' },
-  { file: 'sadps_roster.txt', label: 'San Andreas Department of Public Safety (SADPS / DPS) - Roster',
+  { file: 'sadps_roster.txt', fallback: false, maxChars: 120000, label: 'San Andreas Department of Public Safety (SADPS / DPS) - Roster',
     keywords: ['sadps', ' dps ', 'public safety', 'constable'],
     url: 'https://docs.google.com/spreadsheets/d/1ogQQ0wwUbl53e9tNcKUvO0xC5eVXtdeR3WjzA73nzeQ/export?format=csv&gid=0' },
 
@@ -281,7 +281,7 @@ const REMOTE_DOCS = [
   // ---- NSB ----
   { file: 'nsb.txt',        label: 'National Security Bureau (NSB) - Promotion & Activity Guidelines',
     url: 'https://docs.google.com/document/d/1LUDucT2vL1_kWwv93l1xXgIKzIMr2JzOeCaerI6EoZg/export?format=txt' },
-  { file: 'nsb_roster.txt', label: 'National Security Bureau (NSB) - Main Roster',
+  { file: 'nsb_roster.txt', fallback: false, maxChars: 120000, label: 'National Security Bureau (NSB) - Main Roster',
     keywords: ['nsb', 'national security bureau'],
     url: 'https://docs.google.com/spreadsheets/d/18DwC2kvAiiMGuJJXVUbFMd2Y8bqVJcVr8nWNWdUaP8E/gviz/tq?tqx=out:csv' },
   { file: 'nsb_air_coastal.txt', label: 'NSB Air and Coastal Division - Training SOP',
@@ -297,7 +297,7 @@ const REMOTE_DOCS = [
   // ---- Armed Forces / Army ----
   { file: 'armed_forces.txt', label: 'Armed Forces - SOP',
     url: 'https://docs.google.com/document/d/1kLt1NQTLFFUaCF34VkT2Wb7jMsC-gPk83BmI1Nzt1jU/export?format=txt' },
-  { file: 'armed_forces_db.txt', label: 'Armed Forces - Database / Roster',
+  { file: 'armed_forces_db.txt', fallback: false, maxChars: 120000, label: 'Armed Forces - Database / Roster',
     keywords: ['armed forces'],
     url: 'https://docs.google.com/spreadsheets/d/14Kdwo4iBKtYtq2xWVGllmlTc7-MDnk_Zc5I4pAV3fqw/export?format=csv&gid=0' },
   { file: 'armed_forces_unicom.txt', label: 'Armed Forces - UNICOM Etiquette, Flight Paths & ATC',
@@ -305,7 +305,7 @@ const REMOTE_DOCS = [
     url: 'https://docs.google.com/document/d/1eVbXKAvbihdJ829T1n0ZcRPnVBj1uYYsJNigVEhzB9A/export?format=txt' },
   { file: 'army.txt',       label: 'Department of the Army (UCMJ) - SOP',
     url: 'https://docs.google.com/document/d/1qVviRjz2qf_-jeMAxuWY7Qopdohx-fIh1w1Mv8S7vvA/export?format=txt' },
-  { file: 'army_roster.txt', label: 'Army - Master Roster',
+  { file: 'army_roster.txt', fallback: false, maxChars: 120000, label: 'Army - Master Roster',
     keywords: ['army'],
     url: 'https://docs.google.com/spreadsheets/d/1draMpzn6AdEk5TNehK1qAspy0cu4-Fm_2vHkTPB_iBc/export?format=csv&gid=0' },
 
@@ -316,12 +316,12 @@ const REMOTE_DOCS = [
     url: 'https://docs.google.com/spreadsheets/d/1eOX2MSJAzl1iMqR49Q8DN4K6GhEV9UJgP5x20kEh0sU/gviz/tq?tqx=out:csv' },
   { file: 'verified_civilian.txt', label: 'Verified Civilian - SOP',
     url: 'https://docs.google.com/document/d/1KNv8SCut5xhF5kXj8ayuBJ9RyQVG64-bqZse1jXrG8Y/export?format=txt' },
-  { file: 'verified_civilian_roster.txt', label: 'Verified Civilian - Master Roster',
+  { file: 'verified_civilian_roster.txt', fallback: false, maxChars: 120000, label: 'Verified Civilian - Master Roster',
     keywords: ['verified civilian', 'verified civ'],
     url: 'https://docs.google.com/spreadsheets/d/1qLFIxJi6Ua-dcdAAI9OONFQBA5fuHWesXK88-h1prDk/gviz/tq?tqx=out:csv' },
   { file: 'overdrive.txt',  label: 'Overdrive - SOP',
     url: 'https://docs.google.com/document/d/1DZ8rIEY8f1sf7iwBIFLmz4gnCCrgbdYq-dFUkK265oc/export?format=txt' },
-  { file: 'overdrive_roster.txt', label: 'Overdrive - Master Roster',
+  { file: 'overdrive_roster.txt', fallback: false, maxChars: 120000, label: 'Overdrive - Master Roster',
     keywords: ['overdrive'],
     url: 'https://docs.google.com/spreadsheets/d/1kPo5m04BeLpMQ7Qcr_N0uXBq7HZEYqYEXmff0yfAnnw/export?format=csv&gid=0' },
   { file: 'business.txt',   label: 'CaliRP Businesses - SOP',
@@ -329,7 +329,7 @@ const REMOTE_DOCS = [
   { file: 'business_promo.txt', label: 'CaliRP Businesses - Promotional Guidelines',
     keywords: ['business', 'businesses'],
     url: 'https://docs.google.com/document/d/1FNOAzOd6M23vtGO34q72T3HijHv_Gm1hRlvkTiaHUoM/export?format=txt' },
-  { file: 'atc_roster.txt', label: 'American Trucking Company (ATC) - Master Roster',
+  { file: 'atc_roster.txt', fallback: false, maxChars: 120000, label: 'American Trucking Company (ATC) - Master Roster',
     keywords: ['trucking', 'american trucking', ' atc '],
     url: 'https://docs.google.com/spreadsheets/d/1EjdPcvoAt3lNJutY4uq5ToCnA7waK3FcmvPlyuOU7so/gviz/tq?tqx=out:csv' },
 ];
@@ -444,15 +444,22 @@ function rebuild() {
   }
   DOC_FILES = newFiles;
   DOCS = Object.keys(newFiles).sort().map(f => newFiles[f]).join('');
+  // The full-docs fallback prompt excludes routing-only docs (rosters),
+  // so generic questions can't blow past the model's context window.
+  // Rosters are still reachable via the department router and the
+  // deterministic callsign lookup.
+  const routingOnly = new Set(REMOTE_DOCS.filter(r => r.fallback === false).map(r => r.file));
+  const fallbackDocs = Object.keys(newFiles).sort()
+    .filter(f => !routingOnly.has(f)).map(f => newFiles[f]).join('');
   CODE_MAP = buildCodeMap(DOCS);
   NATO_MAP = buildNatoMap(DOCS);
   PUNISHMENTS = buildPunishments(DOCS);
   CALLSIGN_MAP = buildCallsigns(newFiles);
   SYSTEM_BLOCKS = [
     { type: 'text', text: INSTRUCTIONS },
-    { type: 'text', text: `Reference text:\n${DOCS}`, cache_control: { type: 'ephemeral' } }
+    { type: 'text', text: `Reference text:\n${fallbackDocs}`, cache_control: { type: 'ephemeral' } }
   ];
-  console.log(`Knowledge rebuilt: ${Object.keys(newFiles).length} docs, ~${Math.round(DOCS.length / 4)} tokens, ${Object.keys(CALLSIGN_MAP).length} callsigns`);
+  console.log(`Knowledge rebuilt: ${Object.keys(newFiles).length} docs, ~${Math.round(DOCS.length / 4)} tokens total, ~${Math.round(fallbackDocs.length / 4)} tokens in fallback prompt, ${Object.keys(CALLSIGN_MAP).length} callsigns`);
 }
 
 // Clean up fetched docs: normalize line endings, drop empty CSV rows
@@ -478,8 +485,14 @@ async function refreshRemoteDocs() {
     try {
       const resp = await fetch(r.url, { redirect: 'follow' });
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-      const text = sanitizeRemote((await resp.text()).trim());
+      let text = sanitizeRemote((await resp.text()).trim());
       if (!text) throw new Error('empty response');
+      // hard cap so one runaway sheet can't blow up the prompt
+      const cap = r.maxChars || 150000;
+      if (text.length > cap) {
+        console.warn(`${r.file} is ${text.length} chars - truncating to ${cap}. Check that the sheet's first tab is the right one.`);
+        text = text.slice(0, cap) + '\n[... document truncated due to size ...]';
+      }
       if (text !== remoteCache[r.file]) {
         remoteCache[r.file] = text;
         changed = true;
