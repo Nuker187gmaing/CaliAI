@@ -283,7 +283,7 @@ const REMOTE_DOCS = [
     url: 'https://docs.google.com/document/d/1LUDucT2vL1_kWwv93l1xXgIKzIMr2JzOeCaerI6EoZg/export?format=txt' },
   { file: 'nsb_roster.txt', label: 'National Security Bureau (NSB) - Main Roster',
     keywords: ['nsb', 'national security bureau'],
-    url: 'https://docs.google.com/spreadsheets/d/18DwC2kvAiiMGuJJXVUbFMd2Y8bqVJcVr8nWNWdUaP8E/export?format=csv&gid=0' },
+    url: 'https://docs.google.com/spreadsheets/d/18DwC2kvAiiMGuJJXVUbFMd2Y8bqVJcVr8nWNWdUaP8E/gviz/tq?tqx=out:csv' },
   { file: 'nsb_air_coastal.txt', label: 'NSB Air and Coastal Division - Training SOP',
     keywords: ['nsb', 'air and coastal', 'air coastal', 'acd'],
     url: 'https://docs.google.com/document/d/1GLzfQI3A4_IKHlVClNV7c7CxQrKTroDaTUpbXfUijRM/export?format=txt' },
@@ -313,12 +313,12 @@ const REMOTE_DOCS = [
   { file: 'safr.txt',       label: 'SAFR / EMS - SOP',
     url: 'https://docs.google.com/document/d/1wVxSGfzpJjydkQfsqdw4eyOsK3aF0ObVfjdgVh-vfaQ/export?format=txt' },
   { file: 'pilots.txt',     label: 'Pilots License, Vehicle Roster & Rules',
-    url: 'https://docs.google.com/spreadsheets/d/1eOX2MSJAzl1iMqR49Q8DN4K6GhEV9UJgP5x20kEh0sU/export?format=csv&gid=0' },
+    url: 'https://docs.google.com/spreadsheets/d/1eOX2MSJAzl1iMqR49Q8DN4K6GhEV9UJgP5x20kEh0sU/gviz/tq?tqx=out:csv' },
   { file: 'verified_civilian.txt', label: 'Verified Civilian - SOP',
     url: 'https://docs.google.com/document/d/1KNv8SCut5xhF5kXj8ayuBJ9RyQVG64-bqZse1jXrG8Y/export?format=txt' },
   { file: 'verified_civilian_roster.txt', label: 'Verified Civilian - Master Roster',
     keywords: ['verified civilian', 'verified civ'],
-    url: 'https://docs.google.com/spreadsheets/d/1qLFIxJi6Ua-dcdAAI9OONFQBA5fuHWesXK88-h1prDk/export?format=csv&gid=0' },
+    url: 'https://docs.google.com/spreadsheets/d/1qLFIxJi6Ua-dcdAAI9OONFQBA5fuHWesXK88-h1prDk/gviz/tq?tqx=out:csv' },
   { file: 'overdrive.txt',  label: 'Overdrive - SOP',
     url: 'https://docs.google.com/document/d/1DZ8rIEY8f1sf7iwBIFLmz4gnCCrgbdYq-dFUkK265oc/export?format=txt' },
   { file: 'overdrive_roster.txt', label: 'Overdrive - Master Roster',
@@ -331,7 +331,7 @@ const REMOTE_DOCS = [
     url: 'https://docs.google.com/document/d/1FNOAzOd6M23vtGO34q72T3HijHv_Gm1hRlvkTiaHUoM/export?format=txt' },
   { file: 'atc_roster.txt', label: 'American Trucking Company (ATC) - Master Roster',
     keywords: ['trucking', 'american trucking', ' atc '],
-    url: 'https://docs.google.com/spreadsheets/d/1EjdPcvoAt3lNJutY4uq5ToCnA7waK3FcmvPlyuOU7so/export?format=csv&gid=0' },
+    url: 'https://docs.google.com/spreadsheets/d/1EjdPcvoAt3lNJutY4uq5ToCnA7waK3FcmvPlyuOU7so/gviz/tq?tqx=out:csv' },
 ];
 const REFRESH_MINUTES = 15;
 
@@ -398,7 +398,7 @@ function buildCallsigns(docFiles) {
     const label = DOC_LABELS[file] || file.replace('.txt', '');
     for (const raw of wrapped.split('\n')) {
       const cells = (raw.includes(',') ? raw.split(',') : raw.split(/\s{2,}|\t/))
-        .map(c => c.trim()).filter(Boolean);
+        .map(c => c.trim().replace(/^"+|"+$/g, '').trim()).filter(Boolean);
       if (!cells.length || !CALLSIGN_RE.test(cells[0])) continue;
       const callsign = cells[0].toUpperCase();
       // find the name: first cell after the callsign that isn't a pure
@@ -463,7 +463,7 @@ function sanitizeRemote(text) {
   for (let line of text.replace(/\r\n?/g, '\n').split('\n')) {
     const trimmed = line.replace(/[,\s]+$/g, ''); // strip trailing empty cells
     if (!trimmed) continue;
-    const cells = trimmed.split(',').map(c => c.trim()).filter(Boolean);
+    const cells = trimmed.split(',').map(c => c.trim().replace(/^"+|"+$/g, '').trim()).filter(Boolean);
     if (!cells.length) continue;
     // vacant placeholder row: contains "Vacant" and almost no other data
     if (cells.length <= 3 && cells.some(c => /^vacant$/i.test(c))) continue;
