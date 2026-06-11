@@ -244,15 +244,72 @@ const CODE_MAP = buildCodeMap(DOCS);
 const NATO_MAP = buildNatoMap(DOCS);
 const PUNISHMENTS = buildPunishments(DOCS);
 
+// ============================================================
+// DEPARTMENT ROUTER - if the question clearly mentions one or
+// more departments, send Claude ONLY those docs (plus GSOP and
+// codes, which always apply). ~8-20k tokens instead of ~85k =
+// much faster and cheaper. If no department is detected, fall
+// back to the full cached document set.
+// ============================================================
+const DOC_KEYWORDS = {
+  'accendere.txt':         ['accendere'],
+  'armed_forces.txt':      ['armed forces', 'military police', ' afsoc', 'usaf', 'air force', 'navy', 'marines', 'coast guard'],
+  'army.txt':              ['army', 'ucmj', 'court martial', 'court-martial'],
+  'bb.txt':                ['boosted boiz', 'boosted boyz', ' bb '],
+  'bse.txt':               ['bse', 'bureau of special enforcement'],
+  'business.txt':          ['business', 'businesses', 'store owner', 'shop owner'],
+  'cartel.txt':            ['cartel'],
+  'civilian.txt':          ['civilian punishment', 'civ punishment'],
+  'gang.txt':              ['gang'],
+  'leo.txt':               ['leo punishment', 'officer punishment'],
+  'metro.txt':             ['metro', 'mpd'],
+  'ncea.txt':              ['ncea', 'criminal enforcement agency'],
+  'nsb.txt':               ['nsb', 'national security bureau'],
+  'overdrive.txt':         ['overdrive'],
+  'pilots.txt':            ['pilot', 'aircraft', 'helicopter', 'airplane', 'plane', 'aviation'],
+  'rhpd.txt':              ['rhpd', 'rockford'],
+  'safr.txt':              ['safr', 'ems', 'fire', 'paramedic', 'medic', 'ambulance'],
+  'sahp.txt':              ['sahp', 'highway patrol', 'trooper', 'state police'],
+  'satf.txt':              ['satf', 'task force'],
+  'sbo.txt':               ['sbo', 'special bureau'],
+  'sbpd.txt':              ['sbpd', 'south beach'],
+  'staff.txt':             ['staff'],
+  'talon_security.txt':    ['talon'],
+  'verified_civilian.txt': ['verified civilian', 'verified civ'],
+  'vo.txt':                ['volunteer officer', ' vo ', 'vo charger'],
+  'weazel_news.txt':       ['weazel', 'news', 'reporter', 'journalist'],
+};
+const ALWAYS_INCLUDE = ['gsop.txt', 'codes.txt']; // small, apply to everyone
+
+const DOC_FILES = {}; // file -> individually wrapped document text
+{
+  const files = fs.readdirSync(DOCS_FOLDER).filter(f => f.endsWith('.txt')).sort();
+  for (const file of files) {
+    const content = fs.readFileSync(path.join(DOCS_FOLDER, file), 'utf8');
+    const label = DOC_LABELS[file] || file.replace('.txt', '');
+    DOC_FILES[file] = `\n\n<document department="${label}" file="${file}">\n${content}\n</document>`;
+  }
+}
+
+function routeDocs(query) {
+  const q = ' ' + query.toLowerCase().replace(/[^a-z0-9 ]/g, ' ') + ' ';
+  const hits = [];
+  for (const [file, keys] of Object.entries(DOC_KEYWORDS)) {
+    if (keys.some(k => q.includes(k))) hits.push(file);
+  }
+  if (!hits.length) return null; // no department detected -> use full docs
+  const set = [...new Set([...ALWAYS_INCLUDE, ...hits])];
+  return set.map(f => DOC_FILES[f]).filter(Boolean).join('');
+}
+
+const INSTRUCTIONS = 'You are an assistant for California Roleplay (CALIRP), a GTA roleplay server. Answer ONLY using the reference documents below. Do not use any real-world knowledge. Do not invent or add anything not written in the reference documents. If the answer is genuinely not in the reference documents, reply exactly: "That is not in our documents." Keep answers short and quote rules and definitions as written.\n\nIMPORTANT: Each document is wrapped in a <document> tag stating which department it belongs to. Many departments have sections with identical names (for example, VEHICLE STRUCTURE exists in RHPD, NCEA, SBO, VO, and Armed Forces). When the user mentions a department (by name or abbreviation like RHPD, SAHP, SBPD, NSB, NCEA, SBO, VO, BSE, SATF, MPD/Metro, SAFR, BB), you MUST answer only from that department\'s document and say which department you are quoting. If the question matches sections in multiple departments and the user did not specify one, list the departments that have that section and ask which one they mean.';
+
 const SYSTEM_BLOCKS = [
-  {
-    type: 'text',
-    text: 'You are an assistant for California Roleplay (CALIRP), a GTA roleplay server. Answer ONLY using the reference documents below. Do not use any real-world knowledge. Do not invent or add anything not written in the reference documents. If the answer is genuinely not in the reference documents, reply exactly: "That is not in our documents." Keep answers short and quote rules and definitions as written.\n\nIMPORTANT: Each document is wrapped in a <document> tag stating which department it belongs to. Many departments have sections with identical names (for example, VEHICLE STRUCTURE exists in RHPD, NCEA, SBO, VO, and Armed Forces). When the user mentions a department (by name or abbreviation like RHPD, SAHP, SBPD, NSB, NCEA, SBO, VO, BSE, SATF, MPD/Metro, SAFR, BB), you MUST answer only from that department\'s document and say which department you are quoting. If the question matches sections in multiple departments and the user did not specify one, list the departments that have that section and ask which one they mean.'
-  },
+  { type: 'text', text: INSTRUCTIONS },
   {
     type: 'text',
     text: `Reference text:\n${DOCS}`,
-    cache_control: { type: 'ephemeral' } // Claude processes the docs once, then reuses the cache
+    cache_control: { type: 'ephemeral' } // full doc set, cached
   }
 ];
 
@@ -282,18 +339,25 @@ app.post('/chat', async (req, res) => {
   }
 
   // 2) Otherwise Claude answers, constrained to the docs, streamed token-by-token.
-  //    The docs block in SYSTEM_BLOCKS is cached server-side by Anthropic, so
-  //    Claude does not re-read all ~85k tokens of documents on every question.
+  //    If the question names a department, send only that department's docs
+  //    (small + fast). Otherwise send the full cached document set.
+  const routed = routeDocs(message);
+  const system = routed
+    ? [{ type: 'text', text: INSTRUCTIONS }, { type: 'text', text: `Reference text:\n${routed}` }]
+    : SYSTEM_BLOCKS;
+  console.log(`  -> ${routed ? `routed prompt (~${Math.round(routed.length / 4)} tokens)` : 'full docs (cached)'}`);
+
   try {
     const stream = anthropic.messages.stream({
       model: MODEL_NAME,
       max_tokens: 1024,
-      system: SYSTEM_BLOCKS,
+      system,
       messages: [{ role: 'user', content: message }]
     });
 
     stream.on('text', (text) => res.write(text));
-    await stream.finalMessage();
+    const final = await stream.finalMessage();
+    console.log(`  -> cache: wrote ${final.usage.cache_creation_input_tokens || 0}, read ${final.usage.cache_read_input_tokens || 0}, input ${final.usage.input_tokens}`);
     res.end();
 
   } catch (err) {
