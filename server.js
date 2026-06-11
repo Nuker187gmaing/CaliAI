@@ -256,13 +256,82 @@ function deterministicAnswer(query, codeMap, natoMap, punishments) {
 // repo, the remote version REPLACES it. If it's new, it's added.
 // ============================================================
 const REMOTE_DOCS = [
-  // Example - uncomment and fill in your real doc IDs:
-  // {
-  //   file: 'sadps.txt',
-  //   label: 'San Andreas Department of Public Safety (SADPS / DPS)',
-  //   keywords: ['sadps', 'dps', 'public safety', 'constable'],
-  //   url: 'https://docs.google.com/document/d/YOUR_DOC_ID/export?format=txt'
-  // },
+  // ---- SADPS / DPS ----
+  { file: 'sadps_sop.txt',   label: 'San Andreas Department of Public Safety (SADPS / DPS) - SOP',
+    keywords: ['sadps', ' dps ', 'public safety', 'constable'],
+    url: 'https://docs.google.com/document/d/14aP3J0sQuwZo5QrRv-oEveneSoyDeSezABjM6YFF0mk/export?format=txt' },
+  { file: 'sadps_promo.txt', label: 'San Andreas Department of Public Safety (SADPS / DPS) - Promotional Guidelines',
+    keywords: ['sadps', ' dps ', 'public safety', 'constable'],
+    url: 'https://docs.google.com/document/d/1jlu2LdqBWW81o35fvlrghIWt5d50UazP2QFeZOKp2v0/export?format=txt' },
+  { file: 'sadps_roster.txt', label: 'San Andreas Department of Public Safety (SADPS / DPS) - Roster',
+    keywords: ['sadps', ' dps ', 'public safety', 'constable'],
+    url: 'https://docs.google.com/spreadsheets/d/1ogQQ0wwUbl53e9tNcKUvO0xC5eVXtdeR3WjzA73nzeQ/export?format=csv&gid=0' },
+
+  // ---- Global / staff-wide (replace repo files) ----
+  { file: 'gsop.txt',       label: 'Global Standard Operating Procedures (GSOP)',
+    url: 'https://docs.google.com/document/d/1ZfhE0RDj036Y6b56QJq_0KF0r-fl0dbNF7FZvyk5H64/export?format=txt' },
+  { file: 'staff_handbook.txt', label: 'CaliRP Staff Handbook',
+    keywords: ['staff handbook', 'staff member', 'staff'],
+    url: 'https://docs.google.com/document/d/1gRgax7wtt841W349AckvrFn-tVtjaa4mQ9k52Fn_1o8/export?format=txt' },
+  { file: 'staff.txt',      label: 'Staff Punishment Guidelines',
+    url: 'https://docs.google.com/spreadsheets/d/1APREBIhQvvf3QaYDRiwfWuUYuWiqAih258WMutGK7Hg/export?format=csv&gid=0' },
+  { file: 'civilian.txt',   label: 'Civilian Punishment Guidelines',
+    url: 'https://docs.google.com/spreadsheets/d/1KqE5hLDxYykBlFMe3lXYFAVAILgL-jmETlFCEB_8dMk/export?format=csv&gid=0' },
+
+  // ---- NSB ----
+  { file: 'nsb.txt',        label: 'National Security Bureau (NSB) - Promotion & Activity Guidelines',
+    url: 'https://docs.google.com/document/d/1LUDucT2vL1_kWwv93l1xXgIKzIMr2JzOeCaerI6EoZg/export?format=txt' },
+  { file: 'nsb_roster.txt', label: 'National Security Bureau (NSB) - Main Roster',
+    keywords: ['nsb', 'national security bureau'],
+    url: 'https://docs.google.com/spreadsheets/d/18DwC2kvAiiMGuJJXVUbFMd2Y8bqVJcVr8nWNWdUaP8E/export?format=csv&gid=0' },
+  { file: 'nsb_air_coastal.txt', label: 'NSB Air and Coastal Division - Training SOP',
+    keywords: ['nsb', 'air and coastal', 'air coastal', 'acd'],
+    url: 'https://docs.google.com/document/d/1GLzfQI3A4_IKHlVClNV7c7CxQrKTroDaTUpbXfUijRM/export?format=txt' },
+  { file: 'cid.txt',        label: 'Criminal Investigation Division (CID) - GSOP',
+    keywords: ['cid', 'criminal investigation'],
+    url: 'https://docs.google.com/document/d/1AMJ8Nfu6Tq5IVk-wJ6KS4gc2C7rZ32KS5AZXDtW9baI/export?format=txt' },
+  { file: 'trt.txt',        label: 'Tactical Response Team (TRT) - SOP',
+    keywords: ['trt', 'tactical response'],
+    url: 'https://docs.google.com/document/d/1qbiftXTI1Og4nu1t_DtJmcg7qYm7frWsGM8TOfZ7m3s/export?format=txt' },
+
+  // ---- Armed Forces / Army ----
+  { file: 'armed_forces.txt', label: 'Armed Forces - SOP',
+    url: 'https://docs.google.com/document/d/1kLt1NQTLFFUaCF34VkT2Wb7jMsC-gPk83BmI1Nzt1jU/export?format=txt' },
+  { file: 'armed_forces_db.txt', label: 'Armed Forces - Database / Roster',
+    keywords: ['armed forces'],
+    url: 'https://docs.google.com/spreadsheets/d/14Kdwo4iBKtYtq2xWVGllmlTc7-MDnk_Zc5I4pAV3fqw/export?format=csv&gid=0' },
+  { file: 'armed_forces_unicom.txt', label: 'Armed Forces - UNICOM Etiquette, Flight Paths & ATC',
+    keywords: ['unicom', 'armed forces', 'flight path'],
+    url: 'https://docs.google.com/document/d/1eVbXKAvbihdJ829T1n0ZcRPnVBj1uYYsJNigVEhzB9A/export?format=txt' },
+  { file: 'army.txt',       label: 'Department of the Army (UCMJ) - SOP',
+    url: 'https://docs.google.com/document/d/1qVviRjz2qf_-jeMAxuWY7Qopdohx-fIh1w1Mv8S7vvA/export?format=txt' },
+  { file: 'army_roster.txt', label: 'Army - Master Roster',
+    keywords: ['army'],
+    url: 'https://docs.google.com/spreadsheets/d/1draMpzn6AdEk5TNehK1qAspy0cu4-Fm_2vHkTPB_iBc/export?format=csv&gid=0' },
+
+  // ---- Departments / civilian side ----
+  { file: 'safr.txt',       label: 'SAFR / EMS - SOP',
+    url: 'https://docs.google.com/document/d/1wVxSGfzpJjydkQfsqdw4eyOsK3aF0ObVfjdgVh-vfaQ/export?format=txt' },
+  { file: 'pilots.txt',     label: 'Pilots License, Vehicle Roster & Rules',
+    url: 'https://docs.google.com/spreadsheets/d/1eOX2MSJAzl1iMqR49Q8DN4K6GhEV9UJgP5x20kEh0sU/export?format=csv&gid=0' },
+  { file: 'verified_civilian.txt', label: 'Verified Civilian - SOP',
+    url: 'https://docs.google.com/document/d/1KNv8SCut5xhF5kXj8ayuBJ9RyQVG64-bqZse1jXrG8Y/export?format=txt' },
+  { file: 'verified_civilian_roster.txt', label: 'Verified Civilian - Master Roster',
+    keywords: ['verified civilian', 'verified civ'],
+    url: 'https://docs.google.com/spreadsheets/d/1qLFIxJi6Ua-dcdAAI9OONFQBA5fuHWesXK88-h1prDk/export?format=csv&gid=0' },
+  { file: 'overdrive.txt',  label: 'Overdrive - SOP',
+    url: 'https://docs.google.com/document/d/1DZ8rIEY8f1sf7iwBIFLmz4gnCCrgbdYq-dFUkK265oc/export?format=txt' },
+  { file: 'overdrive_roster.txt', label: 'Overdrive - Master Roster',
+    keywords: ['overdrive'],
+    url: 'https://docs.google.com/spreadsheets/d/1kPo5m04BeLpMQ7Qcr_N0uXBq7HZEYqYEXmff0yfAnnw/export?format=csv&gid=0' },
+  { file: 'business.txt',   label: 'CaliRP Businesses - SOP',
+    url: 'https://docs.google.com/document/d/1h_ApQ8NrCFR59cLZbc_w0UfOHkrQ7wyPa0CA7ac3mIo/export?format=txt' },
+  { file: 'business_promo.txt', label: 'CaliRP Businesses - Promotional Guidelines',
+    keywords: ['business', 'businesses'],
+    url: 'https://docs.google.com/document/d/1FNOAzOd6M23vtGO34q72T3HijHv_Gm1hRlvkTiaHUoM/export?format=txt' },
+  { file: 'atc_roster.txt', label: 'American Trucking Company (ATC) - Master Roster',
+    keywords: ['trucking', 'american trucking', ' atc '],
+    url: 'https://docs.google.com/spreadsheets/d/1EjdPcvoAt3lNJutY4uq5ToCnA7waK3FcmvPlyuOU7so/export?format=csv&gid=0' },
 ];
 const REFRESH_MINUTES = 15;
 
@@ -348,13 +417,30 @@ function rebuild() {
   console.log(`Knowledge rebuilt: ${Object.keys(newFiles).length} docs, ~${Math.round(DOCS.length / 4)} tokens`);
 }
 
+// Clean up fetched docs: normalize line endings, drop empty CSV rows
+// and "Vacant" placeholder roster rows that would waste thousands of
+// tokens (roster sheets often have 800+ empty pre-numbered rows).
+function sanitizeRemote(text) {
+  const out = [];
+  for (let line of text.replace(/\r\n?/g, '\n').split('\n')) {
+    const trimmed = line.replace(/[,\s]+$/g, ''); // strip trailing empty cells
+    if (!trimmed) continue;
+    const cells = trimmed.split(',').map(c => c.trim()).filter(Boolean);
+    if (!cells.length) continue;
+    // vacant placeholder row: contains "Vacant" and almost no other data
+    if (cells.length <= 3 && cells.some(c => /^vacant$/i.test(c))) continue;
+    out.push(trimmed);
+  }
+  return out.join('\n');
+}
+
 async function refreshRemoteDocs() {
   let changed = false;
   for (const r of REMOTE_DOCS) {
     try {
       const resp = await fetch(r.url, { redirect: 'follow' });
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-      const text = (await resp.text()).trim();
+      const text = sanitizeRemote((await resp.text()).trim());
       if (!text) throw new Error('empty response');
       if (text !== remoteCache[r.file]) {
         remoteCache[r.file] = text;
