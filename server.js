@@ -386,7 +386,44 @@ let DOCS = '';           // all docs combined
 let CODE_MAP = {};
 let NATO_MAP = {};
 let PUNISHMENTS = [];
+let CALLSIGN_MAP = {};   // "1J-10" -> { name, rank, department, ... }
 let SYSTEM_BLOCKS = [];
+
+// Parse roster lines for callsigns like 1J-10, 2J-01, DPS-72, LA-01.
+// Works on CSV (sheets) and space-separated (txt) roster rows.
+const CALLSIGN_RE = /^(?:\d{1,2}[A-Z]{1,3}|[A-Z]{2,5})-\d{1,3}$/i;
+function buildCallsigns(docFiles) {
+  const map = {};
+  for (const [file, wrapped] of Object.entries(docFiles)) {
+    const label = DOC_LABELS[file] || file.replace('.txt', '');
+    for (const raw of wrapped.split('\n')) {
+      const cells = (raw.includes(',') ? raw.split(',') : raw.split(/\s{2,}|\t/))
+        .map(c => c.trim()).filter(Boolean);
+      if (!cells.length || !CALLSIGN_RE.test(cells[0])) continue;
+      const callsign = cells[0].toUpperCase();
+      // find the name: first cell after the callsign that isn't a pure
+      // number (badge/discord id) or a date
+      const rest = cells.slice(1).filter(c => !/^\d+$/.test(c) && !/^\d{1,2}[./-]\d{1,2}[./-]\d{2,4}$/.test(c));
+      if (!rest.length) continue; // completely empty roster slot
+      // a filled row has an ID/badge number; a row with only a rank and
+      // no numeric cells is an unassigned slot
+      const hasId = cells.slice(1).some(c => /^\d+$/.test(c));
+      const details = hasId ? rest.join(' - ') : `${rest.join(' - ')} - position currently VACANT`;
+      map[callsign] = { department: label, details };
+    }
+  }
+  return map;
+}
+
+function callsignLookup(query) {
+  const m = query.toUpperCase().match(/\b((?:\d{1,2}[A-Z]{1,3}|[A-Z]{2,5})-\d{1,3})\b/);
+  if (!m) return null;
+  const cs = m[1];
+  if (/^1[01]-/.test(cs)) return null; // 10-xx / 11-xx are radio codes, not callsigns
+  const hit = CALLSIGN_MAP[cs];
+  if (hit) return `${cs} (${hit.department}): ${hit.details}`;
+  return null; // unknown callsign -> let Claude handle it
+}
 
 const remoteCache = {};  // file -> last successfully fetched raw text
 
@@ -410,11 +447,12 @@ function rebuild() {
   CODE_MAP = buildCodeMap(DOCS);
   NATO_MAP = buildNatoMap(DOCS);
   PUNISHMENTS = buildPunishments(DOCS);
+  CALLSIGN_MAP = buildCallsigns(newFiles);
   SYSTEM_BLOCKS = [
     { type: 'text', text: INSTRUCTIONS },
     { type: 'text', text: `Reference text:\n${DOCS}`, cache_control: { type: 'ephemeral' } }
   ];
-  console.log(`Knowledge rebuilt: ${Object.keys(newFiles).length} docs, ~${Math.round(DOCS.length / 4)} tokens`);
+  console.log(`Knowledge rebuilt: ${Object.keys(newFiles).length} docs, ~${Math.round(DOCS.length / 4)} tokens, ${Object.keys(CALLSIGN_MAP).length} callsigns`);
 }
 
 // Clean up fetched docs: normalize line endings, drop empty CSV rows
@@ -468,9 +506,11 @@ function routeDocs(query) {
 
 const INSTRUCTIONS = 'You are an assistant for California Roleplay (CALIRP), a GTA roleplay server. Answer ONLY using the reference documents below. Do not use any real-world knowledge. Do not invent or add anything not written in the reference documents. If the answer is genuinely not in the reference documents, reply exactly: "That is not in our documents." Keep answers short and quote rules and definitions as written.\n\nIMPORTANT: Each document is wrapped in a <document> tag stating which department it belongs to. Many departments have sections with identical names (for example, VEHICLE STRUCTURE exists in RHPD, NCEA, SBO, VO, and Armed Forces). When the user mentions a department (by name or abbreviation like RHPD, SAHP, SBPD, NSB, NCEA, SBO, VO, BSE, SATF, MPD/Metro, SAFR, BB), you MUST answer only from that department\'s document and say which department you are quoting. If the question matches sections in multiple departments and the user did not specify one, list the departments that have that section and ask which one they mean.';
 
-// initial build from local files, then start the remote refresh loop
+// initial build from local files, then fetch remote docs BEFORE the
+// server starts taking questions (the listen call at the bottom waits
+// for this promise), then keep refreshing on a timer.
 rebuild();
-refreshRemoteDocs();
+const firstRefresh = refreshRemoteDocs();
 setInterval(refreshRemoteDocs, REFRESH_MINUTES * 60 * 1000);
 
 app.get('/status', (req, res) => {
@@ -491,8 +531,10 @@ app.post('/chat', async (req, res) => {
   res.setHeader('Content-Type', 'text/plain; charset=utf-8');
   res.setHeader('Cache-Control', 'no-cache');
 
-  // 1) Exact, no-AI answer first (codes, signals, phonetics, punishments) - instant
-  const direct = deterministicAnswer(message, CODE_MAP, NATO_MAP, PUNISHMENTS);
+  // 1) Exact, no-AI answers first (codes, signals, phonetics, punishments,
+  //    roster callsigns) - instant
+  const direct = deterministicAnswer(message, CODE_MAP, NATO_MAP, PUNISHMENTS)
+    || callsignLookup(message);
   if (direct) {
     res.write(direct);
     return res.end();
@@ -528,8 +570,10 @@ app.post('/chat', async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
-  console.log(`Proxy server running on port ${PORT}`);
-  console.log(`Loaded docs from: ${DOCS_FOLDER}`);
-  console.log(`Using Claude model: ${MODEL_NAME}`);
+firstRefresh.finally(() => {
+  app.listen(PORT, () => {
+    console.log(`Proxy server running on port ${PORT}`);
+    console.log(`Loaded docs from: ${DOCS_FOLDER}`);
+    console.log(`Using Claude model: ${MODEL_NAME}`);
+  });
 });
