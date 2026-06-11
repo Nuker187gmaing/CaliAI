@@ -1,11 +1,15 @@
-﻿________________
+SAN ANDREAS DEPARTMENT OF PUBLIC SAFETY (SADPS / DPS)
+STANDARD OPERATING PROCEDURES, PROMOTIONAL GUIDELINES & ROSTER
+================================================================================
 
+================================================================================
+PART 1 - STANDARD OPERATING PROCEDURES
+================================================================================
+
+________________
 
 San Andreas Department of Public Safety Standard Operation Procedure
 ________________
-
-
-
 
 Chain Of Command
 High Command
@@ -24,7 +28,6 @@ ________________
 This is an official San Andreas Department of Public Safety Standard Operation Procedure, this documents has everything that is needed to know while being on duty, all of the information was based of the CaliRP | Global Departments SOP 2025 document.
 3 | Nato Phonetic Alphabet
 Used to phonetically spell out words.
-
 
 A - Alfa
 B - Bravo
@@ -54,9 +57,7 @@ Y - Yankee
 Z - Zulu
 ________________
 
-
 4 | 10 Codes/General Codes
-
 
 10-0 - Disappeared
 10-1 - Frequency Change
@@ -138,18 +139,12 @@ Signal 11 - Running Radar
 Signal 13 - Clear for Crime Broadcast
 Signal 100 - HOLD ALL BUT EMERGENCY TRAFFIC
 
-
-
-
 5 | Miranda Rights 
 (Read to individuals during questioning).
 
-
 "You have the right to remain silent. Anything you say can and will be used against you in the court of law. You have the right to an attorney, if you cannot afford an attorney one will be appointed to you by the State of California. 
 
-
 Do you understand these rights that I have read to you? With these rights in mind, do you wish to speak to me further?"
-
 
 When Are Miranda Rights Required?
 Miranda rights must be read when two conditions are met:
@@ -166,9 +161,6 @@ The following structure outlines the process for administering internal correcti
 
 ________________
 
-
-
-
 6.2 | Additional Guidelines:
    * Members may be terminated if they breach rules or guidelines in a manner consistent with these corrective action steps.
 High Command or Low Command may issue a department blacklist to terminated members at their discretion.
@@ -177,23 +169,15 @@ High Command or Low Command may issue a department blacklist to terminated membe
 
    * Any member banned or blacklisted from the server or community for more than two weeks will be automatically terminated from DPS. Reinstatement is solely at the discretion of High Command.
 
-
-
-
-
-
 7 | Radio Traffic Only (RTO) Etiquette.
       * When Dispatch is active in RTO, you must send all traffic through them by first requesting        permission to speak (“ Callsign to Dispatch ”). Once cleared to transmit, you will provide them with the necessary information related to your current situation. Dispatch is responsible for priority response coordination and you are required to abide by their directions.
       * If no Dispatcher is active, you are permitted to Self-Dispatch but must adhere to the RTO authority listed below.
       * If you need to or wish to speak with another officer, you must request a  10-1 and specify which channel in the process (e.g. “<Callsign>, to <Callsign> direct, can you 10-1 to channel 1”). Example with our callsign, “This is DPS-01 to DPS-25, please join channel 10-1 channel 2”
       * You must call-out if you are going 10-7 (Out of service) or 10-6 (Busy/ INOP), changing it on the CAD system is not good enough. All other statuses, for example, setting yourself 10-8 after a call, can be set solely in the CAD system and may be accompanied by a call-out in the RTO channel.
 
-
       * If you need to call through a 10-11 (Traffic stop) You MUST ask dispatch beforehand if he is ready for the info, failing to do this will result in an RTO strike.
 
-
       * FailRP/VDM/RDM is to not be called out in RTO . It is at your discretion to disregard calls which seem unreasonable.
-
 
       * Only communicate in RTO when realistic (I.e. Don’t shout that you are dead, if you are dead you do not have the capability to speak through your radio).
 7.1 Authority in RTO:
@@ -207,33 +191,12 @@ LEO department Supervisor Ability’s:
       * Cannot Authorize In game meetings. 
 Maximum time for Cooldown is now 10 mins after 4-5 priorities.
 
-
 Pre Main Department High Command Ability’s:
       * Can do everything above. 
       * Can balance RTO. 
       * Can Drag into 10-1 without permission from the officer being dragged (Use in emergencies).
 
-
-
-
-
-
-
-
-
-
-
-
 LEFT BLANK INTENTIONALLY
-
-
-
-
-
-
-
-
-
 
         
 Main Department High Command Ability’s:
@@ -246,38 +209,23 @@ Main Department High Command Ability’s:
       * Can Authorize in-game meetings.
       * RTO Briefings – In order to be able to host RTO Briefings you must be a MAIN department High Command or a DHS Supervisory Special Agent or above.
 
-
 Dispatcher ability’s:
       * Can hold 10-3
       * Can Put Signal 100 in effect
       * Can lift RTO.
       * Cannot Authorize RTO briefings.
 
-
 7.2 In-Game Radio Policy:
       * SADPS uses in game radio to talk to other officers that might be in game and actively on patrol around, we use the 204 channel frequency to communicate.
       * While using the in-game radio you may not scream, do not just spam the radio push to talk button as it plays sound to other people, do not talk over each other on the radio.
-
-
-
-
-
-
-
-
-
-
-
 
 LEFT BLANK INTENTIONALLY
 8. Weapon, Uniform, and Vehicle Policies.
         8.1 Weapons: 
         Weapons are only to be used in circumstances justified by the Use of Force Continuum. All weapons are to be used in a realistic manner. Only members active as a Tactical Unit may use Heavy Weapons (Sniper, LMG, etc.). The use of illegal weapons such as the AP Pistol, Ghost Glock etc are strictly prohibited whilst active as an LEO. The use of weapons with incendiary/explosive rounds is prohibited.
 
-
 Lethal:Combat Pistol, Carbine Rifle, Pump Shotgun.
 Non Lethal: Taser and Beanbag Shotgun, Nightstick/Baton.  
-
 
 More lethal
 	Carbine Rifle
@@ -296,29 +244,13 @@ More lethal
 
 	
 
-
-
-
-
-
-
-
-
-
-
 8.2 | Uniforms:
 All SADPS must use rank appropriate uniforms, this means you must use uniforms that are provided by HC for your current rank. 
 All uniforms that are custom made like UC and etc. need to be approved by HC and must stay professional. 
 Formal uniforms must be worn while in RTO briefings. 
 
-
-
-
-
-
 8.3 | Vehicles:
         The uniforms can be found in SADPS Roster.
-
 
       * Officers may use vehicles that are under your current rank. 
       * Units are only allowed to go a maximum of 180 mph in an active car pursuit, only units that are heat certified are allowed to go 225 mph in a car pursuit.
@@ -328,9 +260,6 @@ Formal uniforms must be worn while in RTO briefings.
       * Our department license plate format is XXDPSXXX (The first 2 numbers are your choice of numbers and the 3 last numbers must be your badge numbers). 
       * The vehicles that are locked to a subdivision only are allowed to be use whenever you are on as that subdivision.
       * You are not permitted to use both the visor lights & lightbar on your vehicle. Only supervisors are permitted to be using visor lights and regular patrol officers/deputies should be using the lightbar attachment. If the vehicle is not supplied with a lightbar extra you are exempt from this requirement.        
-
-
-
 
 9 | Activity Requirements
       * In the Department of Public Safety (DPS), all officers are required to meet a weekly activity requirement of 3 hours per week to be considered active. 
@@ -352,13 +281,9 @@ Formal uniforms must be worn while in RTO briefings.
       * Low Command ranks are equivalent to the highest Supervisor level, while THC+ ranks are considered the lowest level within Low Command.
       * TID resets with reserve status; members need 60 days in-department post-reserve for transfer eligibility.
 
-
 10.3 Leave Of Absence (LOA).
       * If a person wants to leave for some time, he may request LOA or Leave Of Absence in SADPS discord channel named LOA Request.
       * You may request LOA at any time you would like but the maximum allowed LOA time is 60 days. You may not request more than that.
-
-
-
 
 11 | DPS Subdivisions
 The Department of Public Safety (DPS) offers a variety of specialized subdivisions for members to serve in, each focusing on distinct areas of law enforcement and public safety. These units provide opportunities for officers to develop expertise, take on unique responsibilities, and contribute to the overall mission of the department:
@@ -373,7 +298,6 @@ The Department of Public Safety (DPS) offers a variety of specialized subdivisio
       * Special Emergency Response Team (SERT) – Handles high-risk operations, critical incidents, and emergency situations requiring specialized tactics.
 ________________
 
-
 12 | Identifying Policy
          * Whenever you are on duty as DPS you must be wearing your badge (which can be found in the document chanell in the discord server) and you must wear it as your profile picture in discord.
          * While on-duty in-game you must be wearing the appropriate uniform which can be found in the DPS roster and a headtag with your blip turned on.
@@ -387,11 +311,6 @@ ________________
          * All Department of Public Safety (DPS) officers are required to be properly registered in the CAD (Computer Aided Dispatch) system. To register a vehicle you must go to a station to register a car with the correct plate design and format (XXDPSXXX the 3 last numbers are your badge number)
          * While on-duty, officers must set their status to 10-8 in the CAD. This indicates to dispatch and fellow officers that you are actively patrolling and available for calls. Proper use of CAD ensures clear communication, accurate tracking of personnel, and effective response to incidents throughout the jurisdiction.
 
-
-
-
-
-
 15 | Promotion guidelines
 
 Promotion eligibility within the Department of Public Safety (DPS) is determined primarily by activity and professionalism.
@@ -404,3 +323,553 @@ If you have any questions or suggestions regarding promotions, please contact yo
 Here you can find the promotion guidelines :Promotion guidelines
 
 Note: All upcoming supervisors/low command must take a sergeant/lieutenant exam.
+
+================================================================================
+PART 2 - PROMOTIONAL GUIDELINES & ACTIVITY REQUIREMENTS
+================================================================================
+
+________________
+
+San Andreas Department of Public Safety
+Promotional Guidelines
+________________
+
+This document establishes the promotion guidelines and activity requirements for all ranks within the San Andreas Department of Public Safety. Its purpose is to maintain departmental structure, ensure consistent expectations across all ranks, and provide a fair and unbiased framework for promotional decisions. These requirements exist to support accountability, professionalism, and sustained activity throughout the department.
+
+All ranks within the San Andreas Department of Public Safety are required to meet the outlined promotional and activity standards in order to maintain their current rank and status within the department.
+
+All members must satisfy the requirements associated with their current rank before being considered for promotion. Promotion eligibility is reviewed on a weekly basis for all ranks and is strictly merit-based. Meeting minimum activity requirements does not guarantee promotion.
+
+The San Andreas Department of Public Safety High Command retains full authority to approve, delay, or deny any promotion at their discretion. This authority exists to ensure that promotions reflect departmental needs, professional conduct, performance, and leadership capability.
+
+Any member who has received a field promotion is still required to complete all unmet requirements from previous ranks. Failure to complete those requirements will result in ineligibility for further promotion until all prior obligations have been fulfilled.
+
+Cadet
+	Rank Requirement
+	Complete DPS basic training within 2 weeks.
+	Pass your training.
+	
+
+Probationary Constable
+	Promotion Requirements
+	Serve at least 1 week in rank.
+	Pass your Ridealong.
+	Clock at least 3 hours within the week.
+	No active disciplinary actions in the last 7 days.
+	
+
+Constable
+	Promotion Requirements
+	Serve at least 1 week in rank.
+	Clock at least 4 hours within the week (patrol + other duties).
+	Be active in at least 1 subdivision.
+	Earn Recruitment Badge (submit application to RTD).
+	No active disciplinary actions in the last 7 days.
+	
+
+Senior Constable
+	Promotion Requirements
+	Serve at least 1 week in rank.
+	Clock at least 5 hours within the week (patrol + other duties).
+	Be active in at least 1 subdivision.
+	Host 2 Open Recruitments.
+	Obtain FTA Badge (FTA exam required).
+	No active disciplinary actions in the last 7 days.
+	
+
+Corporal
+	Promotion Requirements
+	Serve at least 1 week in rank.
+	Clock at least 5 hours within the week (patrol + other duties).
+	Be active in at least 1 subdivision.
+	Assist with 1 Basic Training session.
+	Host 1 Ridealong.
+	Pass Sergeant Exam to qualify for promotion.
+	No active disciplinary actions in the last 7 days.
+	
+
+Sergeant
+	Promotion Requirements
+	Serve at least 1 week in rank.
+	Clock at least 5 hours within the week (patrol + other duties).
+	Be active in at least 1 subdivision.
+	Assist with 1 Basic Training session.
+	Host 1 Ridealong.
+	Host 2 Open Recruitments.
+	Obtain FTO Badge (FTO exam required).
+	No active disciplinary actions in the last 7 days.
+	
+
+Staff Sergeant
+	Promotion Requirements
+	Serve at least 1 week in rank.
+	Clock at least 5 hours within the week (patrol + other duties).
+	Be active in at least 1 subdivision.
+	Host 1 Basic Training session.
+	Host 1 Ridealong.
+	Host 2 Open Recruitments.
+	No active disciplinary actions in the last 7 days.
+	
+
+Master Sergeant
+	Promotion Requirements
+	Serve at least 1 week in rank.
+	Clock at least 5 hours within the week (made of patrol and the below)
+	Be active in at least 2 subdivisions.
+	Host 1 Basic Training
+	Host 2 Open Recruitments
+	Pass Lieutenant Exam.
+	No active disciplinary actions in the last 7 days.
+	
+
+Second Lieutenant
+	Promotion Requirements
+	Serve at least 1 week in rank.
+	Clock at least 5 hours within the week (made of patrol and the below)
+	Be active in at least 2 subdivisions.
+	Host 1 Basic Training session.
+	Recruit 2 new members into DPS.
+	Hold a Coordination Position or be High Command of a subdivision.
+	No disciplinary actions in the last 4 weeks.
+	No active disciplinary actions in the last 7 days.
+	Promotion is handpicked by High Command.
+	
+
+Low Command
+	Promotion Requirements
+	Serve at least 2 weeks in rank.
+	Clock at least 7 hours A Week (made of patrol and the below)
+	Host or evaluate 1 Basic Training session.
+	Recruit 2 new members into DPS.
+	Host & grade 1 Sergeant or Lieutenant Exam.
+	Get 2 hours / be active for subdivisions
+	Hold a minimum of 1 coordination position
+	Do task assigned by THC+
+	No active disciplinary actions in the last 7 days.
+	Promotion is handpicked by High Command.
+	
+
+Signed,
+DPS | High Command
+
+Last Updated: December 2025
+
+================================================================================
+PART 3 - DEPARTMENT ROSTER, VEHICLES, UNIFORMS & AUTHORITY MATRIX
+================================================================================
+
+Department of Public Safety
+Department Documents Subdivisions
+Standard Operation Procedures Special Emergency Response Team - SERT
+Global Standard Operation Procedures Traffic Safety Division - TSD
+Promotion Guidelines Major Crimes Division - MCD
+Recruitment and Training Division - RTD
+Air & Costal Unit - ACU
+Dispatch
+Deparment Statistics Top Constables
+Last Months Hours: 420.74 Constable of the Month of April:
+Total Members: 36 Constable of the Week: D. Kade
+High Command: 2 Supervisor of the Week:
+Low Command: 0
+Supervisors 5
+Patrol Constables: 20
+Last Updated: 4. Juni 2026
+
+DPS-01 00007 Chief of DPS Simon R. 02.12.2025 26.03.2026 Active 1177896383135612971 Manages Command Members / Oversees all subdivisions / Does weekly meetings / Does Promos / Roster Admin / Role Admin / Recruitment Overseer / Sub Division Coordinator Director
+DPS-02 Deputy Chief
+DPS-03 00028 Assistant Chief C. Marston 12.12.2025 06.06.2026 Active 756533154092810352 Manages Command Members / Oversees all subdivisions / Does weekly meetings / Does Promos / Roster Admin / Role Admin / Recruitment Overseer / Sub Division Coordinator Director
+DPS-04 Chief of Staff
+DPS-05 Commander
+TRIAL HIGH COMMAND
+DPS-06 Major Command
+DPS-07 Major Command
+LOW COMMAND
+----------
+DPS-10 00095 Captain C. Chiki 01.05.2026 5/16/2026 Active 1414006819675836447 Command
+DPS-11 Captain Command
+DPS-12 00116 1st Lieutenant D. Thomas 26.05.2026 06.06.2026 Active 824579861916942347 Command
+DPS-13 1st Lieutenant Command
+DPS-14 1st Lieutenant Command
+TRIAL LOW COMMAND
+DPS-20 00112 2nd Lieutenant Jack Will 26.05.2026 01.06.2026 Active 1358970100425953551 Command
+DPS-21 2nd Lieutenant Command
+DPS-22 2nd Lieutenant Command
+DPS-23 2nd Lieutenant Command
+SENIOR SUPERVISORS
+DPS-30 00097 Master Sergeant T. McGregor 05.04.2026 17.05.2026 Active 359404436390543373 Supervise
+DPS-31 00121 Master Sergeant X. Williams 01.06.2026 01.06.2026 Active 1366849620910800936 Supervise
+
+DPS-32 00127 Master Sergeant Kaden Marquez 04.06.2026 04.06.2026 Active 1170171397566369913 Supervise
+DPS-33 Master Sergeant Supervise
+SUPERVISORS
+DPS-50 Staff Sergeant Supervise
+DPS-51 Staff Sergeant Supervise
+DPS-52 Staff Sergeant Supervise
+DPS-53 Staff Sergeant Supervise
+DPS-54 Staff Sergeant Supervise
+DPS-55 Staff Sergeant Supervise
+DPS-60 00003 Sergeant P. SIlver 06.06.2026 06.06.2026 Active 691331260068397138 Supervise
+DPS-61 00104 Sergeant Jax McCul 05.09.2026 06.06.2026 Active 774381344309903381 Supervise
+DPS-62 Sergeant Supervise
+DPS-63 Sergeant Supervise
+DPS-64 Sergeant Supervise
+DPS-65 Sergeant Supervise
+SUPERVISOR IN TRAINING
+DPS-70 00078 Corporal A. Tate 3/13/2026 3/13/2026 Active 384067006686691336 Supervise
+DPS-71 00089 Corporal Ryan P. 11.04.2026 11.04.2026 Active 880984800746409994 Supervise
+DPS-72 00115 Corporal D. Kade 26.05.2026 04.06.2026 Active 1251639383803560019 Supervise
+DPS-73 Corporal Supervise
+DPS-74 Corporal Supervise
+DPS-75 Corporal Supervise
+PATROL
+
+DPS-100 00083 Senior Constable C. Sho 04.04.2026 04.04.2026 Active 1489488793315704882 PATROL
+DPS-101 00088 Senior Constable Filip C. 11.04.2026 11.04.2026 Active 794167535989555210 PATROL
+DPS-102 00099 Senior Constable D. Donaker 05.05.2026 05.05.2026 Active 775868726988767263 PATROL
+DPS-103 00098 Senior Constable J. Jones 03.05.2026 03.05.2026 Active 1215013558476083240 PATROL
+DPS-104 00120 Senior Constable Micheal S. 01.06.2026 01.06.2026 Active 1221454288522313792 PATROL
+DPS-105 Senior Constable PATROL
+DPS-106 Senior Constable PATROL
+DPS-107 Senior Constable PATROL
+DPS-108 Senior Constable PATROL
+DPS-109 Senior Constable PATROL
+DPS-200 00026 Constable J. Henderson 11.12.2025 14.12.2025 Semi-Active 1427048341329547344 PATROL
+DPS-201 00076 Constable J. Wall 04.03.2026 04.03.2026 Active 986253846571524118 PATROL
+DPS-202 00035 Constable B. Williams 05.02.2026 22.12.2025 Active 1304614994628841544 PATROL
+DPS-203 00125 Constable C. Wheezer 03.06.2026 08.06.2026 Active 1243398724538077303 PATROL
+DPS-204 00100 Constable N. Dean 05.06.2026 17.05.2026 Active 653996983719034880 PATROL
+DPS-205 00110 Constable E. Cole 20.05.2026 20.05.2026 Active 1057154554615058573 PATROL
+DPS-206 00111 Constable Alex H. 20.05.2026 20.05.2026 Active 1282330474978480225 PATROL
+DPS-207 00130 Constable D. Rivers 07.06.2026 07.06.2026 Active 991808817174159472 PATROL
+DPS-208 00131 Constable V. Rivers 07.06.2026 07.06.2026 Active 991808817174159472 PATROL
+DPS-209 Constable PATROL
+DPS-210 Constable PATROL
+DPS-211 Constable PATROL
+DPS-212 Constable PATROL
+DPS-213 Constable PATROL
+
+DPS-214 Constable PATROL
+DPS-300 00012 Pr C o o b n a s ti t o a n b a le ry N/A L. Nutt 05.12.2025 05.12.2025 Semi-Active 1213700589121437757 PATROL
+DPS-301 00051 Pr C o o b n a s ti t o a n b a le ry N/A J. Jackson 04.02.2026 04.02.2026 Active 929884620881813574 PATROL
+DPS-302 00081 Pr C o o b n a s ti t o a n b a le ry N/A Dean W. 3/26/2026 3/26/2026 Resigned 552621448569815041 PATROL
+DPS-303 00124 Pr C o o b n a s ti t o a n b a le ry N/A B. Jeen 02.06.2026 02.06.2026 Active 1269848164207296522 PATROL
+DPS-304 00087 Pr C o o b n a s ti t o a n b a le ry N/A Kyle T. 04.06.2026 04.06.2026 Active 495596033900937216 PATROL
+DPS-305 00113 Pr C o o b n a s ti t o a n b a le ry N/A Z. Hill 26.05.2026 26.05.2026 Active 595176804143202314 PATROL
+DPS-306 00101 Pr C o o b n a s ti t o a n b a le ry N/A J. Johnson 05.06.2026 05.06.2026 Active 451282723005399044 PATROL
+DPS-307 00133 Pr C o o b n a s ti t o a n b a le ry N/A J. Davis 06.09.2026 06.09.2026 Active 1489292842655551718 PATROL
+DPS-308 00126 Pr C o o b n a s ti t o a n b a le ry N/A M. Josh 03.06.2026 03.06.2026 Active 1376602222451884133 PATROL
+DPS-309 00128 Pr C o o b n a s ti t o a n b a le ry N/A T. Brady 05.06.2026 05.06.2026 Active 1305137936571957362 PATROL
+DPS-310 00134 Pr C o o b n a s ti t o a n b a le ry N/A J. kay 08.06.2026 08.06.2026 Active 1466278421272334440 PATROL
+DPS-311 Pr C o o b n a s ti t o a n b a le ry N/A J. Bread 1457418536061374520 PATROL
+DPS-312 00135 Pr C o o b n a s ti t o a n b a le ry N/A R. Smith 11.06.2026 11.06.2026 Active 1294186513478979598 PATROL
+DPS-313 Pr C o o b n a s ti t o a n b a le ry N/A PATROL
+DPS-314 Pr C o o b n a s ti t o a n b a le ry N/A PATROL
+DPS-315 Pr C o o b n a s ti t o a n b a le ry N/A PATROL
+DPS-316 Pr C o o b n a s ti t o a n b a le ry N/A PATROL
+DPS-317 Pr C o o b n a s ti t o a n b a le ry N/A PATROL
+DPS-318 Pr C o o b n a s ti t o a n b a le ry N/A PATROL
+DPS-319 Pr C o o b n a s ti t o a n b a le ry N/A PATROL
+DPS-320 Pr C o o b n a s ti t o a n b a le ry N/A PATROL
+DPS-321 Pr C o o b n a s ti t o a n b a le ry N/A PATROL
+RESERVE
+DPS-500 00002 Master Sergeant N/A W. Hochstetter 02.12.2025 02.12.2025 Reserve 633719514500038681 PATROL
+DPS-501 00090 Sergeant N/A J. Waters 18.04.2026 5/102026 Reserve 1404914868024512552 PATROL
+DPS-502 N/A PATROL
+DPS-503 N/A PATROL
+
+DPS-504 N/A PATROL
+DPS-505 N/A PATROL
+RESERVE
+Legal Advisor
+LA-01 00116 Legal Advisor N/A D. Thomas 26.05.2026 06.06.2026 Active 824579861916942347 Legal Advisor
+LA-02 Legal Advisor N/A Legal Advisor
+
+Badge Number Name Discord ID <@PING> Rank Hire Date Promo Date Time Zone Status NOTES Strikes FTA FTO
+00001 Harris M. 346627793938939905 01/12/2025 01/12/2025 GMT Terminated G-Banned N/A
+00002 W. Hochstetter 633719514500038681 Master Sergeant 02/12/2025 02/12/2025 EST Reserve Rt. Deputy Chief N/A
+00003 P. SIlver 691331260068397138 Sergeant 06/06/2026 06/06/2026 GMT Active N/A
+00004 F. Mury 609573344114638858 02/12/2025 02/12/2025 CEST Terminated Improper resignation N/A
+00005 J. Bergman 891595735907311616 02/12/2025 02/12/2025 CEST Resigned N/A
+00006 J. Flannigan 645068360391983124 02/12/2025 02/12/2025 EST Terminated Improper resignation N/A
+00007 Simon R. 1177896383135612971 Chief of DPS 02/12/2025 26/3/2026 CEST Active N/A
+00008 R. Seymour 1347125862625054780 02/12/2025 02/12/2025 CST Terminated N/A
+00009 J. River 1251103422669652022 02/12/2025 02/12/2025 UTC Terminated N/A
+00010 B. Poin 1194721231929344164 03/12/2025 03/12/2025 GMT Terminated Perm Banned N/A
+00011 Cosmo C. 995055022498922627 05/12/2025 05/12/2025 EST Resigned Resigned - Went to NCIS N/A
+00012 L. Nutt 1213700589121437757 Probationary Constable 05/12/2025 05/12/2025 EST Semi-Active N/A
+00013 J. Martin 766033036844204052 06/12/2025 06/12/2025 EST Terminated Improper resigntation/Quit ridealong after failing it N/A
+00014 S. Hyper 916639231521214474 06/12/2025 14/12/2025 CEST Resigned N/A
+00015 K. Smith 1356125321384038521 07/12/2025 07/12/2025 MST Terminated Left the SADPS dc without contacting anyone N/A
+00016 Alex B. 1383426637324091402 07/12/2025 07/12/2025 EST Resigned N/A
+00017 Tecca W. 730114996561903657 07/12/2025 02/01/2026 GMT Resigned N/A
+00018 J. Anders 1112053011183837185 07/12/2025 18/12/2025 EST Resigned N/A
+00019 J. Cam 813449778825396272 04/12/2025 1/25/2026 EST Resigned N/A
+00020 D. Santiago 1226280174899822602 09/12/2025 09/12/2025 EST Terminated Joined when was he on cooldown N/A
+00021 Vince K. 554821166347583531 10/12/2025 18/2/2026 EST Resigned Rt. 04 N/A
+00022 C. Hill 1439854480408576020 10/12/2025 14/12/2025 Terminated Improper resignation N/A
+00023 C. Thunder 694939141686689842 10/12/2025 10/12/2025 CST Resigned Resigned N/A
+00024 Conny D. 928408062568575006 10/12/2025 21/12/2025 GMT Terminated Improper resignation N/A
+00025 Ion W. 746443096534941777 10/12/2025 29/12/2025 GMT Terminated Improper resignation N/A
+00026 J. Henderson 1427048341329547344 Constable 11/12/2025 14/12/2025 GMT Semi-Active N/A
+00027 S. Cranberry 691124407674077274 11/12/2025 12/11/2025 EST Resigned N/A
+00028 C. Marston 756533154092810352 Assistant Chief 12/12/2025 06/06/2026 CST Active N/A
+00029 K. Hill 1325940102215504005 12/12/2025 14/12/2025 CST Resigned N/A
+00030 J. Cooper 1266961263410282549 14/12/2025 14/12/2025 CST Terminated N/A
+00031 M. Jefferson 962628527344222238 14/12/2025 14/12/2025 Terminated Improper resignation / Left the dc without contact N/A
+00032 J. Deer 808385543477264444 2/1/2026 2/1/2026 EST Resigned N/A
+00033 D. Matthews 819472691098026014 17/12/2025 2/1/2026 GMT Resigned N/A
+00034 L. Scott 1388501626666614827 22/12/2025 22/12/2025 AEST Resigned N/A
+00035 B. Williams 1304614994628841544 Constable 5/2/2026 22/12/2025 CST Active N/A
+00036 W. Shags 861096890903953419 29/12/2025 29/12/2025 AEST Resigned N/A
+00037 J. Earth 1187608129823842455 6/1/2026 6/1/2026 CST Terminated N/A
+00038 J. McKinney 775068584035483660 10/1/2026 2/1/2026 PST Resigned N/A
+00039 L. Reeves 1409239583568429129 10/1/2026 10/1/2026 CST Terminated Joined DPS while in SATF N/A
+00040 A. Forrest 594728817411751936 10/1/2026 25/1/2026 PST Resigned DHS Handpick N/A
+00041 D. Mathis 758362670306558025 10/1/2026 8/2/2026 PST Resigned N/A
+00042 Alex B. 827267352583340092 19/1/2026 19/1/2026 EST Terminated Improper resignation N/A
+00043 I. Evaan 723846687533301790 19/1/2026 19/1/2026 CEST Resigned Resigned with 1SP - Went to SP N/A
+00044 J. Mendez 1450700394467426325 21/1/2026 21/1/2026 EST Resigned N/A
+00045 J. Beer 977591794239930370 23/1/2026 23/1/2026 CEST Terminated Improper resignation N/A
+00046 Evan H. 1101418550993883188 29/1/2026 29/1/2026 EST Resigned 5/7/2026 via ticket N/A
+00047 Axel P. 513166829728956446 20/1/2026 30/1/2026 EST Semi-Active N/A
+00048 D. Cooks 1296727095157850144 5/4/2026 5/4/2026 EST Resigned Transfered to SAST N/A
+00049 Lyndon K. 690983393730494605 31/1/2026 31/1/2026 CET Terminated N/A
+00050 S. Fitz 1253429056364613642 3/2/2026 3/2/2026 GMT Terminated Improper resignation N/A
+00051 J. Jackson 929884620881813574 Probationary Constable 4/2/2026 4/2/2026 EST Active N/A
+00052 K. Carter 1154387651978350692 4/2/2026 26/3/2026 GST Resigned Transfered to LSPD N/A
+00053 N. Rince 1452747250642976801 4/2/2026 4/2/2026 EST Blacklisted N/A
+00054 J. Bates 680644612523819085 2/6/2026 15/2/2026 EST Active N/A
+00055 G. Jenkins 394340494211284993 8/2/2026 8/2/2026 CST Terminated Improper resignation N/A
+00056 P. Junior 1335329161295953953 8/2/2026 8/2/2026 CST Terminated Improper resignation N/A
+00057 J. Jenkins 525408891308343327 8/2/2026 8/2/2026 CST Terminated Improper resignation N/A
+00058 J. Wesker 1346354414973222946 8/2/2026 8/2/2026 EST Terminated Improper resignation N/A
+00059 Shawn J. 1274374608669376575 8/2/2026 8/2/2026 CST Terminated N/A
+00060 Rico S. 994148007501111368 10/2/2026 10/2/2026 CST Blacklisted Permanent Blacklist N/A
+00061 Jay S. 1376972543348445339 10/2/2026 10/2/2026 EST Blacklisted Permanent Blacklist N/A
+00062 L. Junior 1245520531583664148 12/2/2026 12/2/2026 EST Terminated Banned for 2+ Weeks N/A
+00063 D. Henderson 835933027266723862 18/2/2026 26/03/2026 CST Resigned Rt. Chief Of DPS N/A
+
+Badge Number Name Discord ID <@PING> Rank Hire Date Promo Date Time Zone Status NOTES Strikes FTA FTO
+00064 A. Saint 823022357919957010 18/2/2026 18/2/2026 EST Resigned N/A
+00065 A. Lopez 869520213278855218 18/2/2026 03/03/2026 UTC Terminated Improper resignation N/A
+00066 J. Duster 806997433740951643 23/02/2026 03/01/2026 MST Terminated Improper resignation N/A
+00067 J. Cow 786431210502225931 MST Terminated Improper resignation N/A
+00068 S. Turco 1468782632950173757 23/02/2026 23/02/2026 EST Terminated Improper resignation N/A
+00069 A. Smith 1285407723814391933 20/02/2026 04/03/2026 AEST Terminated Improper resignation N/A
+00070 M. Brooks 1472256571638808739 28/02/2026 04/03/2026 EST Terminated Disrespect of high command N/A
+00071 L. Cass 1414301080136712243 28/02/2026 28/02/2026 GMT Terminated Improper resignation N/A
+00072 J. Mark 1115506877363658953 2/3/2026 2/3/2026 EST Terminated Improper resignation N/A
+00073 J. Thompson 1329582068900040724 3/3/2026 3/3/2026 EST Terminated Improper resignation N/A
+00074 Jamie M 1115506877363658953 4/3/2026 4/3/2026 EST Terminated Improper resignation N/A
+00075 D. Ross 765607547385544744 4/3/2026 4/3/2026 EST Terminated Improper resignation N/A
+00076 J. Wall 986253846571524118 Constable 4/3/2026 4/3/2026 GMT Active N/A
+00077 T.Dinozzo 1219722268758773891 6/3/2026 6/3/2026 EST Terminated N/A
+00078 A. Tate 384067006686691336 Corporal 3/13/2026 3/13/2026 EST Active N/A
+00079 D.Harris 1431048911782416507 EST Terminated N/A
+00080 A. Denver 1092052451189854278 03/17/2026 03/17/2026 EST Terminated N/A
+00081 Dean W. 552621448569815041 Probationary Constable 3/26/2026 3/26/2026 EST Resigned Via. Ticket N/A
+00082 M. Timothy 1150131177668235315 2/4/2026 2/4/2026 GMT Terminated Improper resignation N/A
+00083 C. Sho 1489488793315704882 Senior Constable 4/4/2026 4/4/2026 GMT Active N/A
+00084 Byan G. 1408514708901855407 4/4/2026 4/4/2026 EST Terminated Improper resignation N/A
+00085 J. Janker 801634352759832606 4/5/2026 4/5/2026 MST Terminated Improper resignation N/A
+00086 J. Walker 1162492487521284276 4/5/2026 4/5/2026 Resigned N/A
+00087 Kyle T. 495596033900937216 Probationary Constable 4/6/2026 4/6/2026 CEST Active N/A
+00088 Filip C. 794167535989555210 Senior Constable 11/4/2026 11/4/2026 GMT Active N/A
+00089 Ryan P. 880984800746409994 Corporal 11/4/2026 11/4/2026 BST Active N/A
+00090 J. Waters 1404914868024512552 Sergeant 18/4/2026 5/102026 BST Reserve N/A
+00091 J. Rodriguez 1379548541675896873 18/4/2026 18/2026 EST Terminated N/A
+00092 L. Boston 1300706042086293527 25/4/2026 25/4/2026 AEST Terminated Improper resignation N/A
+00093 X. Berry 1472409418363572411 25/4/2026 25/4/2026 AEST Resigned N/A
+00094 G. Lopez 1261146804892860513 25/4/2026 25/4/2026 EST Terminated Improper resignation N/A
+00095 C. Chiki 1414006819675836447 Captain 1/5/2026 5/16/2026 AEST Active N/A
+00096 D. Madsen 1030683067775455312 5/1/2026 5/1/2026 EST Resigned N/A
+00097 T. McGregor 359404436390543373 Master Sergeant 5/4/2026 17/5/2026 GMT Active N/A
+00098 J. Jones 1215013558476083240 Senior Constable 3/5/2026 3/5/2026 EST Active N/A
+00099 D. Donaker 775868726988767263 Senior Constable 5/5/2026 5/5/2026 EST Active N/A
+00100 N. Dean 653996983719034880 Constable 5/6/2026 17/5/2026 BST Active N/A
+00101 J. Johnson 451282723005399044 Probationary Constable 5/6/2026 5/6/2026 PST Active N/A
+00102 Kayden J. 996000293256974347 7/5/2026 7/5/2026 GMT Resigned Resigned via ticket N/A
+00103 B. Smalls 891144725468438539 Probationary Constable 5/9/2026 17/5/2026 PST Resigned Resigned via ticket N/A
+00104 Jax McCul 774381344309903381 Sergeant 5/9/2026 6/6/2026 CST Active N/A
+00105 B. Billsky 906455967070294026 10/5/2026 10/5/2026 GMT Terminated Improper resignation N/A
+00106 C. Krunch 1197865596176576683 Probationary Constable 16/5/2026 16/5/2026 GMT Resigned N/A
+00107 A. Williams 769254028319391745 Probationary Constable 16/5/2026 16/5/2026 GMT Resigned N/A
+00108 B. Daniels 1333938818167996507 17/5/2026 17/5/2026 CST Resigned Went to SP N/A
+00109 C. Hayes 792978246735888456 19/5/2026 19/5/2026 CST Terminated 30 day ban N/A
+00110 E. Cole 1057154554615058573 Constable 20/5/2026 20/5/2026 EST Active N/A
+00111 Alex H. 1282330474978480225 Constable 20/5/2026 20/5/2026 GMT Active N/A
+00112 Jack Will 1358970100425953551 2nd Lieutenant 26/5/2026 1/6/2026 EST Active N/A
+00113 Z. Hill 595176804143202314 Probationary Constable 26/5/2026 26/5/2026 EST Active N/A
+00114 C. Dallas 986426743642546176 26/5/2026 26/5/2026 CST Terminated G-Banned N/A
+00115 D. Kade 1251639383803560019 Corporal 26/5/2026 4/6/2026 EST Active N/A
+00116 D. Thomas 824579861916942347 1st Lieutenant 26/5/2026 6/6/2026 MST Active N/A
+00117 H. Curtis 1096242056302706820 29/5/2026 29/5/2026 CST Terminated Improper resignation N/A
+00118 A. Thomas 1368972044817010849 29/5/2026 29/5/2026 EST Terminated Improper resignation N/A
+00119 T. Beny 899234660712853534 29/5/2026 29/5/2026 GMT Terminated Improper resignation N/A
+00120 Micheal S. 1221454288522313792 Senior Constable 1/6/2026 1/6/2026 GMT Active N/A
+00121 X. Williams 1366849620910800936 Master Sergeant 1/6/2026 1/6/2026 GMT Active N/A
+00122 W. James 1024376579331207179 1/6/2026 1/6/2026 EST Terminated Globled. N/A
+00123 B. Fisher 924686249908928522 2/6/2026 2/6/2026 EST Resigned Handpicked into NCIS N/A
+00124 B. Jeen 1269848164207296522 Probationary Constable 2/6/2026 2/6/2026 CST Active N/A
+00125 C. Wheezer 1243398724538077303 Constable 3/6/2026 8/6/2026 GMT-5 Active N/A
+00126 M. Josh 1376602222451884133 Probationary Constable 3/6/2026 3/6/2026 CST Active N/A
+
+Badge Number Name Discord ID <@PING> Rank Hire Date Promo Date Time Zone Status NOTES Strikes FTA FTO
+00127 Kaden Marquez 1170171397566369913 Master Sergeant 4/6/2026 4/6/2026 EST Active N/A
+00128 T. Brady 1305137936571957362 Probationary Constable 5/6/2026 5/6/2026 BST Active N/A
+00129 R. King 1246246948940419159 6/6/2026 6/6/2026 Blacklisted Called me a F-slur N/A
+00130 D. Rivers 991808817174159472 Constable 7/6/2026 7/6/2026 EST Active N/A
+00131 V. Rivers 991808817174159472 Constable 7/6/2026 7/6/2026 EST Active N/A
+00132 M. Hawk 442340575983828993 Constable 6/9/2026 6/9/2026 CST Terminated Improper resigntation. N/A
+00133 J. Davis 1489292842655551718 Probationary Constable 6/9/2026 6/9/2026 GMT Active N/A
+00134 J. kay 1466278421272334440 Probationary Constable 8/6/2026 8/6/2026 CST Active N/A
+00135 R. Smith 1294186513478979598 Probationary Constable 11/6/2026 11/6/2026 MST Active N/A
+00136 J. Bread 1457418536061374520 Probationary Constable 11/6/2026 11/6/2026 CST Terminated Lied to HC. N/A
+
+DEPARTMENT OF PUBLIC SAFETY - Vehicles
+PROBATIONARY CONSTABLE
+Code: dps_leg11cvpi Code: dps_leg14charg
+Rank: Probationary Constable + Rank: Probationary Constable +
+Livery: 0 Livery: 0
+Code: dps_leg13fpiu
+Rank: Probationary Constable +
+Livery: 0
+CONSTABLE
+Code: legbuffalo Code: dps_leg14tahoe
+Rank: Constable + Rank: Constable +
+Livery: 14 Livery: 0
+
+Code: dps_leg16fpiu Code: dps_leg19yukon
+Rank: Constable + Rank: Constable +
+Livery: 0 Livery: 0
+Livery 1 for sergeant +
+SENIOR CONSTABLE
+Code: dps_leg19gmc Code: dps_leg10charger
+Rank: Senior Constable + Rank: Senior Constable +
+Livery: 0 Livery: 0
+Livery 1 for sergeant +
+Code: dps_leg22tahoe Code: leghellfire
+Rank: Senior Constable Rank: Senior Constable
+Livery: 0 Livery: 5
+
+Code: dps_leg20fpiu
+Rank: Senior Constable +
+Livery: 0
+Livery 1 for sergeant +
+CORPORAL
+Code: dps_leg16ram Code: dps_leg18f150
+Rank: Corporal Rank: Corporal
+Livery: 0 Livery: 0
+Code: 9547
+Rank: Corporal
+Livery: 0
+SUPERVISORS
+Spawn Code: dps_leg20charg Code: dps_leg18tahoe
+
+Rank: Sergeant+ Rank: Sergeant +
+Livery: 1 for sergeant + Livery: 0
+Code: dps_leg20dur
+Rank: Sergeant +
+Livery: 0
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+High Command 76768 High Command 76775 High Command 76777
+Supervisors / Low Command (Sergeant +) 76769 Supervisors / Low Command (Sergeant +) 80255 Supervisors / Low Command (Sergeant +) 76779
+Patrol Officers (Probie) 76770 Patrol Officers (Constable +) 76774 Patrol Officers 76780 Snow/Rain 76781
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+Cadets 77302 Edits allowed Service stripes
+Glasses Mask: 314
+Badges must correlate to your rank 1 Month = 1 Stripe
+Every edited part has to be realistic SADPS EUP VESTS: 111 (variant 10), 97 + Bags and parachutes 146
+SADPS EUP VESTS: 111 (10), 97
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+DEPARTMENT OF PUBLIC SAFETY - Uniforms
+Patrol Uniforms Long Sleeves Patrol Uniforms Short Sleeves Formals Special Uniforms
+
+SADPS | Responibility & Authority Matrix
+Last Updated: 07/7/2025 By: 1S-02 | Andrew J.
+DPS RESPONSIBILITY & AUTHORITY MATRIX PATROL SUPERVISORS SENIOR SUPERVISORS LOW COMMAND Internal Affairs HIGH COMMAND
+Cadets Probie Constable Constable Senior Constable Corporal Sergeant Staff Sergeant Master Sergeant 2nd Lieutenant 1st Lieutenant Captain Major Handpicked by HC Commander Chief of Staff Assistant Chief Deputy Chief Chief of DPS
+• Patrol Operations
+• Patrol Supervision
+• Patrol Oversight & Management
+• Sergeant Examination Administration
+• Lieutenant Examination Administration
+• Supervisor Discipline
+• Training Assistance & Ridealong Hosting (FTA)
+• Training Hosting (FTO)
+PRIMARY • Training Oversight (SFTO+)
+RESPONSIBILITY • Recruitment Operations (RO)
+• Department Public Relations (Patrolling by YOURSELF)
+• Low Command Oversight
+• Application Review & Processing
+• Promotional Decisions
+• Action Report Review
+• Request
+• Executive Authority Actions
+• DPS General Support Ticket Handling
+• Send Off-Duty Authorization (Probie–Senior Constable)
+• Send Off-Duty Authorization (Corporal)
+• Send Off-Duty Authorization (SGT–MSGT)
+• Disciplinary Strike – 1 (Warning)
+• Disciplinary Strike – 2 (Demotion)
+AUTHORITY • Disciplinary Strike – 3 (Termination)
+• Cadet Termination Authority
+• Field Promotion Authority
+• Reinstatement Authority
+• Training Removal Authority
+Ultimate Cosmic Power
