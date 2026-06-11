@@ -239,17 +239,38 @@ function deterministicAnswer(query, codeMap, natoMap, punishments) {
 // (Render restarts the service on every deploy, so edits to the
 // .txt files still get picked up - they just require a redeploy.)
 // ============================================================
-const DOCS = loadDocs();
-const CODE_MAP = buildCodeMap(DOCS);
-const NATO_MAP = buildNatoMap(DOCS);
-const PUNISHMENTS = buildPunishments(DOCS);
+// ============================================================
+// LIVE REMOTE DOCS - documents that staff edit in Google Docs /
+// Google Sheets. The server re-downloads these on a timer, so
+// edits show up in the bot automatically WITHOUT a GitHub push.
+//
+// Requirements: the Google Doc/Sheet must be shared as
+// "Anyone with the link can view".
+//
+// URL formats:
+//   Google Doc:   https://docs.google.com/document/d/DOC_ID/export?format=txt
+//   Google Sheet: https://docs.google.com/spreadsheets/d/SHEET_ID/export?format=csv&gid=0
+//     (gid is the tab id - it's in the sheet's URL after #gid=)
+//
+// 'file' is a virtual filename - if it matches a real .txt in the
+// repo, the remote version REPLACES it. If it's new, it's added.
+// ============================================================
+const REMOTE_DOCS = [
+  // Example - uncomment and fill in your real doc IDs:
+  // {
+  //   file: 'sadps.txt',
+  //   label: 'San Andreas Department of Public Safety (SADPS / DPS)',
+  //   keywords: ['sadps', 'dps', 'public safety', 'constable'],
+  //   url: 'https://docs.google.com/document/d/YOUR_DOC_ID/export?format=txt'
+  // },
+];
+const REFRESH_MINUTES = 15;
 
 // ============================================================
-// DEPARTMENT ROUTER - if the question clearly mentions one or
-// more departments, send Claude ONLY those docs (plus GSOP and
-// codes, which always apply). ~8-20k tokens instead of ~85k =
-// much faster and cheaper. If no department is detected, fall
-// back to the full cached document set.
+// DEPARTMENT ROUTER keywords - if the question clearly mentions
+// one or more departments, send Claude ONLY those docs (plus
+// GSOP and codes, which always apply). Much faster and cheaper
+// than the full ~85k token doc set.
 // ============================================================
 const DOC_KEYWORDS = {
   'accendere.txt':         ['accendere'],
@@ -281,14 +302,71 @@ const DOC_KEYWORDS = {
 };
 const ALWAYS_INCLUDE = ['gsop.txt', 'codes.txt']; // small, apply to everyone
 
-const DOC_FILES = {}; // file -> individually wrapped document text
-{
-  const files = fs.readdirSync(DOCS_FOLDER).filter(f => f.endsWith('.txt')).sort();
-  for (const file of files) {
-    const content = fs.readFileSync(path.join(DOCS_FOLDER, file), 'utf8');
-    const label = DOC_LABELS[file] || file.replace('.txt', '');
-    DOC_FILES[file] = `\n\n<document department="${label}" file="${file}">\n${content}\n</document>`;
+// merge labels/keywords from REMOTE_DOCS into the maps
+for (const r of REMOTE_DOCS) {
+  if (r.label) DOC_LABELS[r.file] = r.label;
+  if (r.keywords) DOC_KEYWORDS[r.file] = r.keywords;
+}
+
+// ============================================================
+// Knowledge state - rebuilt at startup and whenever a remote
+// doc changes. These are `let` because they get replaced.
+// ============================================================
+let DOC_FILES = {};      // file -> wrapped <document> text
+let DOCS = '';           // all docs combined
+let CODE_MAP = {};
+let NATO_MAP = {};
+let PUNISHMENTS = [];
+let SYSTEM_BLOCKS = [];
+
+const remoteCache = {};  // file -> last successfully fetched raw text
+
+function wrapDoc(file, content) {
+  const label = DOC_LABELS[file] || file.replace('.txt', '');
+  return `\n\n<document department="${label}" file="${file}">\n${content}\n</document>`;
+}
+
+function rebuild() {
+  const newFiles = {};
+  // 1) local .txt files from the repo
+  for (const file of fs.readdirSync(DOCS_FOLDER).filter(f => f.endsWith('.txt')).sort()) {
+    newFiles[file] = wrapDoc(file, fs.readFileSync(path.join(DOCS_FOLDER, file), 'utf8'));
   }
+  // 2) remote docs override/add (only ones that have fetched successfully)
+  for (const r of REMOTE_DOCS) {
+    if (remoteCache[r.file]) newFiles[r.file] = wrapDoc(r.file, remoteCache[r.file]);
+  }
+  DOC_FILES = newFiles;
+  DOCS = Object.keys(newFiles).sort().map(f => newFiles[f]).join('');
+  CODE_MAP = buildCodeMap(DOCS);
+  NATO_MAP = buildNatoMap(DOCS);
+  PUNISHMENTS = buildPunishments(DOCS);
+  SYSTEM_BLOCKS = [
+    { type: 'text', text: INSTRUCTIONS },
+    { type: 'text', text: `Reference text:\n${DOCS}`, cache_control: { type: 'ephemeral' } }
+  ];
+  console.log(`Knowledge rebuilt: ${Object.keys(newFiles).length} docs, ~${Math.round(DOCS.length / 4)} tokens`);
+}
+
+async function refreshRemoteDocs() {
+  let changed = false;
+  for (const r of REMOTE_DOCS) {
+    try {
+      const resp = await fetch(r.url, { redirect: 'follow' });
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const text = (await resp.text()).trim();
+      if (!text) throw new Error('empty response');
+      if (text !== remoteCache[r.file]) {
+        remoteCache[r.file] = text;
+        changed = true;
+        console.log(`Remote doc updated: ${r.file} (${text.length} chars)`);
+      }
+    } catch (err) {
+      // keep the last good copy - never wipe knowledge on a failed fetch
+      console.error(`Remote fetch failed for ${r.file}: ${err.message}`);
+    }
+  }
+  if (changed) rebuild();
 }
 
 function routeDocs(query) {
@@ -304,14 +382,10 @@ function routeDocs(query) {
 
 const INSTRUCTIONS = 'You are an assistant for California Roleplay (CALIRP), a GTA roleplay server. Answer ONLY using the reference documents below. Do not use any real-world knowledge. Do not invent or add anything not written in the reference documents. If the answer is genuinely not in the reference documents, reply exactly: "That is not in our documents." Keep answers short and quote rules and definitions as written.\n\nIMPORTANT: Each document is wrapped in a <document> tag stating which department it belongs to. Many departments have sections with identical names (for example, VEHICLE STRUCTURE exists in RHPD, NCEA, SBO, VO, and Armed Forces). When the user mentions a department (by name or abbreviation like RHPD, SAHP, SBPD, NSB, NCEA, SBO, VO, BSE, SATF, MPD/Metro, SAFR, BB), you MUST answer only from that department\'s document and say which department you are quoting. If the question matches sections in multiple departments and the user did not specify one, list the departments that have that section and ask which one they mean.';
 
-const SYSTEM_BLOCKS = [
-  { type: 'text', text: INSTRUCTIONS },
-  {
-    type: 'text',
-    text: `Reference text:\n${DOCS}`,
-    cache_control: { type: 'ephemeral' } // full doc set, cached
-  }
-];
+// initial build from local files, then start the remote refresh loop
+rebuild();
+refreshRemoteDocs();
+setInterval(refreshRemoteDocs, REFRESH_MINUTES * 60 * 1000);
 
 app.get('/status', (req, res) => {
   res.json({ status: 'Proxy is running', model: MODEL_NAME });
